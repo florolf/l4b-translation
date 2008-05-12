@@ -1,0 +1,77 @@
+Kapitel 1. Klänge, Namen und einige Emotionen
+
+Das Erste, was man tun muss, um eine fremde Sprache zu erlernen, ist, mit deren Klängen vertraut zu werden, und zu lernen, wie man diese schreibt. Das gleiche gilt für Lojban. Glücklicherweise Lojbans Klänge (Phoneme) verhältnismäßig einfach zu erlernen.
+Vokale
+Es gibt sechs Vokale in Lojban.
+
+a
+as in father (not as in hat) 					| Wie in Vater oder Frühstücksei
+
+e
+as in get                             				| Wie in Fett oder nett (zwischen deutschem Ä und E)
+
+i
+as in machine or (Italian) vino (not as in hit) 		| Wie in Indianer
+
+o
+as in bold or more—not as in so (this should be a ‘pure’ sound.)| Wie in Monarch
+
+u
+as in cool (not as in but)					| Wie in Kuh
+
+Dies sind nahezu die gleichen Vokale wie im Italienischen oder Spanischen. Den sechsten Vokal, y, nennt man  schwa. Er wird ausgesprochen wie in Mücke das e - oder das Ä im Laut Ähm. Er ist der Ton, der entsteht, wenn der Mund vollkommen entspannt ist.
+Zwei Vokale zusammen werden als ein Laut ausgesprochen (Zwielaut oder Diphthong). Einige Beispiele sind:
+ai
+as in high 			| Wie in das Frühstücksei oder das Einzelkind
+
+au
+as in how  			| Wie in das Auto oder der Baum
+
+ei
+as in hey   			| Wie in dem umgangssprachlichen Laut: Ey!   (etwa: Ey du da!)
+
+oi
+as in boy   			| Wie in die Leukämie oder das Heu oder das Feuer
+
+ia
+Wie in Ja			| Wie in Ja
+
+ie
+like yeah  			| Wie in dem Jähzorn oder jetzt
+
+iu
+like you    			| Wie in dem Judentum
+
+ua
+as in waah!, or French quoi 	| Wie in XXX
+
+ue
+as in question 			| Wie in XXX
+
+uo
+as in quote 			| Wie in XXX
+
+ui
+like we, or French oui 		| Wie in der Quintenzirkel oder Quintessenz
+
+Doppelte Vokale sind selten. Die einzigen Beispiele sind ii, was ausgesprochen wird wie das englische ye (wie in “Oh come all ye faithful”) oder das Chinese yi; und uu, was wie das englische woo oder wie in Voodo ausgesprochen wird.
+Konsonanten
+Die meisten Konsonanten in Lojban sind wie im Englischen, aber es gibt einige Ausnahmen: 
+g
+always g as in gum, never g as in gem 			| g wie in gut
+c
+sh, as in ship 						| sch wie in schlucken
+j
+as in measure or French bonjour 			| wie in Djinges Kahn
+x
+as in German Bach, Spanish Jose or Arabic Khaled  	| Wie in Bach
+
+(Die englischen Laute ch und j werden als tc und dj geschrieben)
+ADÜ: Das deutsche S wie in Sichel oder Suppe oder Sieg ist in Lojban das Z; das deutsche ß/s wie in Maß oder Fluss oder dass in Lojban das S! Ferner finden wir das deutsche W  wie in Wichtel oder Wanze in Lojban als V wieder. Das V ohne Stimme wie im Vers finden wir im F wieder.
+Lojban verwendet die Buchstaben H, Q und W nicht.
+ 
+Sonderzeichen
+Lojban benötigt keinerlei Zeichensetzung, aber einige Sonderzeichen (die in anderen Sprachen normalerweise für die Zeichensetzung verwendet werden) wirken sich darauf aus, wie Lojban ausgesprochen wird.
+Das einzige dieser Sonderzeichen, welches verpflichtend ist in Lojban, ist das Hochkomma (Apostroph); letztlich wird das Apostroph in Lojban wie ein vollwertiger Buchstabe gehandhabt. Ein Apostroph teilt zwei Vokale und hindert sie damit, zusammen ausgesprochen zu werden (als ein Diphthong). Das Apostroph wird selbst wie ein h ausgesprochen.  Beispielsweise wird ia normalerweise wir Ja ausgesprochen,  i'a aber wie Iha.
+Ein Punkt ist eine kurze Pause, wie Wörter davon abhält ineinander überzugehen. Lojban macht es leichter für zwei Wörter zusammen
+

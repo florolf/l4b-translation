@@ -1,0 +1,39 @@
+Vorwort—lidne prosa
+
+Dieser fünfzehn Lektionen umfassende Einführungskurs für Lojban wurde von Robin Turner und Nick Nicholas verfasst und soll eine freundliche Einleitung in die Struktur der Sprache geben. Robin schrieb Lektion 1-8 und 10-11 im Jahre 1999; Nick überarbeitete die bestehenden Lektionen und verfasste  2001 Lektion 9 und 12-15.
+Das Wissen, das in diesem Kurs behandelt wird, sollte ausreichen, um das meiste Lojban der online Lojban Diskussionsgruppen und Veröffentlichungen der Logical Language Group zu verstehen. Für weiterführende Informationen kontaktieren sie bitte die Logical Language Group:
+
+Bob LeChevalier
+The Logical Language Group, Inc.
+2904 Beau Lane
+Fairfax, VA 22031
+U.S.A.
+(+1 703) 385-0273
+<lojban@lojban.org>
+http://www.lojban.org
+
+Das Dokument What is Lojban?  (online verfügbar unter http://www.lojban.org/publications/level0.html) ist eine allgemeine Einführung in die Sprache.
+Lojban ist wahrscheinlich sehr verschieden verglichen mit den Sprachen, die sie kennen – was das Deutsche mit Sicherheit einschließt. Wenn ein Teil der Grammatik oder Logik ihnen vorerst unergründlich erscheint, zögern sie nicht, weiterzulesen und später zu der Stelle zurückzukommen.  Gleiches gilt für die Übungen. Einige sind nämlich komplizierter als andere (insbesondere die Übersetzungsübungen am Ende jeder Lektion). Wenn sie nicht auf die Lösung zu einer speziellen Frage kommen, lassen sie diese ruhig aus – aber schauen sie sich die Lösung zu der Frage an. Oftmals finden sich dort nützliche Hinweise zur Verwendung der Sprache. Die Antworten zu den Übungen finden sie am Ende jeder Lektion.
+Gelegentlich nutzen wir in unseren Beispielen Klammern um die grammatikalische Struktur von Lojban zu verdeutlichen. Diese Klammern kein offizieller Teil von Lojbans Rechtschreibung, sie werden nur aus Gründen der Verdeutlichung verwandt.
+
+Robin ist Engländer (in der Türkei lebend), und Nick Griechisch-Australisch (in den U.S.A. lebend).
+
+ADÜ: Im Original wird hier auf die Auswirkungen der Herkunft der beiden Autoren auf die Sprache des Buches eingegangen. Dies spielt durch die Übersetzung aber kaum eine Rolle.
+
+Unseren Dank an die Lojbanisten, die diese Lektionen durchgesehen und überarbeitet haben; insbesondere Pierre Abbat, John Clifford, John Cowan, Björn Gohla, Arnt Richard Johansen, John Jorgensen, Nora Tansky LeChevalier, Jorge Llambías, Robin Lee Powell, Adam Raizen, Anthony Roach, Tim Smith, Rob Speer, Brion Vibber. Weiterhin danken wir Robin Lee Powell dafür, uns mit der nötigen Infrastruktur ausgestattet zu haben, Vorabversionen des Kurses veröffentlichen zu können, und Paul Reinerfelt für seine Hilfe die TeX-Version zu erstellen.
+
+ni’o le dei seltcidu cu te ctuca be loi co’a cilre bei fo la lojban. gi’e se pagbu lo pamumei .i le go’i cu se finti la’o gy. Robin Turner gy. joi la’o gy. Nick Nicholas gy. goi la nitcion. gi’e frili jai junri’a fo le stura be le bangu .i la robin. finti le 1moi bi’i 8moi .e le 10moi bi’i 11moi pagbu ca la 1999nan .i la nitcion. jmina fi le pu zasti pagbu gi’e finti le 9moi .e le 12moi bi’i 15moi vau ca la 2001nan. 
+ni’o lei datni poi se cusku le dei te ctuca cu pe’i banzu lenu ka’enri’a le cilre lenu jimpe piso’a loi lojbo poi lakne fa lenu tcidu ke’a vecu’u le jondatnymu’e ke lojbo casnu girzu .a le se prigau be la lojbangirz. .i mu’i tu’a loi tcila pe la lojban. ko te notci fo la lojbangirz. noi se judri zoi gy. 
+Bob LeChevalier
+The Logical Language Group, Inc.
+2904 Beau Lane
+Fairfax, VA 22031
+U.S.A.
+(+1 703) 385-0273
+<lojban@lojban.org>
+http://www.lojban.org 
+gy. .i le seltcidu po’u la’e lu la lojban mo. li’u zi’enoi ka’e se cpacu fi le jondatnymu’e tu’i zoi gy. http://www.lojban.org/publications/level0.html gy. cu nalsteci cfari bo skicu le bangu .i ba’a ka’e cpacu le go’i tu’i le jaitu’i cpacu be le dei seltcidu
+ni’o la lojban. cu la’a mutce frica le bangu poi slabu do zi’epoi ju’o se cmima le glico .i ko fau lo da’i nu lo nandu pe le gerna .a le logji cu simlu loka to’e ke frili se jimpe co’a lenu tcidu cu zukte lenu rivbi tu’a le nandu gi’e krefu troci tu’a ri baku .i pa’abo su’o cipra jufra cu zmadu su’o cipra jufra leni tcica nandu .i go’i fa ra’u le nunfanva cipra jufra pe le fanmo be ro te ctuca pagbu .i za’o lenu do na pu’i jdice le danfu be lo preti kei ko co’u troci gi’e ku’i catlu le danfu be le cipra jufra .imu’ibo le danfu so’iroi jarco lo plixau se stidi pe lenu pilno la lojban. .i le danfu be le cipra jufra cu diklo le fanmo be ro te ctuca pagbu
+ni’o mi so’iroi pilno lo girzu sinxa lerfu mu’i lenu ciksi le gerna stura be la lojban. be’o pe le mi mupli seltcidu .i le girzu sinxa lerfu genai pagbu le se zanru ke lojbo ke nunciska ciste gi se pilno fi le nu po’o ctuca
+ni’o la robin. cu glico gi’e xabju le gugdrturkie .ije la nitcion. cu xelso sralo gi’e xabju le merko .i seki’ubo ko na se spaji tu’a loi glibau selpli pe le dei seltcidu zi’epoi na slabu do .i mi ra’u to’e xenru lenu pilno le glico se jitro gugde bo girzu ke valsi lerfu se cuxna ciste
+ni’o mi ckire le lojbo poi cipygau fi le kamdrani le dei te ctuca zi’eno’u la. pier.abat. joi la biorn.golys. joi la djan.iorgensen. joi. la .arnt.rikard.iuxansen. goi la tsali ge’u joi la xorxes.jambi,as. joi la djan.kau,n. joi la djan.klifyrd. goi la pycyn. ge’u joi la noras.tanskis.lecevaLIER. joi la rabin.lis.pau,el. joi la .adam.reizen. joi la .antonis.routc. joi la tim.smit. joi la rab.spir. joi la braiyn.viber. .i ckire ji’a la rabin.lis.pau,el. ce’e lenu sabji le jicmu be lenu gubgau le ve ctuca ca’o lenu finti pe’eje la paul.rainerfelt. ce’e lenu sidju lenu cupra le seltcidu peta’i la tex.
