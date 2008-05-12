@@ -1,0 +1,38 @@
+Hier kommen die Arbeitszuteilungen rein.
+Bitte bevorzugt die IRC-Nicks verwenden, der Einheitlichkeit halber
+
+Für die folgende Tabelle gilt:
+Aufgabe: das Kapitel oder eine andere Aufgabe
+	cN	Kapitel N
+	dedrev	Dedicated Review
+
+Status:
+	     :	nichts geplant/ niemand verantwortlich bisher
+	todo :	noch nicht begonnen
+	inpr :	"in progress", begonnen aber nich fertig
+	init :	intial-version fertig, muss noch überarbeitet werden
+	rev1 :	Qualität der Überarbeitung, vorerst nicht nähr definiert
+	rev2 :	...
+	re...
+
+
+Aufgabe	Status		Nick des Bearbeiters:
+
+dedrev	todo		snarmirgun
+
+c0	init		n_amor
+c1	inpr		xalkonen
+c2	todo		xalkonen
+c3	todo		n_amor
+c4	todo		n_amor
+c5	todo		timonator
+c6	todo		timonator
+c7	todo		florolf
+c8	todo		florolf
+c9	
+c10	
+c11	
+c12	
+c13	
+c14	
+c15	
