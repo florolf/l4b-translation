@@ -1,3 +1,8 @@
+//////
+sachen wie "die `cu`s .." sind broken, da das ` nicht erkannt wird
+//////
+
+
 Persönliches: Pro-sumti und mehr Abstraktoren
 ---------------------------------------------
 
@@ -9,9 +14,9 @@ eine Geschichte erzählen oder mehrere Sätze zusammenfügen will. (wie Sie in d
 Betrachten Sie folgendes Beispiel:
 
 *********************************************************************
-la suzyn. klama le barja .i la suzyn. ze'a pinxe loi vanju
+`la suzyn. klama le barja .i la suzyn. ze'a pinxe loi vanju
 .i la suzyn. zgana lo nanmu .i le nanmu cu melbi .i le
-nanmu cu zgana la suzyn.
+nanmu cu zgana la suzyn.`
 
 Susan geht in die Bar. Susan trinkt für eine Weile Wein.
 Susan bemerkt einen Mann. Der Mann ist schön. Der Mann bemerkt Susan.
@@ -21,12 +26,12 @@ Es ist ziemlich anstrengend, 'Susan' und 'Der Mann' zu wiederholen. Im Deutschen
 In diesem Fall würde das noch gut funktionieren, da nur eine männliche und nur eine weibliche Person auftauchen. Dennoch könnte es verwirrend werden,
 wenn noch mehr Personen mitspielen würden. (In Sprachen wie Türkisch oder dem gesprochenen Chinesisch ist dies noch viel verwirrender, da diese nur ein
 Pronomen für 'Er', 'Sie' und 'Es' haben)
-Lojban hingegen hat 'pro-sumti', die Pronomen ähnlich sind, zumindest ein wenig.
+Lojban hingegen hat 'pro-`sumti`', die Pronomen ähnlich sind, zumindest ein wenig.
 
-Wir sind sogar schon einigen pro-sumti begegnet: `mi`, `do` und der `ti`/`ta`/`tu`-Gruppe. Trotzdem haben wir noch kein 'Er/Sie/Es', diese sind etwas komplizierter.
+Wir sind sogar schon einigen pro-`sumti` begegnet: `mi`, `do` und der `ti`/`ta`/`tu`-Gruppe. Trotzdem haben wir noch kein 'Er/Sie/Es', diese sind etwas komplizierter.
 Ein Weg hiermit umzugehen ist die Gruppe von cmavo die auf etwas, das gerade gesagt wurde, zurückverweisen. Eines davon kennen wir bereits: `go'i`.
 So wie `go'i` selbst das vorgehende `bridi` wiederholt, wiederholt 'le' `go'i` das erste `sumti` des vorherigen `bridi`. (Es verhält sich in dieser Hinsicht
-nicht anders als jedes andere `selbri` mit einem Artikel davor: `le + selbri` verweist auf das x_1 dieses `selbri`.)
+nicht anders als jedes andere `selbri` mit einem Artikel davor: `le + selbri` verweist auf das x~1~ dieses `selbri`.)
 Deshalb können wir die ersten drei Sätze so umschreiben:
 
 *************************************************************************************
@@ -77,3 +82,200 @@ la suzyn. pinxe le ri vanju
 **************
 verweist `ri` natürlich auf `la suzyn.` und nicht `le vanju`
 ================================================================
+
+Ein anderes pro-`sumti` ist `da`, es bedeutet "jemand/etwas". Vielleicht erinnern sie sich an `zo'e`, das auch "jemand/etwas" bedeutet, aber bei
+`zo'e` ist das "etwas" unwichtig -- es ist nur ein Weg `sumti`-Plätze zu füllen. `da` hingegen ist wichtig: Es führt etwas oder jemanden über den wir
+direkt sprechen ein.
+
+[NOTE]
+.Hinweis an Logiker
+`da` ist dem Existenzquantor ähnlich, es bedeutet soviel wie: "Es existiert ein x, so dass dieses x..."
+
+Um zu unserer Geschichte zurückzukommen könnten wir damit anfangen, zu sagen `da klama le barja` -- "Jemand kommt in die Bar."
+Im Gegensatz zu den anderen pro-`sumti` die wir bisher betrachtet haben, verweist `da` nicht zwingend auf ein `sumti` das wir bereits
+gesehen haben zurück. Es 'verweist' jedoch auf auf das selbe Ding wie jedes andere `da` in allen Sätzen, die mit diesem durch logische Verbindungen
+verbunden sind; informell auch auf `da` s im selben Paragraphen. (Wir haben uns noch nicht mit logischen Verbindungen und Paragraphen beschäftigt, aber
+behalten sie diese Tatsache für die Zukunft im Hinterkopf.)
+Wenn ich also `da nanmu .i da klama le barja` sage, können sie in der Regel davon ausgehen, dass ich mich in beiden Sätzen auf den selben Mann beziehe.
+
+Da sie mit der Prädikatenlogik zu tun haben werden `da` und seine Gefährten `de` und `di` oft dazu verwendet 'über' Sprache zu reden -- Sie werden sie
+beispielsweise oft auf der Lojban Mailingliste sehen. Übrigens: In dieser Reihe gibt es kein `do` und `du`, da diese bereits anderweitig belegt sind:
+"du" und "is das Selbe wie".
+
+Übungen 1
+~~~~~~~~~
+Die beiden hervorgehobenen `sumti` in jedem der folgenden Sätze verweisen auf den selben Gegenstand oder die selbe Person. Überprüfen sie in jedem,
+ob die pro-`sumti`, die sie gelernt haben (`lego'i`, `ri`, `ra`) das zweite hervorgehobene `sumti` ersetzen können.
+
+. .i 'la suzyn.' nelci loi vanju .i 'la suzyn.' na nelci loi birje
+/////
+lo vs. le im Orginal
+/////
+. .i la suzyn. viska 'lo nanmu' .i 'le nanmu' cu dotco
+. .i 'la suzyn.' nelci lenu 'la suzyn.' klama le barja
+. .i 'la suzyn.' nelci le 'la suzyn.' pendo
+. .i lenu 'la suzyn.' badri cu nandu .i 'la suzyn.' gleki
+. .i 'lenu la suzyn. badri' zu nandu .i 'lenu la suzyn. badri' na se zgana
+
+Pro-`sumti` zuweisen
+~~~~~~~~~~~~~~~~~~~~
+Wenn wir eine Geschichte erzählen ändert sich die Bedeutung von 'Sie' dauernd. In einem Moment bedeutet es "Susan", aber wenn Susans Freundin Jyoti in die Bar kommt,
+könnte 'Sie' auch anfangen "Jyoti" zu bedeuten. Auf Lojban können wir weiterhin `le go'i`, `ri` und so weiter benutzen, aber es gibt einen einfacheren Weg, mit
+einer großen Menge an Rollen umzugehen.
+
+Was wir tun können ist pro-`sumti` zuzuweisen, wenn wir sie brauchen, und zwar mit dem `cmavo 'goi'` (dieses funktioniert ähnlich wie das lateinische Wort
+'sive' oder das Deutsche 'auch bekannt als').
+Die `sumti` die mit `goi` zugewiesen werden können nennt man KOhA; sie bestehen aus `ko'a`, `ko'e`, `ko'i`, ... und so weiter.
+
+//////
+Ich kann keine Anwaltssprache, geht das vielleicht etwas runder?
+//////
+[NOTE]
+.Hinweis an Anwälte (und möglicherweise frustrierte nicht-Anwälte)
+==================================================================
+Das Gegenstück zu `goi` in Gesetzestexten o.Ä. ist "Im folgenden bezeichnet als"
+und `ko'a` entspricht dem auf diese Floskel folgendem.
+Lojban wurde bereits als perfekte Sprache für Gesetze, in denen Genauigkeit äußerst
+wichtig ist, vorgeschlagen. Es wuerde es auch nicht-Anwälten ermöglichen, solche
+Texte zu verstehen, was schon fast an ein Wunder grenzt.
+==================================================================
+
+OK, lassen Sie uns zu Susans Geschichte zurückkommen. Wir fangen an indem wir sagen:
+**********************
+la suzyn. `goi ko'a` klama le barja
+**********************
+
+Dies bedeutet, dass wir von nun an jedes mal, wenn wir `ko'a` benutzen, "Susan" meinen. Den Mann, den sie sieht, können wir dann mit `ko'e` bezeichnen:
+////
+Kaputte formatierung
+////
+**********************
+.i ko'a zgana lo nanmu goi ko'e
+**********************
+
+Jetzt verweist `ko'e` immer auf genau diesen Mann. Die gesamte Geschichte lautet nun also:
+******************************
+la suzyn. goi ko'a klama le barja .i ko'a ze'a pinxe loi vanju .i ko'a zgana lo nanmu goi ko'e
+.i ko'e melbi .i caku ko'e zgana ko'a
+******************************
+(Beachten Sie auch, dass die `cu`s jetzt überflüssig sind: Bei `ko'a` brauchen wir diese (wie bei `mi`) nicht, da sie sich nicht mit einem anderen `selbri`
+zu einem neuen `selbri` verbinden können).
+
+`ko'e` zu `lo nanmu` zuzuweisen ist sogar geschickter als den nächsten Satz mit `le nanmu` zu beginnen. Das kommt daher, dass `le nanmu` nur "etwas, an das ich denke
+und ´Mann´ nenne" bedeutet, was nicht genau das selbe wie "der Mann" ist (es könnte zumindest theoretisch etwas vollkommen anderes sein).
+Manche Lojbanisten würden sogar sagen, dass `le` auf diese Weise zu benutzen ein wenig `maldotco` ist. (Oder zumindest malrarbau "verdammte natürliche Sprachen":
+Sprachen haben bestimmte Artikel, das `le` in Lojban ist jedoch *keiner*.)
+
+[TIP]
+======================================
+Wenn Sie `ko'a/e/i/o/u` mit `ri/ra/ru` zusammen benutzen, zählen Sie `ko'a`-artige pro-`sumti` *nicht* mit, wenn Sie `sumti` abzählen.
+Beispiel:
+
+**************************************
+la suzyn. rinsa ko'e .i ri cisma
+**************************************
+
+bedeutet nicht, dass `ko'e` (in diesem Fall "der Mann") lächelt, sondern, dass 'Susan' lächelt.
+Wieso? Es wäre sinnlos, wenn ein Ersetzungswort wie `ri` ein anderes Ersetzungswort wie `ko'e` ersetzen würde.
+Hätten Sie gewollt, dass das x~1~ von `cisma` `ko'e` ist, hätten sie einfach `.i ko'e cisma` und nicht `.i ri cisma` gesagt.
+Es ist letztenendes einfacher, `ri/ra/ru` für wichtigere Aufgaben zurückzuhalten.
+======================================
+
+Lassen Sie uns damit fortfahren, Susans Freundin Jyoti (sollten Sie sich wundern, woher Ich all diese Namen nehme: Jyoti ist eine alte, Gujarati sprechende Freundin von mir)
+vorzustellen:
+****************************************
+`la djiotis. goi ko'i mo'ine'i klama .i ko'i rinsa ko'e`
+
+Jyoti (im folgenden #3), kommt hinein. #3 begrüßt #2. +
+Jytoi kommt rein und begrüßt den Mann.
+****************************************
+`mo'ine'i` ist eine weitere räumliche "Zeit". `mo'i` zeigt eine Bewegung an und `ne'i` bedeutet "innerhalb" (dies ist von dem `gismu` "`nenri`" abgeleitet).
+//////
+Ist "hinein" wirklich eine Präposition?
+Ist "into" ueberhaupt eine?
+//////
+`mo'ine'i` entspricht also der deutschen Präposition "hinein" (während `ne'i` selbst 'in' entspricht). In der Grammatik von Lojban entspricht `mo'ine'i` wenn
+es alleine steht `mo'ine'i ku`: Es ist ein `sumti tcita` wobei das `sumti` ausgelassen wurde. (Erinnern Sie sich an `caku`, hier passiert das Gleiche.
+Genau wie `baku` "danach" (im Bezug auf "hier-und-jetzt") bedeutet, heißt `mo'ine'i [ku]` etwas in der Art von "in hinein".)
+
+`mo'i` ist äußerst nützlich, da es ihnen ermöglicht, ziwschen Position und Bewegung zu unterscheiden. 
+
+[NOTE]
+.Anmerkung des Übersetzers
+========================================
+Da das folgende Beispiel im Deutschen nicht funktionieren würde, wird hier
+die englische Variante wiedergegeben. Es soll nur die Wichtigkeit der Unterscheidung
+zwischen Ort und Bewegung verdeutlichen.
+========================================
+
+Der Satz "I ran behind the bar" (Deutsch: Ich rannte hinter der/die Bar) ist mehrdeutig: Renne ich hinter der Bar herum oder Renne ich hinter sie?
+In Lojban ist dies eindeutig: `mi bajra ti'a le barja` wäre die Übersetzung der ersten Interpretation, `mi bajra 'mo'i' ti'a le barja` die der zweiten.
+Im oberen Beispiel würde `ne'i klama` nicht bedeuten, dass Jyoti in die Bar hineinkommt, sondern dass sie innerhalb der Bar von einem Ort zum nächsten geht.
+Einem englischen Muttersprachler fällt diese Mehrdeutigkeit möglicherweise kaum auf, aber Sprecher anderer Sprachen, die in dieser Hinsicht genauer sind, würden
+es sehr ungenau finden. (Das Türkische hat beispielsweise mindestens drei Worte um "hier" zu übersetzen).
+
+Vokabeln
+~~~~~~~~
+//////////
+Wollen wir hier die `dotco gi'uste` benutzen?
+//////////
+
+
+Übungen 2
+~~~~~~~~~
+Übersetzen Sie die folgenden Sätze. Gehen sie davon aus, dass sich die Werte von `ko'a/e/i` nicht geändert haben (also ist `ko'a` Susan und so weiter).
+.  .i ko'a ca rinsa ko'i
+.  .i ko'a .e ko'i xanka cmila
+.  .i caku le go'i cu catlu ko'e
+.  .i ko'e cadzu mo'i zu'a ko'i
+.  .i ko'e djica lenu djuno fi le ko'a cmene
+
+Akronyme
+~~~~~~~~
+Es gibt genug KOhA `sumti` um recht weit zu kommen. Wenn Sie nach `ko'u` noch mehr brauchen, können Sie mit `fo'a`, `fo'e` .. `fo'u` weitermachen.
+Hierbei gibt es jedoch zwei Probleme: Sie müssen sich (a) merken, welches `sumti` zu welchem KOhA-Wort zugewiesen wurde und (b) daran denken, es
+überhaupt zuzuweisen.
+Dieser Ansatz erscheint manchen möglicherweise zu mechanisch um "nebenher" zu funktionieren. Insbesondere fehlen `ko'a` und Co. die Hilfestellungen natürlicher
+Sprachen wie Geschlecht und Anzahl, um sich das Merken zu erleichtern.
+Deshalb gibt es noch einen weitern Ansatz, auf `sumti` zu verweisen, der noch aus der Zeit von Loglan stammt. (Ja, Lojban hat eine Vorgeschichte, aber wir wollen
+hier nicht darauf eingehen.) Dieser Ansatz nutzt Akronyme. Kurz gesagt: Wenn Sie in Lojban einem Buchstaben begegnen, der als `sumti` verwendet wird, verweist dieser auf
+das letzte `sumti` dessen `selbri` mit diesem Buchstaben anfängt:
+
+****************************************
+`la suzyn. cusku lu coi li'u lo nanmu .i ny. cisma`
+Susan sagt "Hallo" zu einem Mann. Der Mann lächelt.
+****************************************
+
+`ny.` steht hier für `nanmu`. Hier muss `ny.` nicht explizit über `goi` zugewiesen werden, man kann es aber trotzdem tun. Eine solche explizite Zuweisung hat dann auch ein
+höheres Gewicht als die eben beschriebene implizite. ("Ein Lojbanist, nennen wir ihn N, mag keine KOhA `cmavo`...")
+Manche Lojbanisten mögen auch diesen Ansatz nicht, da er auch noch zu mechanisch scheint. Die Zeit wird zeigen, welcher Ansatz sich durchsetzt.
+
+Direkte Zitate
+~~~~~~~~~~~~~~
+Möglicherweise sind ihnen im letzten Beispiel zwei neue Worte aufgefallen. `lu` und `li'u` sind wie "Zitat Anfang" und "Zitat Ende" -- Sie machen aus etwas Gesagtem ein `sumti`.
+`li'u` ist einer der wenigen Terminatoren die man fast nie weglassen kann, da dies alle darauffolgenden Worte mit in das Zitat einschließen würde.
+Man kann Zitate auch verschachteln:
+
+****************************************
+`la ranjit. pu cusku lu la djiotis. pu cusku lu coi li'u mi li'u`
+Ranjeet sagte: "Jyoti sagte ´Hallo´ zu mir."
+****************************************
+
+Dies ist ähnlich wie:
+
+****************************************
+`la ranjit. pu cusku lu la djiotis. pu rinsa mi li'u`
+Ranjeet sagte: "Jyoti hat mich gegrüßt."
+****************************************
+
+Als eine logische Sprache unterscheidet Lojban sehr genau zwischen den Worten für Dinge und den Dingen selbst. Sie können deshalb nicht auf dem selben Weg über
+die 'Aussage' `le munje` ("das Universum") reden, wie über das Universum selbst. Um ein albernes Beispiel zu geben: Die Aussage `le munje` ist klein, das Universum
+selbst jedoch nicht. Um zwischen diesen Beiden auf Lojban zu unterscheiden müssen Sie Zitate nutzen:
+
+****************************************
+`lu le munje li'u cu cmalu`
+"Das Universum" ist klein. +
+ +
+`le munje na cmalu`
+Das Universum ist nicht klein
+****************************************
