@@ -1,0 +1,79 @@
+Persönliches: Pro-sumti und mehr Abstraktoren
+---------------------------------------------
+
+Zurückverweisen
+~~~~~~~~~~~~~~~
+
+Bisher haben wir Leute immer über ihren Namen bezeichnet. Das kann auf die Dauer äußerst langweilig werden wenn man beispielsweise
+eine Geschichte erzählen oder mehrere Sätze zusammenfügen will. (wie Sie in den vorherigen Übungen gesehen haben)
+Betrachten Sie folgendes Beispiel:
+
+*********************************************************************
+la suzyn. klama le barja .i la suzyn. ze'a pinxe loi vanju
+.i la suzyn. zgana lo nanmu .i le nanmu cu melbi .i le
+nanmu cu zgana la suzyn.
+
+Susan geht in die Bar. Susan trinkt für eine Weile Wein.
+Susan bemerkt einen Mann. Der Mann ist schön. Der Mann bemerkt Susan.
+*********************************************************************
+
+Es ist ziemlich anstrengend, 'Susan' und 'Der Mann' zu wiederholen. Im Deutschen wird dieses Problem durch Pronomen wie 'Sie' oder 'Er' vermieden.
+In diesem Fall würde das noch gut funktionieren, da nur eine männliche und nur eine weibliche Person auftauchen. Dennoch könnte es verwirrend werden,
+wenn noch mehr Personen mitspielen würden. (In Sprachen wie Türkisch oder dem gesprochenen Chinesisch ist dies noch viel verwirrender, da diese nur ein
+Pronomen für 'Er', 'Sie' und 'Es' haben)
+Lojban hingegen hat 'pro-sumti', die Pronomen ähnlich sind, zumindest ein wenig.
+
+Wir sind sogar schon einigen pro-sumti begegnet: `mi`, `do` und der `ti`/`ta`/`tu`-Gruppe. Trotzdem haben wir noch kein 'Er/Sie/Es', diese sind etwas komplizierter.
+Ein Weg hiermit umzugehen ist die Gruppe von cmavo die auf etwas, das gerade gesagt wurde, zurückverweisen. Eines davon kennen wir bereits: `go'i`.
+So wie `go'i` selbst das vorgehende `bridi` wiederholt, wiederholt 'le' `go'i` das erste `sumti` des vorherigen `bridi`. (Es verhält sich in dieser Hinsicht
+nicht anders als jedes andere `selbri` mit einem Artikel davor: `le + selbri` verweist auf das x_1 dieses `selbri`.)
+Deshalb können wir die ersten drei Sätze so umschreiben:
+
+*************************************************************************************
+la suzyn. klama le barja .i le go'i ze'a pinxe loi vanju .i le go'i cu zgana lo nanmu
+*************************************************************************************
+
+Leider funktioniert diese Vorgehensweise danach nicht mehr, da `nanmu` nicht im ersten, sondern im zweiten Platz des vorherigen `bridi` steht.
+Deutsch ist hier nicht so genau, 'Er' bedeutet nur "eine männliche Person von der bereits die Rede war". Das funktioniert hier noch recht gut,
+aber wie steht es mit:
+
+*****************************
+Bill sah Rick. Er schlug ihn.
+*****************************
+
+Schlug Bill Rick oder schlug Rick Bill? Wir wissen es nicht. Lojban hat aber noch ein paar Asse im Ärmel und wie Sie vielleicht bereits vermutet haben
+hilft uns hier `le se go'i`. Aber die `sumti` im vorherigen `bridi` abzuzählen ist keine wirklich gute Lösung.
+
+Um auf den Mann, den Susan gesehen hat, zurückzukommen: Wir können auf ihn mit `ri` verweisen, was soviel bedeutet wie "das letzte `sumti`".
+Wir können also sagen:
+
+///////////
+hier macht das .i die Formatierung kaputt
+///////////
+
+****************************************
+.i le go'i cu zgana lo nanmu .i ri melbi
+****************************************
+
+`ri` ist ein Element aus der Reihe `ri/ra/ru` mit den Bedeutungen: "das letzte/nahe gelegene/entfernte `sumti`".
+So weit ich es beobachtet habe sind `ra` und `ru` in Lojbanistan nicht so populär. (Vermutlich aus ideologischen Gründen: Sie sind absichtlich so vage wie
+ihre Gegenstücke aus natürlichen Sprachen und werden deshalb als "un-lojbanisch" angesehen.)
+`ri` hingegen wird sehr häufig verwendet, da es oft vorkommt, dass das letzte `sumti` eines Satzes das erste des nächsten wird.
+
+[TIP]
+================================================================
+`sumti` werden von ihrem Anfang an gezählt. In einem Satz wie
+**************
+lenu lo nanmu cu dotco kei cu djuno ri
+**************
+verweist `ri` auf `lo nanmu` und nicht `lenu lo nanmu cu dotco`: Der Anfang von `lo nanmu` ist näher am `ri` als der Anfang von `lenu lo nanmu cu dotco`
+================================================================
+
+[TIP]
+================================================================
+`ri` kann nicht auf ein `sumti` verweisen dessen Teil es gerade ist. In dem Satz
+**************
+la suzyn. pinxe le ri vanju
+**************
+verweist `ri` natürlich auf `la suzyn.` und nicht `le vanju`
+================================================================
