@@ -107,15 +107,15 @@ beispielsweise oft auf der Lojban Mailingliste sehen. Übrigens: In dieser Reihe
 Die beiden hervorgehobenen `sumti` in jedem der folgenden Sätze verweisen auf den selben Gegenstand oder die selbe Person. Überprüfen sie in jedem,
 ob die pro-`sumti`, die sie gelernt haben (`lego'i`, `ri`, `ra`) das zweite hervorgehobene `sumti` ersetzen können.
 
-. .i 'la suzyn.' nelci loi vanju .i 'la suzyn.' na nelci loi birje
+. `.i 'la suzyn.' nelci loi vanju .i 'la suzyn.' na nelci loi birje`
 /////
 lo vs. le im Orginal
 /////
-. .i la suzyn. viska 'lo nanmu' .i 'le nanmu' cu dotco
-. .i 'la suzyn.' nelci lenu 'la suzyn.' klama le barja
-. .i 'la suzyn.' nelci le 'la suzyn.' pendo
-. .i lenu 'la suzyn.' badri cu nandu .i 'la suzyn.' gleki
-. .i 'lenu la suzyn. badri' zu nandu .i 'lenu la suzyn. badri' na se zgana
+. `.i la suzyn. viska 'lo nanmu' .i 'le nanmu' cu dotco`
+. `.i 'la suzyn.' nelci lenu 'la suzyn.' klama le barja`
+. `.i 'la suzyn.' nelci le 'la suzyn.' pendo`
+. `.i lenu 'la suzyn.' badri cu nandu .i 'la suzyn.' gleki`
+. `.i 'lenu la suzyn. badri' cu nandu .i 'lenu la suzyn. badri' na se zgana`
 
 Pro-`sumti` zuweisen
 ~~~~~~~~~~~~~~~~~~~~
@@ -224,11 +224,11 @@ Wollen wir hier die `dotco gi'uste` benutzen?
 Übungen 2
 ~~~~~~~~~
 Übersetzen Sie die folgenden Sätze. Gehen sie davon aus, dass sich die Werte von `ko'a/e/i` nicht geändert haben (also ist `ko'a` Susan und so weiter).
-.  .i ko'a ca rinsa ko'i
-.  .i ko'a .e ko'i xanka cmila
-.  .i caku le go'i cu catlu ko'e
-.  .i ko'e cadzu mo'i zu'a ko'i
-.  .i ko'e djica lenu djuno fi le ko'a cmene
+.  `.i ko'a ca rinsa ko'i`
+.  `.i ko'a .e ko'i xanka cmila`
+.  `.i caku le go'i cu catlu ko'e`
+.  `.i ko'e cadzu mo'i zu'a ko'i`
+.  `.i ko'e djica lenu djuno fi le ko'a cmene`
 
 Akronyme
 ~~~~~~~~
@@ -279,3 +279,90 @@ selbst jedoch nicht. Um zwischen diesen Beiden auf Lojban zu unterscheiden müss
 `le munje na cmalu`
 Das Universum ist nicht klein
 ****************************************
+
+[TIP]
+========================================
+`lu` ... `li'u` sind dazu gedacht, grammatikalisch korrektes Lojban zu zitieren -- bestenfalls ganze Sätze und nicht einzelne Worte.
+Für kleinere Stücke zu zitieren die für sich genommen nicht unbedingt sinnvoll sind sind `lo'u`...`le'u`, die "Fehlerzitate" gedacht.
+So ist `ro le mi pendo cu klama` als Satz sinnvoll und kann in `lu`...`li'u` eingeschlossen werden. Möchten Sie jedoch `ro le mi` Zitieren, gibt das
+für sich genommen relativ wenig Sinn, deshalb würden Sie `lo'u ro le mi le'u` sagen.
+========================================
+
+Vokabeln
+~~~~~~~~
+fengu
+
+Übungen 3
+~~~~~~~~~
+Übersetzen Sie die folgenden Sätze. Gehen Sie wie in der letzten Übung davon aus, dass `ko'a/e/i` sich nicht geändert haben.
+
+////////////////////////////////////////
+Der Teil in Klammern erscheint mir irgendwie unlogisch bzw. ueberfluessig
+////////////////////////////////////////
+
+[NOTE]
+========================================
+`doi` wird verwendet um anzuzeigen, zu wem man spricht.
+========================================
+
+. `.i ko'e cusku lu doi djiotis. ma cmene le do pendo li'u`
+. `.i ko'i cusku lu lu suzyn. li'u li'u`
+. `.i ko'e cusku lu .ui ro lo do pendo cu pendo mo li'u`
+. `.i ko'i fengu cusku lu djica ma li'u ko'i`
+
+Indirekte Zitate
+~~~~~~~~~~~~~~~~
+Eine Aussage wie "Ranjeet sagte: ´Jyoti sagte "Hallo" zu mir.´" kann auch anders ausgedrückt werden:
+
+****************************************
+`la ranjit. pu cusku le sedu'u la djiotis. pu rinsa ry.`
+Ranjeet vergangen-sagt die-aussage Hyoti vergangen-grüsst R +
+Ranjeet sagte dass Jyoti ihn gegrüßt hat.
+****************************************
+
+Was ist dieses `sedu'u`? Um das zu erklären, müssen wir mit `du'u` anfangen.
+`du'u` ist ein wenig verzwickt, aber sehr nützlich und bedeutet, logisch gesprochen, "die Aussage". Einfach ausgedrückt bedeutet das etwas wie "Die Idee, dass 'x' wahr ist".
+Nun gut, einfach war das nicht unbedingt. Am nähesten im Deutschen kommt dem das Wort 'dass'. Hier also ein Beispiel mit `du'u` selbst:
+
+****************************************
+`la suzyn. na djuno le du'u la jan. cinynei ra`
+Susan weiß nicht, dass Zhang sie begehrt. ("sexuell-mag")
+****************************************
+
+`du'u` gehört zu dem `selma'o` (= `se cmavo`) NU, genau wie `nu` selbst. Das bedeutet, dass man es, zumindest vom Grammatikalischen her, überall verwenden kann, wo man
+auch `nu` verwenden kann. Tatsächlich sind `du'u` und `nu` die beiden am häufigsten verwendeten *Abstraktoren* in Lojban. Lojban kann zwischen verschiedenen Abstraktoren
+sehr genau unterscheiden, aber die Hauptunterscheidung besteht zwischen Dingen, die passieren können (*Ereignissen*), für die man `nu` verwendet, und Dingen, die man wissen
+kann (*Fakten*), für die man `du'u` verwendet. Die Definition eines `gismu` gibt in der Regel an, welche Art von Abstraktor für das Wort üblich ist.
+
+[NOTE]
+========================================
+Übrigens: In den meisten Fällen, in denen `nu` in den letzten Übungen in Kapitel 5 und 6 verwendet wurde, hätte eigentlich man eigentlich `du'u` nutzen sollen.
+Entschuldigen Sie diese übertriebene Vereinfachung -- und verwenden Sie sie von jetzt an nicht mehr, wenn sie selbst Lojban sprechen!
+========================================
+
+OK, aber wieso wird das, was Ranjeet sagte mit `sedu'u` anstatt mit `du'u` eingeleitet? Nun ja, eigentlich kommt dies daher, dass Lojban sehr auf Details achtet.
+Was Sie wissen oder woran Sie sich erinnern ist ein Fakt: Etwas innerhalb ihres Kopfes. Was Sie jedoch 'sagen' ist nicht innerhalb ihres Kopfes, sondern es sind Geräusche, die
+'abbilden' was innerhalb ihres Kopfes ist. Diese Unterscheidung ist sehr subtil, aber es ist eine von denen, auf die Lojban besteht. (Es ist ja eine logische Sprache.)
+Wenn Sie also auf etwas verweisen möchten, was Sie denken, benutzen Sie `sedu'u` und nicht `du'u`.
+
+[NOTE]
+========================================
+Das `se` in 'sedu'u` ist genau das, woran Sie denken.
+Dazu kommen wir aber erst im nächsten Kapitel.
+========================================
+
+[NOTE]
+========================================
+Ein Fachausdruck, dem Sie in Gesprächen über Lojban möglicherweise begegnen werden ist *Reifikation*. Lassen Sie sich nicht abschrecken:
+Dieser Fachausdruck hilft tatsächlich! Refikation ist Latein und bedeutet "etwas in ein Objekt umwandeln". Das ist das, was `du'u` und `sedu'u` tun.
+Diese Worte nehmen etwas aus der Welt und verwandeln es in ein einzelnes Objekt, ein Ding ueber das man nachdenken oder es in der Logik verwenden kann.
+(Oder es, im Falle von `sedu'u`, sagen kann.)
+========================================
+
+Lojban hat also verscheidene Worte für 'dass...', abhängig davon, über was man spricht.
+
+- Wenn man etwas meint, das passiert ist, benutzt man `nu`. (Ereignisse lassen sich noch feiner aufteilen, aber vorerst wollen wir die Sache
+nicht komplizierter machen als nötig)
+- Wenn man etwas meint, das man denkt, benutzt man `du'u`.
+- Wenn man etwas meint, das man sagt, benutzt man `sedu'u`.
+- *Außer* es ist ein wörtliches Zitat, dann verwendet man `lu`...`li'u`.
