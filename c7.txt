@@ -243,6 +243,7 @@ das letzte `sumti` dessen `selbri` mit diesem Buchstaben anfängt:
 
 ****************************************
 `la suzyn. cusku lu coi li'u lo nanmu .i ny. cisma`
+
 Susan sagt "Hallo" zu einem Mann. Der Mann lächelt.
 ****************************************
 
@@ -258,6 +259,7 @@ Man kann Zitate auch verschachteln:
 
 ****************************************
 `la ranjit. pu cusku lu la djiotis. pu cusku lu coi li'u mi li'u`
+
 Ranjeet sagte: "Jyoti sagte ´Hallo´ zu mir."
 ****************************************
 
@@ -265,6 +267,7 @@ Dies ist ähnlich wie:
 
 ****************************************
 `la ranjit. pu cusku lu la djiotis. pu rinsa mi li'u`
+
 Ranjeet sagte: "Jyoti hat mich gegrüßt."
 ****************************************
 
@@ -274,9 +277,11 @@ selbst jedoch nicht. Um zwischen diesen Beiden auf Lojban zu unterscheiden müss
 
 ****************************************
 `lu le munje li'u cu cmalu`
+
 "Das Universum" ist klein. +
- +
+
 `le munje na cmalu`
+
 Das Universum ist nicht klein
 ****************************************
 
@@ -316,7 +321,8 @@ Eine Aussage wie "Ranjeet sagte: ´Jyoti sagte "Hallo" zu mir.´" kann auch ande
 
 ****************************************
 `la ranjit. pu cusku le sedu'u la djiotis. pu rinsa ry.`
-Ranjeet vergangen-sagt die-aussage Hyoti vergangen-grüsst R +
+
+Ranjeet vergangen-sagt die-aussage Jyoti vergangen-grüsst R +
 Ranjeet sagte dass Jyoti ihn gegrüßt hat.
 ****************************************
 
@@ -326,6 +332,7 @@ Nun gut, einfach war das nicht unbedingt. Am nähesten im Deutschen kommt dem da
 
 ****************************************
 `la suzyn. na djuno le du'u la jan. cinynei ra`
+
 Susan weiß nicht, dass Zhang sie begehrt. ("sexuell-mag")
 ****************************************
 
