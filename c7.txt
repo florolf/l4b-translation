@@ -198,7 +198,7 @@ Ist "into" ueberhaupt eine?
 es alleine steht `mo'ine'i ku`: Es ist ein `sumti tcita` wobei das `sumti` ausgelassen wurde. (Erinnern Sie sich an `caku`, hier passiert das Gleiche.
 Genau wie `baku` "danach" (im Bezug auf "hier-und-jetzt") bedeutet, heißt `mo'ine'i [ku]` etwas in der Art von "in hinein".)
 
-`mo'i` ist äußerst nützlich, da es ihnen ermöglicht, ziwschen Position und Bewegung zu unterscheiden. 
+`mo'i` ist äußerst nützlich, da es Ihnen ermöglicht, ziwschen Position und Bewegung zu unterscheiden. 
 
 [NOTE]
 .Anmerkung des Übersetzers
@@ -253,7 +253,7 @@ Manche Lojbanisten mögen auch diesen Ansatz nicht, da er auch noch zu mechanisc
 
 Direkte Zitate
 ~~~~~~~~~~~~~~
-Möglicherweise sind ihnen im letzten Beispiel zwei neue Worte aufgefallen. `lu` und `li'u` sind wie "Zitat Anfang" und "Zitat Ende" -- Sie machen aus etwas Gesagtem ein `sumti`.
+Möglicherweise sind Ihnen im letzten Beispiel zwei neue Worte aufgefallen. `lu` und `li'u` sind wie "Zitat Anfang" und "Zitat Ende" -- Sie machen aus etwas Gesagtem ein `sumti`.
 `li'u` ist einer der wenigen Terminatoren die man fast nie weglassen kann, da dies alle darauffolgenden Worte mit in das Zitat einschließen würde.
 Man kann Zitate auch verschachteln:
 
@@ -348,8 +348,8 @@ Entschuldigen Sie diese übertriebene Vereinfachung -- und verwenden Sie sie von
 ========================================
 
 OK, aber wieso wird das, was Ranjeet sagte mit `sedu'u` anstatt mit `du'u` eingeleitet? Nun ja, eigentlich kommt dies daher, dass Lojban sehr auf Details achtet.
-Was Sie wissen oder woran Sie sich erinnern ist ein Fakt: Etwas innerhalb ihres Kopfes. Was Sie jedoch 'sagen' ist nicht innerhalb ihres Kopfes, sondern es sind Geräusche, die
-'abbilden' was innerhalb ihres Kopfes ist. Diese Unterscheidung ist sehr subtil, aber es ist eine von denen, auf die Lojban besteht. (Es ist ja eine logische Sprache.)
+Was Sie wissen oder woran Sie sich erinnern ist ein Fakt: Etwas innerhalb Ihres Kopfes. Was Sie jedoch 'sagen' ist nicht innerhalb Ihres Kopfes, sondern es sind Geräusche, die
+'abbilden' was innerhalb Ihres Kopfes ist. Diese Unterscheidung ist sehr subtil, aber es ist eine von denen, auf die Lojban besteht. (Es ist ja eine logische Sprache.)
 Wenn Sie also auf etwas verweisen möchten, was Sie denken, benutzen Sie `sedu'u` und nicht `du'u`.
 
 [NOTE]
@@ -373,3 +373,125 @@ nicht komplizierter machen als nötig)
 - Wenn man etwas meint, das man denkt, benutzt man `du'u`.
 - Wenn man etwas meint, das man sagt, benutzt man `sedu'u`.
 - *Außer* es ist ein wörtliches Zitat, dann verwendet man `lu`...`li'u`.
+
+[TIP]
+========================================
+Diese Detailversessenheit -- die bei NU `cmavo` sogar noch größer wird -- ist recht nützlich, aber es scheint dem zu wiedersprechen, was die vorherigen Kapitel
+behaupteten, nämlich, dass die Grammatik von Lojban Ihr Freund, nicht Ihr Feind ist. Es 'ist' falsch, `nu` zu benutzen, wenn man eigentlich `du'u` meint -- obwohl
+Sie diesem Fehler häufig begegnen werden. Aber Lojban erlaubt es Ihnen, `bridi` in andere `bridi` durch Abstraktionen einzubetten, 'ohne' festzulegen, ob sie Ereignisse,
+Fakten, Aussagen, Mengen oder was auch immer sind. Das `cmavo` hierfür lautet `su'u`. Sie können deshalb sagen:
+
+- `mi nelci lesu'u mi dotco`
+- `mi djuno lesu'u mi dotco`
+- `mi cusku lesu'u mi dotco`
+
+Zugegebenermaßen wird `su'u` momentan nur selten verwendet, vermutlich weil es relativ spät zur Sprache hinzugefügt wurde (genau wie `du'u`!) und die Leute sich noch nicht
+daran gewöhnt haben.
+
+////////////////////////////////////////
+Ich weisz leider nicht, wie man den letzten Satz hier am geschicktesten
+uebersetzen soll. Bevor ich was falsches schreibe, lass' ichs.
+
+But if you can't be bothered specifying what kind of abstraction you're
+using, that's the word to use.
+////////////////////////////////////////
+========================================
+
+Übung 4
+~~~~~~~
+Welches der `cmavo` `nu`, `du'u` und `sedu'u` würden Sie in den nachfolgenden Sätzen verwenden um das 'dass' zu ersetzen?
+
+- Ich behaupte, 'dass' Lojban einfach ist.
+- Es frustriert mich, 'dass' Lojban einfach ist.
+- Ich stimme zu, 'dass' Lojban einfach ist.
+- Es ist verwirrend, 'dass' Lojban einfach ist.
+- Es wurde entschieden, 'dass' Lojban einfach sein soll.
+
+Noch ein paar mehr pro-`sumti` für Personen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[NOTE]
+.Anmerkung des Übersetzers
+========================================
+Im nachfolgenden Beispiel existiert die Mehrdeutigkeit wieder nur im
+Englischen, jedoch nicht im Deutschen. Deshalb wird das englische
+Beispiel wiedergegeben
+========================================
+
+Wir sind bereits zwei pro-`sumti` begegnet (`mi` und `do`), die "Ich" und "Du"/"Sie" bedeuten. Das englische Pendant zum deutschen "Du" ist das "you",
+es kann mehrere Dinge bedeuten:
+
+. Die einzelne Person, zu der ich direkt rede.
+. Eine größere Anzahl von Menschen, zu denen ich rede.
+. Die Person, zu der ich direkt rede und noch weitere Personen.
+. Jeden. ("Money can't buy 'you' love")
+
+Lojban bewerkstelligt die Unterscheidung von (1) und (2) durch die Verwendung von Anzahlen. Der üblichste Weg (2) auszudrücken ist `rodo`, "Alle von Euch/Ihnen" (wir kennen
+bereits `coi rodo` -- "Hallo (an alle Anwesenden)"). Man kann auch tatsächliche Zahlen verwenden: `redo` wäre so etwas wie "ihr zwei". (Beispielsweise fange ich die E-Mails an
+meine Eltern immer mit `coi redo` an.)
+////////////////////////////////////////
+Dieser Hinweis trifft im Deutschen ja nicht zu.
+////////////////////////////////////////
+
+Man kann solche Zahlen auch bei `ko` verwenden; beispielsweise wäre `roko klama ti` soviel wie "Alle herkommen!"
+
+////////////////////////////////////////
+sollte das nicht ro lo prenu sein?
+////////////////////////////////////////
+
+Der 3. Fall wird durch `do'o` ("Du und noch Jemand") ausgedrückt. Der 4. Fall ist etwas ganz Anderes: Man benutzt meistens `roda` ("jedes 'x'") oder genauer `ro le prenu`.
+
+Das englische "we" (und in diesem Fall auch das deutsche "Wir", Anm. d. Ü.) ist fast genau so verwirrend, denn es kann sowohl den Sprecher und den/die Zuhörer, den Sprecher und
+Andere oder den Sprecher, die Zuhörer und Andere benennen. Nicht all zu überraschend hat Lojban vier verschiedene pro-`sumti` für "wir":
+`--------`--------------------------------
+`mi'o`    Du und Ich (aber sonst Niemand)
+`mi'a`    Ich und Andere (aber nicht Du)
+`ma'a`	  Du und Ich und Andere 
+------------------------------------------
+
+(Wieder einmal lehnt sich Lojban an andere Sprachen an, die diese Unterscheidung schon besitzen.)
+
+Und das vierte pro-`sumti`? Es ist `mi`! Lojban unterscheidet nicht zwischen Ein- und Mehrzahl, deshalb ist `mi` vollkommen korrekt, wenn mehrere Leute zusammen reden. (`mi`
+steht hier dann für die Sprecher.) Üblicherweise findet man diese Art der Verwendung, wenn jemand im Namen Anderer spricht (oder, was wohl öfter vorkommt, schreibt).
+
+Einige Beispiele:
+****************************************
+`mi prami do` +
+Ich liebe Dich. +
+ +
+`mi'a penmi do ti'u la cicac.` +
+Wir treffen Dich/Euch um drei Uhr. +
+ +
+`ma'a remna` +
+Wir sind alle Menschen. +
+ +
+`mi djica lenu do cliva` +
+ +
+Ich will, dass du weg gehst.
+****************************************
+
+Übung 5
+~~~~~~~
+////
+Mh, gerade keine Lust zu überlegen wie man das auf Deutsch umbaut.
+////
+
+Zusammenfassung
+~~~~~~~~~~~~~~~
+In diesem Kapitel haben wir die folgenden Themen behandelt:
+
+- Wie man auf vorhergehende `sumti` zurückverweist, indem man:
+  * Das vorherige `bridi` benutzt (`le go'i`)
+  * `sumti` zählt (`ri`, `ra`, `ru`)
+  * pro-`sumti` zuweist (`ko'a`-`ko'u`, `fo'a`-`fo'u`)
+  * und Akronyme verwendet (mit Buchstaben)
+
+- Wie man auf ein unbestimmtes 'x' verweist ("etwas/jemand") (`da`,`de`,`di`).
+- Wie Bewegung auf Lojban dargestellt wird (`mo'i`).
+- Wie direkte Zitate funktionieren (`lu` .. `li'u`).
+- Wie indirekte Zitate funktionieren (`se du'u`).
+- Wie man auf Fakten (`du'u`) verweist und wie diese sich von Ereignissen (`nu`) unterscheiden.
+- Lojbans Erweiterungen der pro-`sumti` `mi` und `do` (`do'o`, `mi'o`, `mi'a`, `ma'a`).
+
+Vokabeln
+~~~~~~~~
+TODO

@@ -1,0 +1,1438 @@
+
+ bacru - - ba'u /äußern/ x1 äußert/drückt mündlich aus/sagt/spricht [erzeugt Laut] x2
+ badna - - - /Banane/ x1 ist eine Banane (Frucht/Baum) von Art/Gattung/Sorte x2
+ badri - dri - /traurig/ x1 ist traurig/deprimiert/niedergeschlagen [unglücklich] über x2 (Abstraktion)
+ bajra baj - - /laufen/ x1 läuft/rennt auf Oberfläche x2 mit Gliedmaßen x3 und Gangart x4
+ bakfu bak - - /Bündel/ x1 ist ein Bündel/Päckchen/Klumpen [Form] mit Inhalt x2, zusammengehalten von x3
+ bakni bak - - /Rind/ x1 ist eine Kuh/ein Rind/Ochse [Bulle/Kalb] [Rindvieh] von Art/Gattung x2
+ bakri - - - /Kreide/ x1 ist eine gewisse Menge/enthält/besteht aus Kreide von Quelle x2 in Form x3
+ baktu - - - /Eimer/ x1 ist ein Eimer/eine Dose/ein tiefer, fester Behälter mit breitem Rand mit Inhalt x2, bestehend aus Material x3
+ balji - - - /Knolle/ x1 ist eine Knolle/Zwiebel [Körperteil] von Pflanze/Art x2; [im übertragenen Sinne: gerundet, ausgebeult]
+?balni - - - /Balkon/ x1 ist ein Balkon/Überhang/Sims/Regal von Gebäude/Struktur x2
+ balre - - ba'e /Klinge/ x1 ist eine Klinge von Werkzeug/Waffe x2
+ balvi bav - - /Zukunft/ x1 liegt in der Zukunft von/ist später als/nach x2 in zeitlicher Reihenfolge; x1 ist später; x2 ist früher/ehemalig
+?bancu bac - - /ferner/ x1 übertrifft/übersteigt Grenze x2 mit Bezugspunkt x3 in Eigenschaft/Menge x4 (ka/ni)
+ bandu bad - - /verteidigen/ x1 (Ereignis) verteidigt/schützt x2 (Objekt/Zustand) gegen Bedrohung/Gefahr/Möglichkeit x3 (Ereignis)
+ banfi - - - /Amphibie/ x1 ist eine Amphibie von Art/Gattung x2
+ bangu ban - bau /Sprache/ x1 ist eine/die Sprache/ein Dialekt, die/den x2 benutzt, um x3 auszudrücken (si'o/du'u, kein Zitat)
+ banli bal - ba'i /großartig/ x1 ist großartig/eindrucksvoll/erhaben in Eigenschaft x2 (ka) gemäß Standard x3
+?banro - - ba'o /wachsen/ x1 wächst/expandiert/wird größer bis zu Größe/Form x2 aus x3 heraus
+ banxa bax - - /Bank/ x1 ist eine Bank im Banksystem/im Besitz von x2 für Bankfunktion(en) x3 (Ereignis)
+ banzu baz - - /genügen/ x1 (Gegenstand) genügt/ist genug für Zweck x2 unter Bedingungen x3
+ bapli bap - bai /zwingen/ x1 [Kraft] (ka) zwingt das Geschehen von/erzwingt Ereignis x2
+ barda - bra - /groß/ x1 ist groß in Eigenschaft/Abmessung(en) x2 (ka), verglichen mit Standard/Norm x3
+?bargu bag - - /Bogen/ x1 bildet einen Bogen über/um x2 und besteht aus Material x3; x1 ist ein Bogen über/um x2 aus Material x3
+ barja - - - /Bar/ x1 ist eine Taverne/Bar/Kneipe, die x2 an Publikum/(Stamm)gäste x3 ausschenkt
+?barna - - ba'a /Fleck/ x1 ist/sind (ein) Fleck(en) auf x2 und besteht/bestehen aus Material x3
+ bartu bar - - /außen/ x1 ist außerhalb von x2
+?basna - - - /betonen/ x1 betont/verleiht Nachdruck zu x2 indem es Aktion x3 durchführt
+ basti bas - - /ersetzen/ x1 ersetzt/steht ein für x2 unter Umständen x3; x1 ist ein Ersatz
+ batci bat - - /beißen/ x1 beißt/kneift x2 in/auf spezifischem Ort x3 mit x4
+ batke - - - /Knopf/ x1 ist ein Knopf/Griff auf/für Gegenstand x2, mit Zweck x3, aus Material x4
+ bavmi - - - /Gerste/ x1 ist eine gewisse Menge Gerste [Getreide] von Art/Sorte x2
+ baxso - - - /malaiisch-indonesisch/ x1 repräsentiert die gemeinsame malaiisch-indonesische Sprache/Kultur in Aspekt x2
+ bebna beb - - /dumm/ x1 ist dumm/töricht/dämlich/albern/blöd in Ereignis/Aktion/Eigenschaft [Dummheit/Torheit] (ka) x2; x1 ist ein Dummkopf/Idiot/Tor
+ bemro bem - be'o /nordamerikanisch/ x1 repräsentiert nordamerikanische Kultur/Nationalität/Geographie in Aspekt x2
+ bende bed - be'e /Mannschaft/ x1 ist eine Mannschaft/ein Team/eine Gruppe/Gang/Bande von Personen x2 (an)geführt/geleitet von x3 organisiert für Zweck x4
+?bengo beg - - /bengalisch/ x1 repräsentiert bengalische/Bangladeshi Kultur/Nationalität/Sprache in Aspekt x2
+ benji bej - be'i /versenden/ x1 überträgt/versendet/übermittelt/schickt x2 an Empfänger/Ziel x3 von Absender/Quelle/Ursprung x4 über Mittel/Medium x5
+ bersa bes - be'a /Sohn/ x1 ist ein Sohn von Mutter/Vater/Eltern x2 [nicht zwingend biologisch]
+ berti ber - - /Norden/ x1 ist im Norden/auf der nördlichen Seite/liegt nördlich von x2 gemäß Bezugssystem x3
+ besna ben - - /Gehirn/ x1 ist ein/das Gehirn [Körperteil] von x2; [im übertragenen Sinne: Intelligenz, geistige Kontrolle]
+ betfu bef - be'u /Bauch/ x1 ist ein/der Bauch/Unterkörper [Körperteil] von x2; [im übertragenen Sinne: Mittelteil]
+ betri bet - - /Tragödie/ x1 ist eine Tragödie/Katastrophe/ein schlimmes Ereignis für x2
+ bevri bev - bei /tragen/ x1 trägt/schleppt/transportiert Fracht x2 nach x3 von x4 über Route x5; x1 ist ein Träger
+ bi biv - - /8/ Ziffer/Zahl: 8 (Ziffer)
+?bi'i biz - - /ungeordnetes Intervall/ nicht-logischer Intervallverbinder: ungeordnet zwischen ... und ... (rafsi repräsentiert ein beliebiges Intervall)
+?bidju - - - /Perle/ x1 ist eine (Glas-/Holz-/usw)perle/ein Kügelchen [Form] aus Material x2 (z.B. Glasperle = blaci bidju)
+ bifce bic - - /Biene/ x1 ist eine Biene/Wespe/Hornisse von Art/Rasse x2
+?bikla bik - - /peitschen/ x1 peitscht/schnappt [plötzliche starke Bewegung]
+?bilga big - - /verpflichtet/ x1 ist verpflichtet/hat die Pflicht, x2 zu tun/zu sein gemäß Standard/Abmachung x3; x1 muss x2 tun
+ bilma - - bi'a /krank/ x1 ist krank/erkrankt mit Symptomen x2 an/mit Krankheit x3
+ bilni bil - - /militärisch/ x1 ist militärisch/reglementiert/streng organisiert durch System x2 für Zweck x3
+ bindo bid - - /indonesisch/ x1 repräsentiert indonesische Kultur/Nationalität/Sprache in Aspekt x2
+?binra - - - /versichern/ x1 versichert/entschädigt/hält schadlos x2 vor/gegen Gefahr x3 (Ereignis) und bietet Nutzen/Vorteil x4
+ binxo bix - bi'o /werden/ x1 wird zu/verwandelt sich in x2 unter Bedingungen x3
+?birje - - - /Bier/ x1 besteht aus/enthält/ist eine gewisse Menge Bier/Pils/Gebräu, gebraut aus x2
+ birka bir - - /Arm/ x1 ist ein/der Arm [Körperteil] von x2; [im übertragenen Sinne: Zweig mit Kraft]
+ birti bit - - /gewiss/ x1 ist sich sicher/gewiss/überzeugt, dass x2 wahr ist
+?bisli bis - - /Eis/ x1 ist eine gewisse Menge/besteht aus/enthält Eis [gefrorenes Wasser/Kristall] von Zusammensetzung/aus Material x2
+ bitmu bim - bi'u /Wand/ x1 ist eine Wand/Mauer/ein Zaun und trennt x2 und x3 (ungeordnet) in/von Struktur/Gebäude x4
+ blabi lab - - /weiß/ x1 ist weiß/von sehr heller Farbe [Farbadjektiv]
+ blaci - - - /Glas/ x1 ist eine gewisse Menge/besteht aus/enthält Glas von Zusammensetzung unter anderem x2
+ blanu - bla - /blau/ x1 ist blau [Farbadjektiv]
+ bliku - bli - /Block/ x1 ist ein Block/Klotz [dreidimensionaler Gegenstand] aus Material x2 mit Oberflächen/Seiten x3
+ bloti lot blo lo'i /Boot/ x1 ist ein Boot/Schiff [Fahrzeug] für den Transport von x2, angetrieben durch x3
+?bo bor - - /Verbindung kurzer Reichweite/ Verbindung kurzer Reichweite; verbindet verschiedene Konstrukte mit kürzestmöglicher Reichweite und rechts-assoziativer Gruppierung
+ bolci bol - boi /Ball/ x1 ist ein Ball/Globus/eine Kugel [Form] aus Material x2; x1 ist kugelförmig [und besteht aus x2]
+ bongu bog - bo'u /Knochen/ x1 ist Knochen/Elfenbein [Körperteil] und verrichtet Funktion x2 im Körper von x3; [im übertragenen Sinne: Kalzium]
+ botpi bot - bo'i /Flasche/ x1 ist eine Flasche/Urne/ein Krug/verschließbarer Behälter [Gefäß] für x2 aus Material x3 mit Deckel/Kappe x4
+ boxfo bof - bo'o /Folie/ x1 ist ein Blatt/eine Folie/Decke [zweidimensionale Form, die in drei Dimensionen flexibel ist] aus Material x2
+ boxna bon - bo'a /Welle/ x1 ist eine Welle [wiederkehrendes Muster] in Medium x2 mit Wellenform x3, Wellenlänge x4 und Frequenz x5
+ bradi - - - /Feind/ x1 ist ein Feind/Gegner von x2 in Konflikt x3
+ bratu - - - /Hagel/ x1 ist Hagel/Schneeregen/Graupel/fester Niederschlag aus Material/mit Zusammensetzung unter anderem x2
+ brazo raz - - /brasilianisch/ x1 repräsentiert brasilianische Kultur/Nationalität/Sprache in Aspekt x2
+ bredi red bre - /bereit/ x1 ist bereit für/vorbereitet auf x2 (Ereignis)
+ bridi - bri - /Prädikat/ x1 (Text) ist eine Prädikat-Beziehung mit Beziehung x2 zwischen Argumenten (Folge/Menge) x3
+ brife bif - bi'e /Wind/ x1 ist eine Brise/ein Windhauch/Wind/Sturm aus Richtung x2 mit Geschwindigkeit x3; x1 bläst aus x2
+ briju bij - - /Büro/ x1 ist ein Büro/Arbeitsplatz von Arbeiter x2 in/bei Ort x3
+?brito rit - - /britisch/ x1 repräsentiert britische/UK Kultur/Nationalität in Aspekt x2
+ broda rod - - /Prädikatvar 1/ erstes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+ brode - - bo'e /Prädikatvar 2/ zweites zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+ brodi - - - /Prädikatvar 3/ drittes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+ brodo - - - /Prädikatvar 4/ viertes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+ brodu - - - /Prädikatvar 5/ fünftes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+?bu bus - bu'i /Wort zu lerfu/ verwandelt ein beliebiges einzelnes Wort in BY
+ bu'a bul - - /irgendein selbri 1/ logisch quantifizierte Prädikatvariable: irgendein selbri 1
+ budjo buj - bu'o /buddhistisch/ x1 bezieht sich auf/betrifft/gehört zu buddhistischer Kultur/Religion/Ethos in Aspekt x2
+ bukpu buk - bu'u /Stoff/ x1 ist eine gewisse Menge Stoff/Gewebe/Tuch von Typ/aus Material x2
+ bumru bum - - /Nebel/ x1 ist neblig/trübe/diesig/bedeckt mit Nebel/Dunst aus Flüssigkeit x2
+ bunda bud - - /Pfund/ x1 wiegt x2 (Default: 1) örtliche Gewichtseinheit(en) [nicht-metrisch], gemäß Standard x3, Untereinheit(en) [z.B. Unzen] x4 [weitere Untereinheiten können als x5, x6, usw. zugefügt werden]
+ bunre bur - bu'e /braun/ x1 ist braun [Farbadjektiv]
+ burcu - bru - /Bürste/ x1 ist eine Bürste für Zweck x2 (Ereignis) mit Borsten x3
+?burna - - /peinlich/ x1 ist verlegen/peinlich berührt/verwirrt/nervös/wird in Verlegenheit gebracht unter Umständen x2 (Abstraktion); x2 ist x1 peinlich
+ ca'a caz - - /ist wirklich/ Modalaspekt: Wirklichkeit/fortdauerndes Ereignis
+ cabna cab - - /jetzt/ x1 ist gleichzeitig mit/zur selben Zeit wie/in der Gegenwart von x2
+ cabra - - ca'a /Gerät/ x1 ist ein Gerät/Mechanismus/Apparat/eine Vorrichtung für Funktion x2, kontrolliert/[ausgelöst] von x3 (Handelnder)
+ cacra - - - /Stunde/ x1 dauert x2 (Default 1) Stunden gemäß Standard x3
+ cadzu - dzu - /gehen/ x1 geht/schreitet auf Oberfläche x2 mit Gliedmaßen x3
+ cafne caf - - /oft/ x1 (Ereignis) tritt oft/häufig/regelmäßig/üblicherweise (gemäß Standard x2) auf
+ cakla - - - /Schokolade/ x1 besteht aus/enthält/ist eine gewisse Menge Schokolade/Kakao
+ calku cak - - /Schale/ x1 ist eine Schale/Hülle/Hülse [harte, schützende Abdeckung] um x2 herum, bestehend aus x3
+ canci - - - /verschwinden/ x1 verschwindet von Ort x2; x1 kann nicht mehr von x2 mit Sinnen/Sensor x3 wahrgenommen werden
+ cando cad - - /inaktiv/ x1 ist inaktiv/müßig/liegt still/ruht
+?cange cag - - /Bauernhof/ x1 ist ein Bauernhof/eine Ranch in/bei Ort x2, bebaut von x3 und erzeugt/erwirtschaftet/produziert/baut an x4; (Adjektiv:) x1 ist landwirtschaftlich
+ canja caj - - /tauschen/ x1 tauscht Ware x2 gegen x3 von x4; x1 ertauscht sich bei x4 x2 gegen x3; x1 und x4 sind Händler/Handelstreibende/Kaufleute
+ canko - - ca'o /Fenster/ x1 ist ein Fenster/Portal/eine Öffnung [Portal] in Wand/Gebäude/Struktur x2
+ canlu cal - ca'u /Raum/ x1 ist ein Raum/Volumen/Zimmer [mindestens dreidimensionaler Raum], der/das von x2 bewohnt/besetzt wird
+ canpa - cna - /Schaufel/ x1 ist eine Schaufel/ein Spaten [Grabwerkzeug mit schaufelförmiger Klinge], um x2 zu graben
+ canre can - - /Sand/ x1 ist eine gewisse Menge/enthält/besteht aus Sand/Kies aus Quelle x2 von Zusammensetzung unter anderem x3
+ canti - - - /Eingeweide/ x1 ist ein/der Darm/die Eingeweide/Innereien/das Verdauungssystem [Körperteil] von x2
+ carce - - - /Karren/ x1 ist ein Karren/eine Karre/ein Wagen/Wagon [Gefährt mit Rädern] zur Beförderung von x2 mit Antrieb x3
+?carmi cam - cai /leuchtend/ x1 ist leuchtend/gesättigt (Farbe)/intensiv/strahlend in Eigenschaft (ka) x2 für Beobachter/Messer x3
+ carna car - - /drehen/ x1 dreht sich/rotiert um Achse x2 in Richtung x3
+ cartu cat - - /Karte/ x1 ist eine Karte/Landkarte/ein Diagramm von/über x2 mit Formation/Datenpunkten x3
+ carvi cav - - /Regen/ x1 regnet [Niederschlag] auf x2 von x3; x1 ist Niederschlag [nicht beschränkt auf Regen]
+ casnu - snu - /diskutieren/ x1 (normalerweise eine Masse, aber eine Einzelperson/jo'u ist möglich) diskutiert/redet über/bespricht Thema x2
+ catke - - ca'e /schieben/ x1 [Handelnder] schiebt/drückt/stößt x2 an Stelle x3
+ catlu - cta - /betrachten/ x1 betrachtet/sieht an/untersucht/besichtigt/prüft/beobachtet/überwacht/blickt auf x2
+ catni - - ca'i /Autorität/ x1 hat Autorität über/ist zuständig für Thema/Gegenstand/Einflussbereich/Personen x2 aufgrund von x3 (Quelle der Autorität/Bevollmächtigung)
+ catra - - - /töten/ x1 (Handelnder) tötet/ermordet/erschlägt/schlachtet/bringt x2 (um) durch Aktion/Methode x3
+ caxno cax - - /seicht/ x1 ist seicht/flach in Richtung x2 von Referenzpunkt x3 aus gesehen gemäß Standard x4
+ ce cec - - /in einer Menge mit/ nichtlogische Verbindung: Mengenverbinder, ungeordnet; &quot;und außerdem&quot;, aber eine Menge bildend
+ ce'i cez - - /Prozent/ Zahl/Ziffer: %, Prozentzeichen, Hundertstel
+ ce'o - - ce'o /in einer Folge mit/ nichtlogische Verbindung: verbindet geordnete Folgen; &quot;und dann&quot;, eine Folge bildend
+ cecla cel - ce'a /abschießen/ x1 schießt/feuert Geschoss/Projektil/Rakete/Flugkörper x2 ab mit Antrieb x3 [Treibmittel/Treibgas/Antrieb]
+ cecmu cem - ce'u /Gemeinschaft/ x1 ist eine Gemeinschaft/Kolonie/Gesellschaft/ein Gemeinwesen von Organismen x2
+ cedra - - - /Ära/ x1 ist eine Ära/Epoche/ein Zeitalter charakterisiert durch x2 (Ereignis/Eigenschaft/Intervall/Idee)
+ cenba - cne - /schwanken/ x1 schwankt/variiert/ändert sich/weicht in Eigenschaft/Menge x2 (ka/ni) in Betrag/Umfang/Ausmaß x3 unter Umständen x4 (ab)
+ censa ces - - /heilig/ x1 ist Person/Gruppe/Kultur/Religion/Kult x2 heilig
+ centi cen - - /0,01/ x1 ist ein Hundertstel [1/100; 1×10^-2] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ cerda ced - - /Erbe/ x1 ist ein Erbe von/Anwärter auf/soll x2 (Objekt/Qualität) von x3 (ererben) gemäß Regel/Gesetz x4
+ cerni cer - - /Morgen/ x1 ist der Morgen [von Morgendämmerung bis kurz nach der üblichen Arbeitsanfangszeit für den Ort] von Tag x2 in Ort x3
+ certu - cre - /Experte/ x1 ist ein Experte/Sachverständiger/Fachkundiger/Profi/ist geschickt/kundig/erfahren/bewandt in x2 (Ereignis/Aktivität) gemäß Standard x3
+ cevni cev - cei /Gott/ x1 ist ein/der Gott/Gottheit von Person/Volk/Kultur/Religion x2 mit Zuständigkeitsgebiet/Einflussbereich x3; x1 ist göttlich
+ cfari - cfa - /anfangen/ x1 [Zustand/Ereignis/Prozess] fängt an/beginnt/wird eingeleitet; (intransitives Verb)
+ cfika fik - fi'a /Belletristik/ x1 ist ein Roman/Werk der Belletristik/Dichtkunst [nicht Sachliteratur] mit Handlung/über Thema x2/vom (konventionellen/formalen) Typ x2 von Autor x3
+ cfila - cfi - /Makel/ x1 (Eigenschaft - ka) ist ein Makel/Defekt/Fehler/Mangel in x2 und verursacht x3
+ cfine - - - /Keil/ x1 ist ein Keil [Form/Werkzeug] aus Material x2
+ cfipu - - fi'u /verwirrend/ x1 (Ereignis/Zustand) verwirrt x2 [Beobachter] durch [verwirrende] Eigenschaft x3 (ka)
+ ci cib - - /3/ Ziffer/Zahl: 3 (Ziffer)
+ ciblu - blu - /Blut/ x1 ist Blut/lebenswichtige Flüssigkeit von Organismus x2
+ cicna - - - /blaugrün/ x1 ist blaugrün/türkis/cyan [Farbadjektiv]
+ cidja - dja - /Nahrung/ x1 ist Nahrung/Futter/Essen für x2; x1 ist essbar/nährt x2
+ cidni cid - - /Knie/ x1 ist ein/das Knie/ein/der Ellenbogen/Knöchel [Gelenk, Körperteil] von Glied x2 von Körper x3
+ cidro - dro - /Wasserstoff/ x1 ist eine gewisse Menge/enthält/besteht aus Wasserstoff (H); [im übertragenen Sinne: leicht, entzündlich]
+ cifnu cif - - /Kleinkind/ x1 ist ein Kleinkind/Säugling/Baby [hilflos durch niedriges Alter oder unvollständige Entwicklung] von Rasse/Spezies/Gattung x2
+ cigla cig - - /Drüse/ x1 ist eine/die Drüse [Körperteil], die x2 absondert/ausscheidet, in Körper x3; x2 ist ein/das Sekret von x1
+ cikna cik - - /wach/ x1 ist wach/munter/bei Bewusstsein
+ cikre - - - /reparieren/ x1 repariert/flickt/setzt x2 (instand) für Zweck x3
+ ciksi - cki - /erklären/ x1 (Person) erklärt x2 (Ereignis/Zustand/Eigenschaft) x3 mit Erklärung x4 (du'u)
+ cilce cic - - /wild/ x1 ist wild/ungezähmt
+ cilmo cim - - /feucht/ x1 ist feucht/nass/getränkt mit Feuchtigkeit/Flüssigkeit x2
+ cilre - cli - /lernen/ x1 lernt x2 (du'u) über Thema/Fach x3 von Quelle x4 (Objekt/Ereignis) durch Methode x5 (Ereignis/Prozess)
+ cilta cil - - /Faden/ x1 ist ein Faden/Draht/Filament/eine Faser [Form] aus Material x2
+ cimde - - - /Dimension/ x1 (Eigenschaft - ka) ist eine Dimension von Raum/Objekt x2 gemäß Regeln/Modell x3
+ cimni - - - /unendlich/ x1 ist unendlich/unbegrenzt/unbeschränkt/ewig in Eigenschaft/Dimension x2, in Grad x3 (Menge)/von Typ x3
+ cinba - - - /küssen/ x1 (Handelnder) küsst x2 an Stelle x3
+ cindu - - - /Eiche/ x1 ist eine Eiche, eine Art Baum von Art/Kultur x2
+ cinfo - - - /Löwe/ x1 ist ein Löwe/eine Löwin von Art/Gattung x2
+ cinje cij - - /Falte/ x1 ist eine Falte/ein Falz [Form] in x2
+ cinki - - - /Insekt/ x1 ist ein Insekt von Gattung x2; [Käfer]
+ cinla - - - /dünn/ x1 ist dünn in Richtung/Dimension x2 gemäß Standard x3; [relativ kurz in seiner kleinsten Dimension]
+ cinmo - cni - /Gefühl/ x1 empfindet/fühlt Gefühl/Regung x2 (ka) über x3
+ cinri - - ci'i /interessant/ x1 (Abstraktion) interessiert/ist interessant für x2; x2 interessiert sich für x1
+ cinse cin - - /sexuell/ x1 in Aktivität/Zustand x2 weist Sexualität/Geschlecht/sexuelle Ausrichtung x3 (ka) auf gemäß Standard x4
+ cinta - - - /Farbe/ x1 [Material] ist Lack/Farbe mit Pigment/Farbstoff x2 in einer Basis x3
+ cinza - - - /Zange/ x1 ist eine Zange/Pinzette/sind Stäbchen [Werkzeug/Körperteil] für x2 zum Kneifen von x3
+ cipni - cpi - /Vogel/ x1 ist ein Vogel von Gettung x2
+ cipra cip - - /Test/ x1 (Prozess/Ereignis) ist ein Test/eine Prüfung auf/ein Beweis für Eigenschaft/Zustand x2 in Thema x3 (Individuum/Menge/Masse)
+ cirko - cri - /verlieren/ x1 verliert Person/Gegenstand x2 bei/in der Nähe von x3 (aus den Augen); x1 verliert Eigenschaft/Merkmal x2 in Umständen/Situation x3
+ cirla - - - /Käse/ x1 ist eine gewisse Menge/enthält/besteht aus Käse/Quark/Milcheiweiß aus Quelle x3
+ ciska - - ci'a /schreiben/ x1 schreibt/trägt x2 auf Anzeigemedium/Speichermedium x3 mit Schreibgerät x4 (ein); x1 ist ein Schreiber
+ cisma - - - /lächeln/ x1 lächelt/grinst (Gesichtsausdruck)
+ ciste - - ci'e /System/ x1 (Masse) ist ein System mit gegenseitiger Beziehung/Struktur x2 zwischen Komponenten x3 (Menge), welches Merkmal(e) x4 (ka) aufweist
+ citka - cti - /essen/ x1 isst/frisst/verspeist/verzehrt/nimmt x2 (auf) (transitives Verb)
+ citno cit - ci'o /jung/ x1 ist jung/jugendlich [relativ kurz in abgelaufener Zeit] gemäß Standard x2
+ citri cir - - /Geschichte/ x1 ist die Geschichte [Historie, nicht Erzählung] von x2 laut x3 (Person)/aus Sicht von x3
+ citsi - - - /Jahreszeit/ x1 ist eine Jahreszeit/ist jahreszeitlich/saisonal [zyklisches Intervall], definiert durch Intervall/Eigenschaft x2, von Jahr(en) x3
+ civla civ - - /Laus/ x1 ist eine Laus/Milbe/ein Floh [blutsaugender Gliederfüßler] von Art/Gattung x2, ein Parasit von x3
+ cizra ciz - - /seltsam/ x1 ist für x2 (Beobachter) seltsam/merkwürdig/eigenartig/abnormal/ungewöhnlich in Eigenschaft x3 (ka)
+ ckabu - - - /Gummi/ x1 besteht aus/enthält/ist eine gewisse Menge Gummi/Latex aus Quelle x2 mit Zusammensetzung unter anderem x3
+ ckafi kaf - - /Kaffee/ x1 besteht aus/enthält/ist eine gewisse Menge Kaffee aus Quelle/Bohne/Getreide/Korn x2
+ ckaji - - kai /Eigenschaft/ x1 hat (charakteristische) Eigenschaft/Merkmal/Wesenszug x2 (ka); x2 wird in x1 offenbar/zeigt sich in x1
+ ckana - cka - /Bett/ x1 ist ein Bett/Lager/eine Pritsche aus Material x2 um x3 (Person/Gegenstand/Ereignis) zu halten/stützen/aufzunehmen
+ ckape cap - - /gefährlich/ x1 ist (potenziell) gefährlich/schädlich für x2 unter Umständen x3
+ ckasu cas - - /verhöhnen/ x1 verhöhnt x2/lacht x2 aus/macht sich über x2 lustig/lächerlich/spottet über x2 wegen x3 (Eigenschaft/Ereignis), indem er x4 (Ereignis) tut
+ ckeji kej cke - /schämen/ x1 schämt sich/fühlt sich gedemütigt/beschämt unter Umständen x2 vor Gemeinschaft/Publikum x3
+ ckiku kik - - /Schlüssel/ x1 ist ein Schlüssel, der (in) Schloss x2 passt/es öffnet und relevante Eigenschaften x3 besitzt
+ ckilu - - ci'u /Skala/ x1 (si'o) ist eine Skala/ein Maßstab von Einheiten zum Messen/Bestimmen von x2 (Zustand)
+ ckini - - ki'i /verwandt/ x1 ist verwandt mit x2 durch Verwandtschaft/Beziehung x3; x1 steht mit x2 in Beziehung x3
+ ckire kir - - /dankbar/ x1 ist x2 gegenüber dankbar für x3 (Ereignis/Eigenschaft)
+ ckule kul - cu'e /Schule/ x1 ist eine Schule/Akademie/ein Institut in x2 (Ort) und unterrichtet Fach/Fächer x3 an Publikum/Gemeinschaft x4 und wird von x5 betrieben
+ ckunu - - ku'u /Nadelbaum/ x1 ist ein Nadelbaum/Tannenbaum von Art/Gattung x2 mit Zapfen x3
+ cladu - - lau /laut/ x1 ist laut von Standpunkt x2 aus gemäß Standard x3
+ clani - cla - /lang/ x1 ist lang in Dimension/Richtung x2 (Default: längste Dimension) gemäß Maßstandard x3
+ claxu - - cau /ohne/ x1 ist ohne/frei von x2; x1 ist x2-los; x2 fehlt an/bei x1
+ clika - - - /Moos/ x1 ist Moos/eine Flechte von Art/Gattung x2 und wächst auf x3; (Adjektiv:) x1 ist moosig/moosbewachsen
+ clira lir - - /früh/ x1 (Ereignis) ist früh gemäß Standard x2
+ clite lit - - /höflich/ x1 ist höflich/zuvorkommend in Angelegenheit x2 gemäß Standard/Gebrauch/Sitte x3
+ cliva liv - li'a /verlassen/ x1 verlässt x2 über Route x3; x1 geht von x2 weg
+ clupa cup - - /Schleife/ x1 ist eine Schleife/Schlaufe/ein Ring aus x2 [Material]
+ cmaci - - - /Mathematik/ x1 ist Mathematik vom Typ x2/und beschreibt x2
+ cmalu - cma - /klein/ x1 ist klein in Eigenschaft/Dimension(en) x2 (ka) verglichen mit Standard/Norm x3
+ cmana - - ma'a /Berg/ x1 ist ein Berg/Hügel/eine Erhebung/[Steigung]/[Spitze]/[Gipfel]/[Hochland] und ragt aus Landschaft/Umgebung x2 heraus
+ cmavo - - ma'o /Strukturwort/ x1 ist ein Strukturwort von grammatikalischer Klasse x2 mit Bedeutung/Funktion x3 in Gebrauch/Sprache x4
+ cmene - cme me'e /Name/ x1 (zitiertes Wort oder Wörter) ist ein/der Name/Titel von x2 für Benenner x3/wie er von x3 (Person) benutzt wird
+ cmila - - mi'a /lachen/ x1 lacht (Gefühlsausdruck)
+ cmima mim cmi - /Mitglied/ x1 ist ein Mitglied/Element von Menge x2; x1 gehört zu Gruppe x2; x1 ist inmitten/unter Gruppe x2
+ cmoni - cmo co'i /stöhnen/ x1 stöhnt/gröhlt/heult/schreit/ächzt [nichtsprachliche Äußerung] x2 und drückt damit x3 (Eigenschaft) aus
+ cnano - - na'o /Norm/ x1 [Wert] ist die Norm/der Durchschnitt in Eigenschaft/Menge x2 (ka/ni) unter x3 (Menge) gemäß Standard x4
+ cnebo neb - ne'o /Hals/ x1 ist ein/der Hals [Körperteil] von x2; [im übertragenen Sinne: ein relativ enger/schmaler Punkt]
+ cnemu nem - ne'u /belohnen/ x1 (Handelnder) belohnt x2 [Empfänger] für untypisches x3 (Ereignis/Eigenschaft) mit Belohnung/Verdienst x4
+ cnici nic - - /ordentlich/ x1 ist ordentlich/aufgeräumt/geordnet in Eigenschaft/Menge x2 (ka/ni)
+ cnino nin - ni'o /neu/ x1 ist neu/ungewohnt für Betrachter x2 in Eigenschaft x3 (ka) gemäß Standard x4; x1 ist eine Neuheit
+ cnisa nis - - /Blei/ x1 ist eine gewisse Menge/enthält/besteht aus Blei (Pb); [im übertragenen Sinne: schweres, verformbares, weiches Metall]
+ cnita nit - ni'a /unterhalb/ x1 ist genau/senkrecht unter/unterhalb von x2 in Bezugssystem x3
+ co col - - /Tanru-Umstellung/ Tanruumstellungsoperator; &quot;... vom Typ ...&quot;; erlaubt nachfolgende, modifizierende Sumti ohne Sumti-Verbindungen
+ co'a - - co'a /Anfang/ Intervall-Ereignisumriss: am Anfang von ...; anfänglich
+ co'e com - co'e /unspezif Bridi/ unspezifizierte Bridi-Beziehung
+ co'u - - co'u /Schluss/ Intervall-Ereignisumriss: am Schlusspunkt von ... selbst wenn nocht nicht fertig; beendend | &gt;&lt; |
+ cokcu - cko - /aufsaugen/ x1 saugt x2 von x3 in x4 auf
+ condi con cno coi /tief/ x1 ist tief in Richtung/Eigenschaft x2 von Referenzpunkt x3 her gemäß Standard x4
+ cortu cor cro - /Schmerz/ x1 fühlt Schmerz an Stelle x2; x1 (Dat.) tut x2 (Nom.) weh; x2 schmerzt x1
+ cpacu - cpa - /bekommen/ x1 bekommt/empfängt/erhält/akzeptiert x2 von Quelle x3 [ein vorheriger Besitzer wird nicht vorausgesetzt]
+ cpana - - - /auf/ x1 ist/liegt auf [der Oberfläche von] x2 (drauf) in Bezugssystem/durch Schwerkraft x3
+ cpare par - - /klettern/ x1 klettert/steigt/kriecht auf Oberfläche x2 in Richtung x3 mithilfe von x4 [Gliedmaßen/Werkzeugen]
+ cpedu - cpe - /erbitten/ x1 erbittet/erbettelt x2 von x3 auf Art/in Form x4; x1 bittet x3 um x2
+ cpina - - - /stechend/ x1 ist stechend/scharf/pikant/würzig/irritierend für Sinn x2
+ cradi - - - /Radio/ x1 sendet/strahlt aus/überträgt [mit Radiowellen/über Rundfunk] x2 über Station/Frequenz x3 an [Radio-]Empfänger x4
+ crane - cra - /vor/ x1 ist vor/weiter vorne als x2 welches nach x3 hin ausgerichtet ist/in Bezugssystem x3
+ creka cek - - /Hemd/ x1 ist ein Hemd/Top/eine Bluse [Oberkörperbekleidung - nicht unbedingt mit Ärmeln oder Knöpfen] aus Material x2
+ crepu rep - - /ernten/ x1 (Handelnder) erntet/pflückt Ertrag/Getreide/Frucht x2 von Quelle/Gebiet x3
+ cribe rib - - /Bär/ x1 ist ein Bär von Art/Gattung x2
+ crida rid - - /Fee/ x1 ist eine Fee/Elfe/Nixe/ein Heinzelmännchen/Kobold/Gnom [sagenhafte menschenähnliche Gestalt] aus Mythos/Religion x2
+ crino - - ri'o /grün/ x1 ist grün [Farbadjektiv]
+ cripu rip - - /Brücke/ x1 ist eine Brücke über x2 zwischen x3 und x4 [ungeordnet; typischerweise zuerst das Ziel]
+ crisa cis - - /Sommer/ x1 ist ein/der Sommer [heiße Jahreszeit] von Jahr x2 in Ort x3
+ critu - - - /Herbst/ x1 ist ein/der Herbst [Erntezeit/abkühlende Jahreszeit] von Jahr x2 in Ort x3
+ ctaru - - - /Gezeiten/ x1 ist Ebbe/Flut/Gezeiten [zyklische oder periodische Größenänderung] in x2, erzeugt durch x3
+ ctebi teb - - /Lippe/ x1 ist eine/die Lippe [Körperteil]/der Rand von Öffnung x2 von Körper x3
+ cteki tek - ce'i /Steuer/ x1 ist eine Steuer/Abgabe auf Güter/Diensleistungen/Ereignis x2, Steuerpflichtiger x3, Steuererheber x4
+ ctile - - - /Erdöl/ x1 ist eine gewisse Menge/besteht aus/enthält Erdöl/Mineralöl/Öl aus Quelle x2
+ ctino - - ti'o /Schatten/ x1 ist ein/der Schatten von Objekt x2, erzeugt durch Lichtquelle/Energiequelle x2
+ ctuca - ctu - /lehren/ x1 lehrt Publikum x2 Ideen/Methoden/Kunde/Wissen x3 (du'u) über Thema/Themen x4 durch Methode x5 (Ereignis); x1 ist ein Lehrer; x1 belehrt x2
+ cukla cuk - - /rund/ x1 ist rund/kreisförmig [zweidimensionale Form]; x1 ist ein Kreis/Ring/eine Scheibe
+ cukta - cku - /Buch/ x1 ist ein Buch und enthält Werk x2 von Autor x3 für Publikum x4 in Medium x5
+ culno - clu - /voll/ x1 ist voll mit/komplett aufgefüllt durch/voller x2
+ cumki cum - cu'i /möglich/ x1 (Ereignis/Zustand/Eigenschaft) ist unter Umständen x2 möglich; x1 kann vorkommen; x1 ist möglich
+ cumla cul - - /bescheiden/ x1 ist bescheiden/demütig über x2 (Abstraktion); x1 zeigt Demut über x2
+ cunmi - - - /Hirse/ x1 ist eine gewisse Menge/besteht aus/enthält Hirse [Getreide] von Art/Gattung x2
+ cunso cun - cu'o /zufällig/ x1 ist zufällt/unvorhersehbar unter Umständen mit Wahrscheinlichkeitsverteilung x3
+ cuntu - - cu'u /Angelegenheit/ x1 ist eine Angelegenheit/organisierte Aktivität mit Person(en) x2 (einzeln/Masse); x1 ist die Angelegenheit von x2
+ cupra - pra - /herstellen/ x1 stellt x2 [Produkt] durch Verfahren x3 her; x1 erzeugt x2 auf Weise x3
+ curmi - cru - /erlauben/ x1 (Handelnder) erlaubt/lässt x2 (Ereignis) (zu) unter Umständen x3; x1 gewährt das Vorrecht x3
+ curnu cur - - /Wurm/ x1 ist ein Wurm/wirbelloses Tier von Art/Gattung x2
+ curve cuv - - /rein/ x1 ist rein/unverfälscht in Eigenschaft x2 (ka)
+ cusku cus sku - /ausdrücken/ x1 (Handelnder) sagt/drückt x2 (aus) (sedu'u/Text/lu'e Begriff) für Publikum x3 mittels Ausdrucksmedium x4
+ cutcu cuc - - /Schuh/ x1 ist ein Schuh/Stiefel/eine Sandale zum Schützen/Bedecken von [Füßen/Hufen] x2 aus Material x3
+ cutne cut - - /Brust/ x1 ist eine/die Brust/der Brustkorb/Oberkörper [Körperteil] von x2
+ cuxna cux - cu'a /auswählen/ x1 wählt/sucht x2 [Auswahl] aus Menge/Folge von Alternativen x3 (Gesamtmenge) aus
+ da dav dza - /etwas 1/ logisch quantifiziertes existenzielles Prosumti: es gibt etwas 1 (normalerweise eingeschränkt)
+ da'a daz - - /alle außer/ Ziffer/Zahl: alle außer n; alle bis auf n; (Default 1)
+ dacra dac - - /Schublade/ x1 ist eine Schublade/Kartei/Akte in Struktur x2, ein Behälter [Schubfach] für Inhalt x3
+ dacti - - dai /Objekt/ x1 ist ein physikalisches [stoffliches] Objekt; x1 ist ein Ding
+ dadjo daj - - /Tao/ x1 repräsentiert taoistische Kultur/Ethos/Religion in Aspekt x2
+ dakfu dak - - /Messer/ x1 ist ein Messer (Werkzeug) zum Schneiden von x2 mit Klinge aus Material x3
+ dakli - - - /Sack/ x1 ist ein Sack/eine Tasche/Tüte mit Inhalt x2 aus Material x3
+ damba dab - da'a /kämpfen/ x1 kämpft/streitet gegen x2 über Streitpunkt x3 (Abstrakt); x1 ist ein Kämpfer
+ damri - - - /Trommel/ x1 ist eine Trommel/Zimbel/ein Gong [musikalisches Schlaginstrument] mit Klöppel/Auslöser x2
+ dandu dad - - /hängen/ x1 hängt/baumelt von/ist aufgehängt an x2 mit/an Gelenk/Verbindung x3
+ danfu daf - - /Antwort/ x1 ist die Antwort/Lösung/Erwiderung/Reaktion auf Frage/Problem x2
+ danlu dal - da'u /Tier/ x1 ist ein Tier/Lebewesen/Geschöpf/eine Kreatur von Art/Gattung x2
+ danmo dam - - /Rauch/ x1 besteht aus/enthält/ist eine gewisse Menge Rauch/Smog/Luftverschmutzung aus Quelle x2
+ danre - - da'e /Druck/ x1 (Kraft) übt Druck auf x2 aus/drückt (auf) x2
+ dansu - - - /tanzen/ x1 (Einzelperson/Masse) tanzt zu Begleitung/Musik/Rhythmus x2
+ danti dan - - /Flugkörper/ x1 ist ein ballistischer Flugkörper [z.B. Patrone, Rakete], der von [Gewehr/Raketenwerfer] x2 abgefeuert werden kann
+ daplu - plu - /Insel/ x1 ist eine Insel/ein Atoll aus [Material/Eigenschaften] x2 in Umgebung x3
+ dapma dap - - /verfluchen/ x1 verflucht/verdammt/verurteilt x2 zu Schicksal (Ereignis) x3
+ dargu dag - - /Straße/ x1 ist eine Straße/ein Weg nach x2 von x3 mit Route x4 (x2/x3 können ungeordnet sein)
+ darlu - - dau /argumentieren/ x1 argumentiert für Standpunkt x2 gegen Standpunkt x3; [ein Gegner ist nicht notwendig]
+ darno dar - da'o /weit/ x1 ist weit entfernt/fern von x2 in Eigenschaft x3 (ka)
+ darsi - - - /dreist/ x1 ist dreist im Betragen x2 (Ereignis/Aktivität); x1 wagt es/traut sich, x2 zu tun/zu sein (Ereignis/ka);
+ darxi dax - da'i /schlagen/ x1 schlägt/trifft x2 mit Gegenstand [oder Körperteil] x3 an Stelle x4
+ daski - - - /Tasche/ x1 ist eine Tasche in Kleidungsstück/Gegenstand x2
+ dasni das - - /tragen/ x1 trägt x2/hat x2 an/ist bekleidet mit x2 als Kleidungsstück vom Typ x3
+ daspo - spo - /zerstören/ x1 (Ereignis) zerstört/ruiniert x2; x1 ist destruktiv
+ dasri - sri - /Band/ x1 ist ein Band/Streifen aus Material x2
+ datka - - - /Ente/ x1 ist eine Ente/[Erpel] von Art/Gattung x2
+ datni - - - /Daten/ x1 (du'u) [Tatsache/Messwert] stellt Daten/Information/Statistik über x2 gesammelt durch Verfahren x3 dar
+ decti dec - - /0,1/ x1 ist ein Zehntel [1/10; 1×10^-1] von x2 in Dimension/Aspekt (Default: Einheiten)
+ degji deg - - /Finger/ x1 ist ein/der Finger/Zeh [Körperteil] an Gliedmaß/Körperstelle x2 von Körper x3; [im übertragenen Sinne: Halbinsel]
+ dejni dej - - /schulden/ x1 schuldet x2 (Schuld/Verbindlichkeit) Gläubiger x3 als Gegenleistung für x4 [Dienstleistung, Darlehen]; x1 ist ein Schuldner; x3 ist ein Gläubiger
+ dekpu - - - /Scheffel/ x1 ist x2 (Default: 1) örtliche Volumeneinheit(en) [nichtmetrisch; z.B. Scheffel, Gallone], Standard x3, Untereinheit(en) x4 (, x5, x6, ...)
+ dekto dek - - /10/ x1 ist zehn [10; 1×10^1] x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ delno del - de'o /Candela/ x1 ist x2 Candela [metrische Einheit] in Leuchtkraft (Default: 1) gemäß Standard x3
+ dembi deb - - /Bohne/ x1 ist eine Bohne/Erbse/Hülsenfrucht von Pflanze x2
+ denci den - de'i /Zahn/ x1 ist ein/der Zahn [Körperteil] von x2
+ denmi dem - - /dicht/ x1 ist dicht/dicht gepackt/konzentriert in Eigenschaft x2 (ka) an Ort/Stelle x3
+ denpa dep - de'a /warten/ x1 erwartet/wartet auf/bis x2 in Zustand x3 bevor er anfängt, x4 (Aktivität/Vorgang) zu tun/weiterzuführen
+ dertu der - de'u /Dreck/ x1 ist eine gewisse Menge/enthält/besteht aus Dreck/Erde aus Quelle x2 mit Zusammensatzung unter anderem x3
+ derxi - dre - /Haufen/ x1 ist ein Haufen/Stapel/eine Halde von Materialien x2 an Ort x3
+ desku des - - /schütteln/ x1 schüttelt/vibriert/bebt/zittert von Kraft x2
+ detri det - - /Datum/ x1 ist das Datum [Tag,{Woche},{Monat},Jahr] von Ereignis/Zustand x2 in Ort x3 gemäß Kalender x4
+ dicra dir - - /unterbrechen/ x1 (Ereignis) unterbricht/stört/stoppt/beendet x2 (Objekt/Ereignis/Vorgang) aufgrund von Qualität x3
+ dikca dic - - /elektrisch/ x1 ist Elektrizität [elektrische Ladung oder Strom] in/auf x2 von Polung/Menge x3 (Default: negativ)
+ diklo - klo - /örtlich/ x1 ist örtlich zu x2; x1 ist beschränkt auf Stelle x2 und Reichweite x3
+ dikni dik - - /regelmäßig/ x1 ist regelmäßig/zyklisch/periodisch in Eigenschaft (ka)/Aktivität x2 mit Periode/Intervall x3
+ dilcu - - - /Quotient/ x1 ist der Quotient [Divisionsergebnis] von 'x2/x3' [Dividend x2 geteilt durch Divisor x3] mit Rest x4
+ dilnu dil - - /Wolke/ x1 ist eine Wolke/Wolkenmasse aus Material x2 in Luftmasse x3 in Höhe x4
+ dimna dim - - /Schicksal/ x1 ist ein Schicksal für x2; [Verhängnis, Fluch sind Zusammensetzungen mit mabla]; x2 ist vorgesehen/dazu verurteilt/verdammt, x1 zu erleiden/erleben
+ dinju dij - di'u /Gebäude/ x1 ist ein Gebäude für Zweck x2
+ dinko - - di'o /Nagel/ x1 ist ein Nagel/eine Reißzwecke [spitze, eingetriebene oder mit Reibung arbeitende Halterung] von Typ/Größe x2 (ka) und besteht aus Material x3
+ dirba dib - - /teuer/ x1 ist x2 lieb/teuer/kostbar; x2 schätzt x1 (emotional)
+ dirce - - di'e /ausstrahlen/ x1 strahlt x2 unter Umständen x3 aus
+ dirgo dig - - /Tropfen/ x1 ist ein Tropfen [kleine, zusammenhängende Form] von Material [Flüssigkeit/Dampf] x2 in Umgebung x3
+ dizlo diz dzi - /tief/ x1 ist tief/niedrig/unten in Bezugssystem x2 verglichen mit Grundlinie/Standardhöhe x3
+ djacu jac - jau /Wasser/ x1 besteht aus/enthält/ist eine gewisse Menge/Fläche Wasser
+ djedi - dje dei /ganzer Tag/ x1 hat eine Dauer von x2 (Default: 1) ganzen Tagen) gemäß Standard x3
+ djica - dji - /möchten/ x1 möchte/begehrt/verlangt/wünscht x2 (Ereignis/Zustand) für Zweck x3
+ djine jin - - /Ring/ x1 ist ein Ring/Torus/Kreisring/Kreis [Form] von Material x2 mit Innendurchmesser x3 und Außendurchmesser x4
+ djuno jun - ju'o /wissen/ x1 weiß/kennt Tatsache(n) x2 (du'u) über Thema x3 gemäß Epistemologie/Erkenntnistheorie x4
+ do don - doi /du/ Prosumti: du Zuhörender/ihr Zuhörende; identifiziert durch Vokativ
+ donri dor - do'i /Tag/ x1 ist die Tageszeit [helle Periode] von ganzem Tag x2 in Ort x3
+ dotco dot - do'o /deutsch/ x1 repräsentiert deutsche/germanische Kultur/Nationalität/Sprache in Aspekt x2
+ draci - - - /Drama/ x1 ist ein Drama/Theaterstück über x2 [Handlung/Thema] von Schriftsteller x3 für Publikum x4 mit Schauspielern x5
+ drani - dra - /richtig/ x1 ist richtig/korrekt/angemessen in Eigenschaft/Aspekt x2 (ka) in Situation x3 gemäß Standard x4
+ drata dat - - /anderes/ x1 ist nicht dasselbe wie/ist anders als/ist etwas anderes als x2 gemäß standard x3; s1 ist etwas Anderes
+ drudi rud dru - /Dach/ x1 ist ein Dach/Oberteil/Deckel/eine Decke von x2
+ du dub - du'o /selbe Identität wie/ Identitäts-Selbri; Gleichheitszeichen =; x1 ist identisch mit x2, x3, usw.; anschließende Sumti beziehen sich alle auf dasselbe
+ du'u dum - - /Bridi-Abstraktion/ Abstraktor: Prädikations-/Bridi-Abstraktor; x1 ist die Prädikation [das Bridi], die in Satz x2 ausgedrückt wird
+ dugri dug - - /Logarithmus/ x1 ist der Logarithmus von x2 zur Basis x3
+ dukse dus - du'e /Überschuss/ x1 ist der Überschuss von/ist zuviel x2 gemäß Standard x3
+ dukti dut - - /Gegenteil/ x1 ist das (entgegengesetzte) Gegenteil von x2 in Eigenschaft/auf Skala x3 (Eigenschaft/si'o)
+ dunda dud - du'a /geben/ x1 [Geber] gibt Gabe/Geschenk x2 dem Empfänger/Begünstigten x3 [ohne Bezahlung/Gegenleistung]
+ dunja duj - - /frieren/ x1 friert/stockt/verfestigt sich bei Temperatur x2 und Druck x3
+ dunku duk - du'u /Pein/ x1 empfindet Pein/seelische Qual/Verzweiflung/Stress durch/über x2
+ dunli dun - du'i /gleich/ x1 ist gleich/kongruent mit/soviel wie x2 in Eigenschaft/Dimension/Menge x3
+ dunra dur - - /Winter/ x1 ist Winter [kalte Jahreszeit] von Jahr x2 in Ort x3
+ dzena - dze - /Ahne/ x1 ist ein Ahne/Vorfahre von x2 durch Verbindung/Beziehung/Verwandtschaftsverhältnis/Grad x3; die Generation von x1 kommt vor der von x2s Eltern
+ dzipo zip - zi'o /antarktisch/ x1 repräsentiert antarktische Kultur/Nationalität/Geographie in Aspekt x2
+ facki fak - fa'i /entdecken/ x1 entdeckt/findet x2 (du'u) (heraus) über Thema/Objekt x3; x1 findet/entdeckt (fi) x3 (Objekt)
+ fadni fad - - /gewöhnlich/ x1 [Mengenelement] ist normal/gewöhnlich/üblich/typisch in Eigenschaft x2 (ka) unter Elementen von x3 (Menge)
+ fagri fag - - /Feuer/ x1 ist (ein) Feuer/eine Flamme mit Brennstoff x2 und brennt in/reagiert mit Oxidationsmittel x3 (Default: Luft/Sauerstoff)
+ falnu fan - - /Segel/ x1 ist ein Segel zum Sammeln von Antriebsmaterial x2 auf Fahrzeug/Motor x3
+ famti - - - /Tante oder Onkel/ x1 ist eine Tante/ein Onkel von x2 mit/durch Beziehung x3; x1 ist ein Verwandter/zugehöriges Mitglied der Generation von x2s Eltern
+ fancu - - - /Funktion/ x1 ist eine Funktion/Abbildung von Definitionsbereich/Urbild x2 auf Bildbereich x3, definiert durch Ausdruck/Regel x4
+ fange - - - /ausländisch/ x1 ist ausländisch/fremd/fremdartig/[exotisch] für x2 in Eigenschaft x3 (ka)
+ fanmo fam - fa'o /Ende/ x1 ist ein Ende/Abschluss von Gegenstand/Prozess x2; [bedingt nicht unbedingt Vollständigkeit]
+ fanri - - - /Fabrik/ x1 ist eine Fabrik/eine Gießerei/ein Werk/eine Mühle und stellt x2 aus Rohmaterial x2 her
+ fanta - - - /verhindern/ x1 verhindert, dass Ereignis x2 eintritt
+ fanva - - - /übersetzen/ x1 übersetzt Text/Ausdruck x2 in Sprache x3 aus Sprache x4 mit Übersetzungsergebnis x5
+ fanza faz - - /belästigen/ x1 (Ereignis) belästigt/ärgert/reizt x2
+ fapro fap pro - /entgegenstellen/ x1 stellt sich x2 entgegen/ist ein Gegengewicht für x2 (Person/Kraft/Masse) in Bezug auf x3 (Abstrakt)
+ farlu fal - fa'u /fallen/ x1 fällt/stürzt auf x2 von x3 in Schwerkraftfeld/Bezugssystem x4
+ farna far - fa'a /Richtung/ x1 ist die Richtung von x2 (Objekt/Ereignis) relativ zu Ausgangspunkt/in Bezugssystem x3
+ farvi fav - - /entwickeln/ x1 entwickelt/entfaltet sich zu x2 aus x3 durch Zwischenschritte/Stufen x4
+ fasnu - - fau /Ereignis/ x1 (Ereignis) ist ein Ereignis, welches eintritt/stattfindet/geschieht; x1 ist ein Vorfall/eine Begebenheit
+ fatci fac - - /Fakt/ x1 (du'u) ist ein Fakt/real/wahr/eine Tatsache (absolut gesehen)
+ fatne fat - fa'e /umgekehrt/ x1 [Folge] ist in umgekehrter Reihenfolge vergleichen mit x2 [Folge]; x1 (Objekt) ist umgekehrt in Bezug auf x2 (Objekt)
+ fatri - - fai /verteilen/ x1 wird verteilt/zugemessen/zugewiesen unter x2 mit Anteilen/Portionen/Teilen x3; (x2/x3 fa'u)
+ febvi feb - - /kochen/ x1 kocht/siedet/verdampft bei Temperatur x2 und Druck x3
+ femti fem - - /1E-15/ x1 ist 1x10**-15 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ fendi fed - - /teilen/ x1 (Handelnder) teilt x2 in Teile/Abschnitte x3 mit Methode/Aufteilung x4
+ fengu feg - fe'u /ärgerlich/ x1 ist ärgerlich auf/verärgert über x2 wegen x3 (Aktion/Zustand/Eigenschaft)
+ fenki fek - - /verrückt/ x1 (Aktion/Ereignis) ist verrückt/wahnsinnig/geisteskrank/rasend gemäß Standard x2
+ fenra fer - fe'a /Spalte/ x1 ist eine Spalte/ein Riss/ein Sprung/eine Kluft/ein Pass/eine Schlucht/[ein Defekt/ein Makel] [Form] in x2
+ fenso fen - fe'o /nähen/ x1 näht/stickt Materialien x2 (einzeln/Menge) zusammen mit Werkzeug(en) x3 und Draht/Faden/Garn x4
+ fepni fep - fei /Cent/ x1 wird gemessen in Kopeken/Cent/Pennies/Gelduntereinheiten als x2 [Mengenangabe] in Geldsystem x3
+ fepri - - - /Lunge/ x1 ist eine/die Lunge [Körperteil] von x2; [im übertragenen Sinne: Atmung/Blasebalg]
+ ferti - fre - /fruchtbar/ x1 ist dem Wachsen/der Entwicklung von x2 förderlich; x1 ist fruchtbar/ergiebig/ertragreich
+ festi fes - - /Abfall/ x1 ist/sind Abfallprodukt(e) von x2 (Ereignis/Aktivität)
+ fetsi fet - fe'i /weiblich/ x1 ist ein Weibchen der Gattung x2 mit weiblicher Eigenschaft/weiblichen Eigenschaften x3 (ka); x1 ist weiblich
+ figre fig - - /Feige/ x1 ist eine Feige [Frucht/Baum] von Art/Gattung/Sorte x2
+ filso fis - - /Palästinenser/ x1 repräsentiert palästinensische Kultur/Nationalität in Aspekt x2
+ finpe fip - fi'e /Fisch/ x1 ist ein Fisch von Gattung x2 [metaphorische Ausdehnung auf Haie und im Wasser lebende Wirbeltiere außer Fischen]
+ finti fin - fi'i /erfinden/ x1 erfindet/schafft/erdenkt/dichtet/komponiert x2 für Funktion/Zweck x3 aus existierenden Elementen/Ideen x4
+ flalu - fla - /Gesetz/ x1 ist ein Gesetz und schreibt x2 (Zustand/Ereignis) vor für Gemeinschaft x3 unter Bedingungen x4 und ist erstellt von x5 (Gesetzgeber)
+ flani - - - /Flöte/ x1 ist eine Flöte/Pfeife [flötenartiges Musikinstrument, eventuell mit Rohrblatt]
+ flecu - fle - /fließen/ x1 ist eine Strömung/ein Fluss von/in x2 und fließt in Richtung x3/auf x3 zu aus Richtung/Quelle x4
+ fliba - fli - /versagen/ x1 versagt bei x2 (Zustand/Ereignis); x1 versagt in seiner Rolle als x2; x1 versagt beim Versuch, x2 zu tun
+ flira fir - - /Gesicht/ x1 ist ein/das Gesicht [Kopf-/Körperteil] von x2
+ fo'a - - fo'a /es-6/ pro-sumti: er/sie/es #6 (durch goi spezifiziert)
+ fo'e - - fo'e /es-7/ pro-sumti: er/sie/es #7 (durch goi spezifiziert)
+ fo'i - - fo'i /es-8/ pro-sumti: er/sie/es #8 (durch goi spezifiziert)
+ foldi - flo foi /Feld/ x1 ist ein Feld/eine Ebene [Form] aus Material x2; x1 ist eine breite gleichmäßige Ausdehnung/Fläche von x2
+ fonmo fom - fo'o /Schaum/ x1 ist eine gewisse Menge an Schaum/Lauge aus Material x2 mit Blasen aus Material x3
+ fonxa fon - - /Telefon/ x1 ist ein Telefon/Modem/Sender-Empfänger, verbunden mit System/Netz x2
+ forca - fro - /Gabel/ x1 ist eine Gabel/ein gabelartiges Werkzeug/Gerät für Zweck x2 mit Zinken x3 auf Basis x4
+ fraso fas - - /französisch/ x1 repräsentiert französische/gallische Kultur/Nationalität/Sprache in Aspekt x2
+ frati - fra - /reagieren/ x1 reagiert/antwortet mit Aktion x2 auf Anregung/Stimulus/Reiz unter Bedingungen x4
+ fraxu fax - - /vergeben/ x1 vergibt x2 für Ereignis/Zustand/Aktivität x3
+ frica fic - - /sich unterscheiden/ x1 unterscheidet sich von/kontrastiert mit/steht im Gegensatz zu/ist unähnlich x2 in Eigenschaft/Dimension/Menge x3
+ friko - - fi'o /afrikanisch/ x1 repräsentiert afrikanische Kultur/Nationalität/Geographie in Aspekt x2
+ frili fil - - /leicht/ x1 (Aktion) ist leicht/einfach/mühelos für x2 (Handelnden) unter Bedingungen x3; x1 bereitet x2 keine Mühe
+ frinu - - - /Bruch/ x1 ist ein mathematischer Bruch mit Zähler x2 und Nenner x3 (x2/x3)
+ friti fit - - /anbieten/ x1 bietet x2 [Gabe/Angebot] x3 (Empfänger) an mit Bedingungen x4
+ frumu - fru - /Grimasse/ x1 runzelt die Stirn/zieht eine Grimasse/zieht die Augenbrauen zusammen (Gesichtsausdruck)
+ fukpi fuk - fu'i /kopieren/ x1 ist eine Kopie/ein Duplikat/ein Klon von x2 in Form/Medium/Gestalt x3, hergestellt durch Vorgang/Method x4 (Ereignis)
+ fulta ful flu - /treiben/ x1 (passiv) treibt/schwimmt/schwebt auf/in Fluid (Flüssigkeit/Gas) x2
+ funca fun - fu'a /Schicksal/ x1 (Ereignis/Eigenschaft) wird bestimmt durch das Schicksal/Glück/Pech/Los von x2; (Hinweis: weder explizit positive noch negative Konnotation)
+ fusra fur - - /verrotten/ x1 verrottet/verfault/fermentiert/gärt/verwest mit Verwesung/Gärungsmittel x2; x1 ist faul/verfault/morsch
+ fuzme fuz - fu'e /verantwortlich/ x1 ist verantwortlich/rechenschaftspflichtig für x2 (Aktion/Ergebniszustand) gegenüber Richter/Autorität x3
+ gacri - - gai /Bedeckung/ x1 ist eine Bedeckung/ein Deckel/eine Abdeckung/ein Bezug und bedeckt/schützt/verbirgt x2
+ gadri gad - - /Artikel/ x1 ist ein Artikel/Deskriptor und kennzeichnet Beschreibung x2 (Text) in Sprache x3 mit Semantik x3
+ galfi gaf - ga'i /verändern/ x1 (Ereignis) verändert/ändert/modifiziert/wandelt x2 in/nach x3
+ galtu gal - ga'u /hoch/ x1 ist hoch/oben in Bezugssystem x2 vergleichen mit Grundlinie/Bezugspunkt/Standardhöhe x3
+ galxe - - - /Hals/ x1 ist ein/der Hals/Rachen [Körperteil] von x2; [im übertragenen Sinne: schmale Öffnung eines tiefen Loches]
+ ganlo - - ga'o /geschlossen/ x1 (Portal/Durchgang/Eingang) ist geschlossen/zu/nicht offen und versperrt den Zugang zu x2 durch x3
+ ganra gan - - /breit/ x1 ist breit/weit in Dimension x2 [zweitwichtigste Dimension] gemäß Standard x3
+ ganse gas - ga'e /wahrnehmen/ x1 [Erfahrender] nimmt wahr/erfasst/bemerkt Reiz-Eigenschaft x2 (ka) mit Mitteln x3 unter Umständen x4
+ ganti - - - /Keimdrüse/ x1 ist/sind Hoden/Eierstock/Staubblatt/Stempel [Körperteil] von x2, Geschlecht x3
+ ganxo gax - - /After/ x1 ist der After/der Darmausgang/das Arschloch [Körperteil] von x2; [im übertragenen Sinne: Ausgang; Abfallöffnung]
+?ganzu gaz - - /organisieren/ x1 organisiert x2 [relatives Chaos] in x3 [geordnetes/organisiertes Ergebnis] gemäß System/Prinzipien x4
+?gapci gac - - /Gas/ x1 ist gasförmig/Schwaden/Gas/Dampf aus Material/Zusammensatzung unter anderem x2, unter Umständen x3
+ gapru gap - - /über/ x1 ist direkt/senkrecht über/oberhalb von x2 in Schwerkraft/Bezugssystem x3
+ garna gar - - /Schiene/ x1 ist eine Schiene/Reling/Latte/ein Geländer/Balken und stützt/beschränkt x2; aus Material x3
+ gasnu - - gau /tun/ x1 [Person/Handelnder] ist die handelnde Ursache für Ereignis x2; x1 tut/verursacht/bewirkt x2; x1 führt x2 herbei
+?gasta gat - - /Stahl/ x1 ist eine gewisse Menge/besteht aus/enthält Stahl von Zusammensetzung unter anderem x2
+?genja gej - - /Wurzel/ x1 ist eine Wurzel [Körperteil] von Pflanze/Spezies x2; [im übertragenen Sinne: unbeweglich, stützend, nährend]
+ gento get - ge'o /Argentinier/ x1 repräsentiert argentinische Kultur/Nationalität in Aspekt x2
+ genxu gex - - /Haken/ x1 ist ein Haken [Form] aus Material x2
+ gerku ger - ge'u /Hund/ x1 ist ein Hund von Spezies/Gattung/Art x2
+ gerna gen - ge'a /Grammatik/ x1 ist die Grammatik/der Regelsatz der Sprache x2 für Struktur/Text x3
+?gidva gid - gi'a /Führer/ x1 (Person/Objekt/Ereignis) führt/leitet/steuert x2 (aktive Teilnehmer) bei x3 (Ereignis)
+ gigdo gig - gi'o /1E9/ x1 ist eine Milliarde [1x10**9] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+?ginka gik - - /Lager/ x1 ist ein Lager/Camp/eine temporäre Ansiedlung von x2 an Ort x3
+?girzu gir gri - /Gruppe/ x1 ist eine Gruppe/ein Haufen/ein Schwarm mit gemeinsamer Eigenschaft (ka) x2 aufgrund von Menge x3 verbunden durch Beziehung x4
+?gismu gim - gi'u /Stammwort/ x1 ist ein (Lojban-)Stammwort und drückt Beziehung x2 zwischen Argumenten x3 aus, mit Vor-/Nachsilbe(n) x4
+ glare - gla - /heiß/ x1 ist heiß/warm gemäß Standard x2
+ gleki gek - gei /glücklich/ x1 ist glücklich/fröhlich/erfreut/froh über x2 (Ereignis/Zustand)
+?gletu let gle - /kopulieren/ x1 kopuliert mit/paart sich mit/verkehrt sexuell mit/fickt x2
+ glico gic gli - /Englisch/ x1 ist englisch/gehört zur englischsprachigen Kultur in Aspekt x2
+ gluta - glu - /Handschuh/ x1 ist ein Handschuh/Fäustling [Bekleidung für Hand und Unterarm] aus Material x2
+ gocti goc - - /1E-24/ x1 ist 1x10**-24 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ gotro got - - /1E24/ x1 ist 1x10**24 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ gradu - - rau /Einheit/ x1 [Größenordnung] ist eine Einheit/ein Grad auf Skala/gemäß Referenzstandard x2 (si'o) und misst Eigenschaft x3
+?grake - gra - /Gramm/ x1 ist x2 Gramm [metrische Einheit] an Masse (Default: 1) gemäß Standard x3
+ grana - - ga'a /Stange/ x1 ist ein Stab/eine Stange/ein Pfahl/ein Stock [Form] aus Material x2
+ grasu ras - - /Fett/ x1 ist eine Menge an/besteht aus/enthält Schmiere/Fett/Öl aus Quelle x2
+?greku rek - - /Rahmen/ x1 ist ein Rahmen/eine Struktur/ein Skelett und stützt/trägt/gibt die Form für x2 vor
+ grusi rus - - /grau/ x1 ist grau [Farbadjektiv]
+ grute rut - - /Frucht/ x1 ist eine Frucht [Körperteil] von Spezies/Gattung/Art/Sorte x2
+?gubni gub - - /öffentlich/ x1 ist öffentlich/offen/nicht versteckt/gehört allen aus Gemeinschaft x2 (Masse)
+?gugde gug - gu'e /Land/ x1 ist das Land von Völkern x2 mit Gebiet/Ausdehnung x3; (Beziehung zwischen einem Volk und einem Gebiet)
+ gundi gud - - /Industrie/ x1 ist Industrie/industriell/systematische Fertigungsaktivität und produziert x2 mit Prozess/Mitteln x3
+ gunka gun - gu'a /arbeiten/ x1 [Person] arbeitet an x2 [Aktivität] mit Ziel x3
+?gunma gum - - /gemeinsam/ x1 ist eine Masse/ein Team/ein Aggregat/ein Ganzes und besteht aus Einzelteilen x2, als Ganzes betrachtet
+ gunro gur - gu'o /rollen/  x1 rollt auf/gegen Oberfläche x2 und rotiert auf Achse x3; x1 ist ein Roller
+ gunse - - - /Gans/ x1 ist eine Gans/ein Ganter von Spezies/Gattung/Art x2
+ gunta gut - - /angreifen/ x1 (Person/Masse) greift x2 an/dringt in x2 ein/übt Aggression an Opfer x2 aus mit Ziel x3
+ gurni - gru - /Getreide/ x1 ist Getreide/Korn von Pflanze/Art x2
+?guska guk - - /kratzen/ x1 (Klinge/Schaber) kratzt/schabt/schleift x2 von x3
+ gusni gus - gu'i /erleuchten/ x1 [Energie] ist Licht/Beleuchtung und erleuchtet x2 aus Lichtquelle x3
+?gusta - - - /Restaurant/ x1 ist ein Restaurant/ein Café/ein Imbiss und serviert x2 (Art Essen) an Publikum/Gäste x3
+?gutci guc - - /Elle/ x1 ist x2 (Default: 1) kurze [nicht-metrische] örtliche Entfernungseinheit, gemäß Standard x3, mit Untereinheiten x4
+ gutra - - - /Gebärmutter/ x1 ist eine/die Gebärmutter [Körperteil] von x2; [im übertragenen Sinne: nährend, schützend, Leben gebend]
+ guzme guz zme - /Melone/ x1 ist eine Melone/ein Kürbis [Frucht/Pflanze] von Spezies/Gattung/Art x2
+ ja    jav          /Tanru-Oder/ logische Verknüpfung: Tanru-internes nachgestelltes 'oder'
+ jabre              /bremsen/ x1 bremst/verlangsamt Bewegung/Aktivität x2 mittels Vorrichtung/Mechanismus/Prinzip x3
+?jadni jad     ja'i /schmücken/ x1 (Gegenstand) schmückt/dekoriert x2; x1 ist Schmuck/Dekoration auf x2; x2 ist geschmückt/dekoriert
+ jakne              /Rakete/ x1 ist eine Rakete [Fahrzeug], angetrieben durch Düse, die x2 ausstößt, mit Nutzlast x3
+ jalge jag     ja'e /Ergebnis/ x1 (Aktion/Ereignis/Zustand) ist das Ergebnis/Resultat/die Folgerung von x2 (Ereignis/Zustand/Prozess)
+ jalna              /Stärke/ x1 ist eine Menge an/enthält/besteht aus Stärke aus Quelle x2 von Zusammensetzung unter anderem x3
+ jalra              /Schabe/ x1 ist eine Schabe/Küchenschabe/Kakerlake/[Termite] von Spezies/Gattung x2
+?jamfu jaf jma      /Fuß/ x1 ist ein/der Fuß [Körperteil] von x2; [im übertragenen Sinne: niedrigster Teil] (adjektiv:) x1 ist pedal
+?jamna jam          /Krieg/ x1 (Person/Masse) führt Krieg gegen x2 über Territorium/Gebiet/Angelegenheit x3; x1 und x2 bekriegen sich
+ janbe jab          /Glocke/ x1 ist eine Glocke/ein Glockenspiel/[eine Stimmgabel] [gestimmtes Schlaginstrument] und erzeugt Klang/Note/Ton x2
+ janco jan          /Schulter/ x1 ist eine/die Schulter/Hüfte/ein Gelenk [Körperteil], das Gliedmaß x2 mit Körper x3 verbindet
+ janli jal          /kollidieren/ x1 kollidiert mit/stößt zusammen mit/prallt auf x2
+ jansu jas          /Diplomat/ x1 ist ein Diplomat/Konsul/Gesandter und vertritt Staat/Einheit x2 in/bei Verhandlung x3 mit Funktion/zu Zweck x4
+?janta jat          /Rechnung/ x1 ist eine Rechnung für Güter/Dienstleistungen x2, ausgestellt an x3 durch x4
+ jarbu              /Vorort/ x1 ist ein Vorort/Stadtrand von Stadt/Metropole x2
+ jarco         ja'o /zeigen/ x1 (Handelnder) zeigt/stellt aus/führt vor/zeigt vor/[enthüllt]/demonstriert x2 (Eigenschaft) vor Publikum x3
+?jarki jak          /schmal/ x1 ist schmal in Dimension x2 [zweitwichtigste Dimension] gemäß Standard x3
+ jaspu jap          /Pass/ x1 ist ein Pass/Ausweis ausgestellt an x2 (Person) durch Behörde x3 und erlaubt x4 (Aktivität)
+?jatna         ja'a /Kapitän/ x1 ist der Kapitän/Kommandeur/Führer/Leiter/Boss von Fahrzeug/Domäne x2
+ javni     jva      /Regel/ x1 ist eine Regel und schreibt vor/verordnet/verlangt x2 (Ereignis/Zustand) innerhalb System/Gemeinschaft x3
+ jbama bam          /Bombe/ x1 ist eine Bombe mit explosivem Material/Prinzip x2
+ jbari     jba      /Beere/ x1 ist eine Beere (Frucht/Pflanze) von Pflanze/Art x2
+ jbena     jbe      /geboren/ x1 wird (den Eltern) x2 geboren am/um x3 [Zeit/Geburtstag] in Ort x4 [Geburtsort]; x1 stammt aus (fo) x4
+ jbera jer          /ausleihen/ x1 (Handelnder) leiht sich/borgt/übernimmt zeitweilig x2 (Gegenstand) von/aus Quelle x3 für Zeitraum x4
+ jbini bin     bi'i /zwischen/ x1 ist zwischen/unter einer Menge an Punkten/Grenzen x2 (Menge)/unter Masse x2 mit Eigenschaft x3 (ka)
+ jdari jar          /fest/ x1 ist fest/hart/unnachgiebig gegenüber Kraft x2 unter Umständen x3
+ jdice     jdi      /entscheiden/ x1 (Person) entscheidet/trifft Entscheidung x2 (du'u) in Bezug auf Angelegenheit x3 (Ereignis/Zustand)
+ jdika              /abnehmen/ x1 (Opfer) nimmt ab/wird verringert/vermindert/verkleinert in Eigenschaft/Menge x2 um Betrag/Menge x3
+ jdima         di'a /Preis/ x1 [Menge] ist der Preis von x2 für Käufer x3 gemäß/festgesetzt von Verkäufer x4
+ jdini din     di'i /Geld/ x1 ist Geld/Währung, herausgegeben von x2; (Adjektiv:) x1 ist finanziell/geldlich
+ jduli dul jdu      /Gelee/ x1 ist eine Menge an Gelee/Gallert/halbfester Masse [Textur/Beschaffenheit] von Material/Zusammensetzung unter anderem x2
+ je    jev jve      /Tanru-Und/ logische Verknüpfung: Tanru-internes nachgestelltes 'und'
+?jecta jec     je'a /Staat/ x1 ist ein Staat/Gemeinwesen mit Herrschaft über Territorium/Domäne x2 [Beziehung zwischen Regierung und Gebiet]
+ jeftu jef          /Woche/ x1 dauert x2 Wochen (Default: 1) gemäß Standard x3
+?jegvo jeg     je'o /Jahwist/ x1 gehört zur allgemeinen Jüdisch-Christlich-Muslimischen Kultur/Religion/Nationalität in Aspekt x2
+?jei   jez          /Wahrheitswert-Abstraktion/ Abstraktion: Wahrheitswert; x1 ist der Wahrheitswert von [bridi] gemäß Metaphysik x2
+?jelca jel          /brennen/ x1 brennt/[entzündet/ist entzündlich] bei Temperatur x2 in Atmosphäre x3
+ jemna     jme      /Edelstein/ x1 ist ein Edelstein/Schmuckstein/Juwel/eine Perle von Typ x2 aus Material/Quelle x3
+ jenca jen          /schocken/ x1 (Ereignis) schockt/lähmt x2
+?jendu jed          /Achse/ x1 ist eine Achse/Spindel auf der sich x2 dreht, aus Material/mit Eigenschaft x3
+ jenmi jem     jei  /Armee/ x1 (Masse) ist eine Armee/die Bundeswehr, die Gruppe/Gemeinschaft x2 (Masse) dient mit Funktion x3 (Aktivität)
+ jerna              /verdienen/ x1 (Person/Handelnder) verdient Lohn/Bezahlung x2 für Arbeit/Dienstleistung x3 (Aktivität)
+?jersi         je'i /verfolgen/ x1 verfolgt/jagt x2/folgt x2 nach; Freiwilligkeit ist nicht impliziert für x1 oder x2
+ jerxo jex          /Algerier/ x1 repräsentiert algerische Kultur/Nationalität in Aspekt x2
+ jesni jes          /Zeiger/ x1 ist eine Nadel/ein Zeiger [zeigende Form, kein Werkzeug] aus Material x2
+ jetce         je'e /Strahl/ x1 ist ein Strahl [ausgestoßener Jet-Stream] aus Material x2, ausgestoßen von x3
+ jetnu jet     je'u /wahr/ x1 (du'u) ist wahr/die Wahrheit gemäß Standard/Erkenntnistheorie x2
+?jgalu         ja'u /Klaue/ x1 ist eine Klaue/Kralle/ein (Finger-)Nagel [Körperteil] von x2; [im übertragenen Sinn: gerichtet, stechend, physikalische Waffe]
+#jganu     jga      /Winkel/ x1 ist ein Winkel [Zweidimensionale Form] an Ecke/Punkt x2 dem die Seite [Segment] x3 gegenüberliegt
+ jgari         jai  /greifen/ x1 greift/packt/fasst/umklammert/[umarmt] x2 mit x3 [Teil von x1] an Stelle x4 [Teil von x2]
+ jgena     jge      /Knoten/ x1 ist ein Knoten/Gewirr von/zwischen x2 (Objekt/jo'u-Objekte)
+ jgina gin          /Gen/ x1 ist ein Gen von Lebewesen [oder an Körperstelle von Lebewesen] x2 und bestimmt Merkmal/Prozess x3
+ jgira     jgi      /stolz/ x1 (Person) ist stolz auf/besitzt Stolz über x2 (Abstraktion)
+ jgita git          /Gitarre/ x1 ist eine Gitarre/Violine/Geige/Harfe [Saiteninstrument] mit Auslöser/Plektrum/Bogen x2
+ jibni     jbi      /nah/ x1 ist nahe/in der Nähe von x2 in Eigenschaft/Menge x3 (ka/ni); x1 nähert sich x2 an
+ jibri jib          /Beruf/ x1 ist ein Beruf/Job/eine Arbeitsstelle/Beschäftigung (eine regelmäßige Arbeit mit Bezahlung) von Person x2
+?jicla              /rühren/ x1 (Objekt, oder Ereignis: Kraft) verrührt/bewegt/durchmischt Flüssigkeit (gasförmig/flüssig) x2
+#jicmu     cmu      /Grundlage/ x1 ist eine Basis/Grundlage/ein Fundament/grundlegendes Prinzip von x2; x1 ist am Fuß/Grund von x2/das Wesentlichste von x2
+#jijnu jij          /intuitiv wissen/ x1 (Person) weiß x2 (du'u) durch Intuition über Thema x3
+#jikca jik          /gesellig/ x1 kommuniziert/pflegt den Umgang/zeigt gesellschaftliches Verhalten mit x2; x1 knüpft Kontakt mit x2/ist gesellig/kontaktfreudig gegenüber x2
+?jikru              /Spirituose/ x1 ist eine Menge an/enthält/besteht aus Spirituosen/Hochprozentigem destilliert von x2
+?jilka jil          /Base/ x1 ist eine Menge an/enthält/besteht aus einer Base/Lauge mit Zusammensetzung unter anderem x2; x1 ist alkalisch
+?jilra              /neidisch/ x1 ist neidisch auf/beneidet x2 (Person) wegen/für x3 (Eigenschaft - ka)
+ jimca jic          /Zweig/ x1 ist ein Zweig/Ast/Glied von x2; x2 gabelt/verzweigt sich in x1 [bevorzugt vor birka im übertragenen Sinn]
+ jimpe     jmi      /verstehen/ x1 versteht/begreift Tatsache/Wahrheit x2 (du'u) über Thema x3; x1 versteht (fi) x3
+ jimte jit          /Obergrenze/ x1 ist eine Obergrenze/ein Limit/Extrem/Begrenzung von x2 in Eigenschaft/Domäne x3
+ jinci              /Schere/ x1 ist eine Schere zum Schneiden von x2
+?jinga jig     ji'a /gewinnen/ x1 gewinnt/erhält den Preis/Gewinn x2 beim Wettkampf gegen x3 [Konkurrent/Verlierer] im Wettkampf x4
+ jinku              /Impfstoff/ x1 ist ein Impfstoff und schützt x2 gegen Krankheit x3, eingebracht/eingenommen/gespritzt mit Methode x4
+ jinme jim          /Metall/ x1 ist eine Menge an/enthält/besteht aus Metall mit Zusammensetzung unter anderem x2
+?jinru jir          /eintauchen/ x1 (Objekt/Person) ist eingetaucht/untergetaucht/badet in Flüssigkeit x2
+ jinsa jis          /sauber/ x1 (Objekt) ist sauber/rein/unverschmutzt von Material/Verunreinigung/Schmutz x2 gemäß Standard x3
+ jinto              /Quelle/ x1 ist eine Quelle/ein Brunnen von Flüssigkeit x2 an Ort x3
+?jinvi jiv     ji'i /meinen/ x1 meint/denkt/vertritt die Auffassung, dass x2 [Meinung] (du'u) wahr ist, über 
+Thema/Angelegenheit x3 mit der Begründung/auf Grund von x4
+?jinzi jiz          /angeboren/ x1 (Eigenschaft - ka) ist ein(e) angeborene(r)/immanente(r)/natürliche(r) Eigenschaft/Aspekt von x2
+ jipci              /Huhn/ x1 ist ein Huhn/Hahn/Hähnchen/eine Henne von Spezies/Art/Gattung x2
+ jipno jip     ji'o /Spitze/ x1 ist eine Spitze/Ecke/ein Zipfel [0-dimensionale Form] auf/von Objekt x2 an Stelle x3
+ jirna              /Horn/ x1 ist ein/das Horn [Körperteil] von x2; [im übertragenen Sinne: gerichtete Extremität]
+ jisra              /Saft/ x1 ist eine Menge an/enthält/besteht aus Saft/Nektar aus Quelle/von Typ x2
+ jitfa jif          /unwahr/ x1 (du'u) ist unwahr/falsch/eine Unwahrheit gemäß Standard/Erkenntnistheorie x2
+ jitro     tro      /kontrollieren/ x1 hat die Kontrolle über/managet/führt/leitet/steuert x2 in x3 (Aktivität/Ereignis)
+ jivbu              /weben/ x1 webt x2 aus Material/Faden x3
+ jivna     jvi      /konkurrieren/ x1 konkurriert/wetteifert mit Gegner x2 in Wettkampf/Wettbewerb x3 (Ereignis) für Nutzen/Zugewinn x4; x1 ist ein Rivale von x2
+ jmaji jaj          /versammeln/ x1 (Masse/jo'u) versammelt sich an Ort x2 aus den Orten x3 (Masse/jo'u)
+?jmifa              /Untiefe/ x1 ist eine Untiefe/ein Riff aus Material x2 in Wasser/Gewässer x3
+?jmina min          /hinzufügen/ x1 fügt x2 x3 zu mit Ergebnis x4; x1 mengt/gibt x2 x3 bei; x1 addiert x2 und x3 mit Ergebnis x4; x1 vergrößert x2 um Menge x3
+ jmive miv     ji'e /leben/ x1 lebt/ist lebendig gemäß Standard x2; x1 ist ein Organismus/Lebewesen
+?jo    jov          /Tanru-Wenn/ logische Verknüpfung: Tanru-internes nachgestelltes wenn-und-nur-wenn [genau-dann-wenn]
+?jo'e  jom          /Vereinigung/ nicht-logische Verknüpfung: Vereinigung von Mengen
+#jo'u          jo'u /gemeinsam mit/ nicht-logische Verknüpfung: gemeinsam mit; zusammen mit (unvermischt)
+?joi   jol     joi  /in einer Masse mit/ nicht-logische Verknüpfung: vermischte Verbindung; &quot;und&quot; mit der Bedeutung &quot;zusammengemischt&quot;, eine Masse formend
+ jordo jor     jo'o /Jordanier/ x1 repräsentiert jordanische Kultur/Nationalität in Aspekt x2
+ jorne jon     jo'e /verbunden/ x1 ist verbunden/vereinigt mit x2/angeschlossen an x2 an gemeinsamer Stelle x3; x1 und x2 sind ein Bund/eine Vereinigung
+?ju    juv          /Tanru-Ob/ logische Verknüpfung: Tanru-internes nachgestelltes ob-oder-ob-nicht/gleichgültig ob
+ jubme jub jbu      /Tisch/ x1 ist ein Tisch/eine feste Oberfläche aus Material x2, gehalten/gestützt von Beinen/Basis/Sockel x3
+ judri              /Adresse/ x1 ist eine Adresse/sind die Koordinaten von x2 in System x3
+ jufra juf     ju'a /Satz/ x1 (Text) ist ein Satz/eine Aussage über x2 [Thema/Prädikat/Schwerpunkt] in Sprache x3
+ jukni juk          /Spinne/ x1 ist eine Spinne/Arachnid/[Krebs/Schalentier/Hummer/Nicht-Insekt Gliederfüßler] von Spezies/Art/Gattung x2
+ jukpa jup          /kochen/ x1 kocht/gart/bereitet Essen x2 zu nach Rezept/Methode x3 (Prozess)
+ julne         ju'e /Netz/ x1 ist ein Netz/Filter, lässt x2 durch und verhindert den Durchgang/Durchfluss von x3, mit Netz-/Geflechteigenschaft x4
+?jundi jud     ju'i /aufmerksam/ x1 ist aufmerksam gegenüber Objekt/Angelegenheit x2; x1 ist achtsam/schenkt x2 die Aufmerksamkeit
+ jungo jug          /Chinese/ x1 repräsentiert chinesische [Mandarin, Kantonesisch, Wu, etc.] Kultur/Nationalität/Sprache in Aspekt x2
+ junla jul          /Uhr/ x1 ist eine Uhr und misst Zeiteinheiten x2 mit Genauigkeit x3 und Methode x4
+ junri jur          /ernsthaft/ x1 (Person) ist ernsthaft bezüglich x2/zeigt Ernst über x2 (Ereignis/Zustand/Aktivität)
+?junta              /Gewicht/ x1 ist das Gewicht von Objekt x2 in Feld x3 [Gravitation oder andere Kraft]
+ jurme jum          /Keim/ x1 ist ein Bakterie/Keim/Mikrobe/Einzeller/Amöbe von Spezies/mit bestimmender Eigenschaft x2
+ jursa jus          /heftig/ x1 (Ereignis/Aktion/Zustand) ist hart/heftig/schwerwiegend für x2 [Opfer]
+ jutsi jut          /Spezies/ x1 ist eine Spezies/Art von Gattung x2, Familie x3, etc.; [offene Baumstrukur-Kategorisierung]
+?juxre jux          /schwerfällig/ x1 (Aktion) ist schwerfällig/ungeschickt/misslich gemäß Standard x2
+ jvinu vin     ji'u /Sicht/ x1 ist die Sicht/Aussicht/Szene/der Anblick/das Panorama von x2 (Objekt/Ort) von Perspektive/Blickwinkel x3
+ ka    kam          /Eigenschafts-Abstraktion/ Abstraktion: Eigenschaft/Qualität Abstraktor (-heit/keit); x1 ist eine Eigenschaft aufgewiesen von [bridi]
+ kabri              /Becher/ x1 ist ein Becher/Glas/eine Tasse/ein Krug, enthält x2 (Inhalt) und ist aus Material x3
+#kacma              /Kamera/ x1 ist eine Kamera/ein Fotoapparat und nimmt/speichert Bilder mit Strahlung von Typ x2 (z.B. Licht) auf Medium x3 (auf)
+ kadno              /Kanadier/ x1 repräsentiert kanadische Kultur/Nationalität in Aspekt x2
+?kafke              /husten/ x1 hustet/pupst/rülpst x2 [vorwiegend gasförmig] aus Körperöffnung x3 aus
+ kagni kag          /Firma/ x1 ist eine Firma/ein Betrieb/Unternehmen/eine Handels-/Kapitalgesellschaft zugelassen von Autorität/Behörde x2 für Zweck x3
+ kajde     jde      /warnen/ x1 (Ereignis/Erfahrung) warnt x2 (Person) vor Gefahr x3 (Ereignis/Zustand/Eigenschaft)
+#kajna              /Regal/ x1 ist ein Gestell/Regal/eine Ablage/Theke in/auf/verbunden mit stützendem Objekt x2 für Zweck x3
+ kakne         ka'e /fähig/ x1 ist fähig/im Stande x2 (Ereignis/Zustand) zu tun/sein, unter Bedingungen x3 (Ereignis/Zustand)
+#kakpa              /graben/ x1 (Handelnder) gräbt x2 [Material] aus Loch/Ursprung x3 mit Gliedmaßen/Werkzeug x4
+ kalci              /Kot/ x1 ist der Kot/sind die Fäkalien/Exkremente von x2 (Tier/Person); (Adjektiv:) x1 ist fäkal
+ kalri kar          /offen/ (Portal/Durchgang/Eingang) ist offen/geöffnet und lässt einen Durchgang zu x2 für x3
+ kalsa kas          /chaotisch/ x1 ist chaotisch/ungeordnet in Eigenschaft/Aspekt x2 (ka)
+?kalte kat          /jagen/ x1 jagt/pirscht sich Beute/Opfer/Wild x2 an, für Zweck x3
+ kamju              /Säule/ x1 ist eine Säule/Stütze/ein Pfeiler aus Material x2
+ kamni              /Komitee/ x1 (Masse) ist ein Komitee/Gremium/Ausschuss mit Aufgabe/Zweck x2, von Institution x3
+ kampu         kau  /allgemein/ x1 (Eigenschaft - ka) ist allgemein (gültig)/generell/universell unter Elementen von Menge x2 (Gesamte Menge); x1 ist eine gemeinsame Eigenschaft der Elemente der Menge x2
+ kanba              /Ziege/ x1 ist eine Ziege/[Geiß/Zicke/Bock] von Spezies/Art/Gattung x2
+?kancu kac          /zählen/ x1 (Handelnder) zählt die Anzahl der Elemente in Menge x2 mit Ergebnis x3 [Anzahl] in Zähleinheiten x4
+?kandi kad          /schwach/ x1 ist trübe/matt/bleich/schwach in Eigenschaft x2 (ka), gemessen/empfangen von Betrachter x3
+ kanji kaj          /rechnen/ x1 errechnet/berechnet/schätzt x2 [Wert (ni)/Zustand] aus Daten x3 mit Prozess x4
+ kanla kal          /Auge/ x1 ist ein Auge [Körperteil] von x2; [im übertragenen Sinne: Sinnesapparat]
+ kanro         ka'o /gesund/ x1 ist gesund/fit/von guter Gesundheit gemäß Standard x2
+ kansa kan          /mit/ x1 ist mit/begleitet/ist ein Begleiter/Gefährte von x2 in Zustand/Bedingung/Vorhaben x3 (Ereignis/Zustand)
+ kantu         ka'u /Quant/ x1 ist ein Quant/Strahl/Elementarteilchen/die kleinste messbare Zunahme von Eigenschaft/Aktivität x2
+ kanxe kax          /Konjunktion/ x1 ist eine Konjunktion/logische Und-Verknüpfung und sagt aus, dass x2 (du'u) und x3 (du'u) beide wahr sind
+#karbi kab          /vergleichen/ x1 [Betrachter] vergleicht x2 mit x3 in Eigenschaft x4 und stellt dabei [Ergebnis des Vergleichs] x5 (Zustand) fest
+ karce              /Auto/ x1 ist ein Auto/Wagen/Lastwagen [ein Motorfahrzeug mit Rädern] zum Transport von x2, angetrieben von x3
+ karda              /Karte/ x1 ist eine Karte [kleine fast zweidimensionale Form] aus Material x2 mit Form x3
+ kargu              /teuer/ x1 (Objekt/Produkt/Eigenschaft/Ereignis) ist teuer/kostspielig für x2 gemäß Standard x3
+ karli              /Kragen/ x1 ist ein Kragen/Ring/Gürtel/Band um x2 aus Material x3
+ karni              /Zeitschrift/ x1 ist eine Zeitschrift/Journal/Magazin mit Inhalt x2 veröffentlicht von x3 für Leserschaft/Zielgruppe x4
+ katna         ka'a /schneiden/ x1 (Werkzeug/Klinge/Kraft) schneidet/teilt x2 (Objekt) in Teile/Stücke x3
+#kavbu kav          /fangen/ x1 fängt/ergreift/schnappt/erwischt x2/nimmt x2 fest mit Falle/Mittel x3
+?ke    kem          /Gruppierung beginnen/ Gruppierung von tanru, etc. beginnen; ...-Typ von ...; Überschreibt normale Tanru-Linksgruppierung
+?ke'e  kep     ke'e /Gruppierung beenden/ auslassbares Endzeichen: Ende der Linksgruppierungs-Aufhebung von Tanru (normalerweise auslassbar)
+ kecti kec     ke'i /bemitleiden/ x1 (Person) bedauert/bemitleidet x2 (Person) wegen x3 (Abstraktion)
+?kei   kez          /Abstraktion beenden/ auslassbares Endzeichen: Ende der Abstraktion (meist auslassbar)
+ kelci kel     kei  /spielen/ x1 [Handelnder] spielt mit Spielzeug x2
+?kelvo         ke'o /Kelvin/ x1 ist x2 Kelvin [metrische Einheit] an Temperatur (Default: 1) gemäß Standard x3
+?kenra ken          /Krebs/ x1 ist Krebs/ein Krebs [maligne Krankheit] von/in x2
+ kensa kes          /Weltraum/ x1 ist der Weltraum/das All nahe/zugehörig zu Himmelskörper/Region x2
+ kerfa     kre      /Haare/ x1 ist ein/das Haar/Fell [Körperteil] von x2 an Körperstelle x3
+ kerlo ker          /Ohr/ x1 ist ein Ohr [Körperteil] von x2; [im übertragenen Sinne: Sinnesapparat, Informationserfassung]
+?ketco ket tco      /Südamerikaner/ x1 repräsentiert südamerikanische Kultur/Nationalität/Geografie in Aspekt x2
+?kevna kev     ke'a /Höhle/ x1 ist eine Höhle/Aushöhlung/ein Loch in x2; x1 ist konkav innerhalb/in x2; x2 ist eine Aushöhlung an Stelle x1
+ kicne kic     ki'e /Polster/ x1 polstert x2 mit Material x3; x1 ist ein Kissen/Polster [für x2] aus Füllmaterial x3
+ kijno kij          /Sauerstoff/ x1 ist eine Menge/enthält/besteht aus Sauerstoff (O); [im übertragenen Sinne: hält Leben/Brand aufrecht]
+ kilto         ki'o /1000/ x1 ist ein Tausend [1000; 1x10**3] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ kinli kil          /scharf/ x1 ist scharf/schneidend an Stelle x2
+ kisto kis          /Pakistaner/ x1 repräsentiert pakistanische/paschtunische Kultur/Nationalität/Sprache in Aspekt x2
+?klaji laj          /Straße/ x1 ist eine Straße/Allee/Fahrbahn/Gasse/Sackgasse bei/in x2, Zugangsweg zu x3
+ klaku kak          /weinen/ x1 weint Tränen x2 wegen/auf Grund von x3 (Ereignis/Zustand)
+ klama     kla      /kommen/ x1 kommt/geht zu x2 von Ausgangspunkt x3 über Route mit Fahrzeug/Mittel x5
+?klani         lai  /Menge/ x1 ist eine Menge/Anzahl/Größe gemessen/gezählt von x2 (Quantor) auf Skala x3 (si'o)
+ klesi     kle lei  /Klasse/ x1 (Masse/si'o) ist eine Klasse/Kategorie/Gruppe/Untermenge innerhalb von x2 mit bestimmender Eigenschaft x3 (ka)
+#klina     kli      /transparent/ x1 (Objekt/Medium) ist durchsichtig/transparent/ohne Hindernis für Übertragung von x2
+ kliru              /Chlor/ x1 ist eine Menge an/enthält/besteht aus Halogen von Typ x2 [Chlor, Fluor, Iod, etc.]
+ kliti kit          /Lehm/ x1 ist eine Menge an/enthält/besteht aus Lehm/Ton [feuchter, klebriger Schmutz] mit Zusammensetzung unter anderem x2
+#klupe lup     lu'e /Schraube/ x1 ist eine Schraube [Befestiger] für Zweck x2, Gewinde [Steigung/Material] x3, eingeschraubt in Umgebung [Dicke, Material] x4
+ kluza luz          /lose/ x1 (Objekt) ist locker/lose/nicht fest an x2 (Objekt) an Stelle x3
+ kobli kob     ko'i /Kohl/ x1 ist eine Menge an Kohl/Kopfsalat/Blattgemüse von Spezies/Art x2
+#kojna koj     ko'a /Ecke/ x1 ist eine Ecke/Eckpunkt (mind. dreidimensional) [Form] an x2 aus Material x3
+ kolme kol     ko'e /Kohle/ x1 ist eine Menge an/enthält/besteht aus Kohle/Torf/Anthrazit/Pech aus Quelle x2
+ komcu kom          /Kamm/ x1 ist ein Kamm [Form mit vielen Nadeln] aus Material x2 mit Zacken/Zinken/Nadeln x3
+ konju kon     ko'u /Kegel/ x1 ist ein Kegel [Form] aus Material x2 mit Spitze x3
+ korbi kor     koi  /Kante/ x1 ist eine Kante/ein Seitenrand von x2, angrenzend an x3
+?korcu     kro      /gebogen/ (Adjektiv:) x1 ist gebogen/gekrümmt/nicht gerade oder direkt/gefaltet
+ korka kok          /Kork/ x1 ist eine Menge an/enthält/besteht aus Kork/Rinde/Borke von Baum/Spezies x2; [Material]
+ kosta kos          /Mantel/ x1 ist ein Mantel/Umhang/eine Jacke/Strickjacke/[ein Pullover] [zusätzliche äußere Kleidung] aus Material x2
+ kramu              /Acre/ x1 ist x2 lokale Flächeneinheit(en) [nicht-metrisch] (Default: 1) gemäß Standard x3, x4 Untereinheiten
+ krasi     kra      /Ursprung/ x1 (Ort/Ereignis) ist eine Quelle/ein Start/Beginn/Ursprung von x2 (Objekt/Ereignis/Prozess)
+ krati         ka'i /repräsentieren/ x1 repräsentiert/verkörpert/ist ein (Stell)vertreter für [abwesend] x2 in Angelegenheit(en)/Funktion(en) x3
+ krefu ref     ke'u /wiederkehren/ x1 (Ereignis) ist die x3.te Wiederholung/Wiederkehr von x2 (Abstraktion); x2 wiederholt sich in [Form von] x1
+?krici     kri      /glauben/ x1 glaubt [ohne Beweis], dass der Glauben x2 (du'u) wahr ist, von Thema x3
+ krili              /Kristall/ x1 ist eine Menge an/enthält/besteht aus Kristall der Zusammensetzung x2 in Form/Anordnung x3
+ krinu rin     ki'u /Grund/ x1 (Ereignis/Zustand) ist ein Grund/eine Rechtfertigung/Erklärung/Ursache für x2 (Ereignis/Zustand)
+ krixa kix     ki'a /schreien/ x1 schreit/ruft/brüllt/kreischt Geräusch x2; x1 ist ein Ausrufer; x1 heult auf
+ kruca kuc          /kreuzen/ x1 kreuzt/schneidet/durchquert x2 an Stelle x3
+ kruji ruj          /Creme/ x1 ist eine Menge an/enthält/besteht aus Creme/Püree/einer Emulsion [Festigkeit] mit Zusammensetzung x2
+ kruvi ruv kru      /Kurve/ x1 ist eine Kurve/Biegung von x2 an Stelle x3 und ist bestimmt durch eine Menge an Punkten/Eigenschaften x4
+ ku'a  kuz          /Schnittmenge/ nicht-logische Verknüpfung: Durchschnitt zweier Mengen
+ kubli kub          /Würfel/ x1 ist ein Würfel/regelmäßiger Polyeder/Polygon von Dimensionen x2 (Default: 3), mit Seiten x3 (Default: 6)
+ kucli              /neugierig/ x1 ist neugierig/wundert sich über/ist interessiert an x2 (Objekt/Abstraktion)
+?kufra kuf          /zufrieden/ x1 fühlt sich wohl/behaglich/ist zufrieden mit Bedingungen/Umgebungseigenschaft(en) x2
+ kukte kuk          /lecker/ x1 ist lecker/schmackhaft/köstlich/entzückend für Betrachter/Sinn x2 [Person oder Sinnesaktivität]
+ kulnu     klu      /Kultur/ x1 [Masse von Ideen, Bräuchen, Fertigkeiten, Künsten] ist eine Kultur von Nation/Ethos x2 (Masse); x1 ist ethnisch
+ kumfa kum     ku'a /Raum/ x1 ist ein Raum/Zimmer von/in Struktur x2 umgeben von (Trenn-)Wänden/Decke/Boden x3 (Masse/jo'u)
+ kumte              /Kamel/ x1 ist ein Kamel/Lama/Alpaka/Vikunja/Dromedar von Spezies/Art/Gattung x2
+?kunra kun          /Mineral/ x1 ist/enthält/besteht aus Mineral/Erz von Typ/Metall x2, gefördert/abgebaut an Ort/Erzader/in Mine x3
+ kunti kut          /leer/ x1 ist leer/enthält kein x2 [Material]; x1 ist hohl
+ kurfa kur          /Quadrat/ x1 ist eine rechteckige Form, bestimmt von einer Punkte-Menge x2, von Dimension x3 (Default: 2)
+ kurji kuj     ku'i /sich kümmern um/ x1 kümmert sich/betreut/sorgt für/ist ein Pfleger von x2 (Objekt/Ereignis/Person)
+ kurki              /bitter/ x1 ist bitter/beißend/ätzend/scharf/unangenehm für Betrachter/Sinn x2
+ kuspe kup     ku'e /erstrecken/ x1 erstreckt sich/dehnt sich aus/dauert fort über Intervall/Region/Bereich/Zweck x2
+ kusru kus          /grausam/ x1 (Person) ist grausam/gemein/unfreundlich gegenüber Opfer x2
+ labno              /Wolf/ x1 ist ein Wolf von Spezies/Art/Gattung x2
+ lacpu lap cpu      /ziehen/ x1 zieht/zerrt x2 mit Griff/an Stelle x3
+#lacri lac          /sich verlassen/ x1 verlässt sich auf/vertraut x2, dass er/sie/es x3 (Ereignis/Zustand) herbeiführt/sicherstellt/aufrecht erhält
+ ladru lad          /Milch/ x1 ist eine Menge an/enthält/besteht aus Milch aus Quelle x2; (Adjektiv:) x1 ist milchig
+#lafti laf          /heben/ x1 (Kraft) hebt x2/setzt hebende/unterstützende Kraft an x2 an, an Stelle x3 in Gravitationsfeld x4
+ lakne         la'e /wahrscheinlich/ x1 (Ereignis/Zustand/Eigenschaft) ist wahrscheinlich unter Bedingungen x2
+ lakse lak          /Wachs/ x1 ist eine Menge an Wachs [Substanz die besonders weich/formbar ist wenn warm] aus Quelle x2
+ lalxu         la'u /See/ x1 ist ein See/Teich/eine Lagune an Stelle/innerhalb von Landmasse x2
+?lamji lam     la'i /angrenzend/ x1 ist angrenzend/anliegend/benachbart/nahe/in Kontakt mit x2 in Eigenschaft/Folge x3 in Richtung x4
+?lanbi              /Protein/ x1 ist eine Menge an Protein/Albumin/Eiweiß von Typ x2 aus Aminosäuren (Reihenfolge/jo'u)
+ lanci              /Flagge/ x1 ist eine Flagge/Standarte/ein Banner von x2/das x2 symbolisiert mit Muster x3 auf Material x4
+ lanka              /Korb/ x1 ist ein Korb mit Inhalt x2, gewoben aus Material x3
+ lanli lal          /analysieren/ x1 analysiert/untersucht x2 mit Methode/Technik/System x3 [Prozess/Aktivität]
+ lanme lan          /Schaf/ x1 ist ein Schaf von Spezies/Art/Gattung x2 von Herde x3
+ lante              /Dose/ x1 ist eine Dose/ein versiegelter Behälter für verderblichen Inhalt x2, gemacht aus x3
+ lanxe lax          /Balance/ x1 ist in Balance/ausgeglichen/ein Gleichgewicht unter Kräften x2 (Masse)
+ lanzu laz          /Familie/ x1 (Masse) ist eine Familie mit Mitgliedern unter anderem x2 verbunden gemäß Standard x3
+ larcu lar          /Kunst/ x1 (Prozess) ist eine Kunst [kreative Anwendung] von Handwerk/Fertigkeit x2 (Idee/Aktivität)
+?lasna         la'a /befestigen/ x1 (Handelnder) befestigt/verbindet/heftet/zurrt x2 an x3 fest mit Befestigung/Halter/Klammer x4
+ lastu              /Messing/ x1 ist eine Menge an/enthält/besteht aus Messing [Kupfer-Zink-Legierung] von Zusammensetzung unter anderem x2
+ latmo         la'o /Latein/ x1 repräsentiert das/die lateinisch/römische/romanische Kultur/Reich/Sprache in Aspekt x2
+ latna              /Lotus/ x1 ist ein Lotus, eine Pflanze/Blume/ein Kraut von Spezies/Art/Gattung x2 und symbolisiert x3 für Kultur/Religion x4
+ lazni              /faul/ x1 (Person) ist faul/vermeidet Arbeit/Mühe bezüglich Tätigkeit x2
+ le'e  lem          /der stereotype/ nicht-wahrheitsgetreuer Artikel: Der Stereotyp von denen beschrieben als ...
+ lebna leb     le'a /nehmen/ x1 nimmt/bekommt x2 (Objekt/Eigenschaft) von x3 (Besitzer)
+?lenjo len     le'o /Linse/ x1 ist eine Linse/Glas [fokussierende Form] und richtet x2 auf Fokus x3 mit Mittel/Material x4
+ lenku lek          /kalt/ x1 ist kalt/kühl gemäß Standard x2
+ lerci lec          /spät/ x1 (Ereignis) ist spät gemäß Standard x2
+ lerfu ler     le'u /Buchstabe/ x1 (la'e zo BY/word-bu) ist ein Buchstabe/Symbol/eine Ziffer in Alphabet/Zeichensatz x2 und repräsentiert x3
+ li'i  liz          /Erfahrungs-Abstraktion/ Abstraktion: Erfahrungs-Abstraktion; x1 ist die Erfahrung von x2 von [bridi] (Teilnehmer oder Betrachter)
+ libjo lib          /Libyer/ x1 repräsentiert lybische Kultur/Nationalität in Aspekt x2
+?lidne         li'e /vorangehen/ x1 ist vor x2/geht x2 voran in Reihenfolge x3; x1 ist vorheriger/ersterer; x2 ist folgender
+?lifri lif fri      /erleben/ x1 [Person/Opfer/Zustand] erlebt/durchlebt/erfährt x2 (Ereignis/Erfahrung); x2 passiert x1
+?lijda     jda      /Religion/ x1 ist eine Religion aus Gläubigen unter anderem x2, die gemeinsame Glauben/Überzeugungen/Praktiken/Lehren/Grundsätze unter anderem x3 verfolgen
+ limna lim          /schwimmen/ x1 (Handelnder) schwimmt in Flüssigkeit x2
+?lindi lid          /Blitz/ x1 ist ein Blitzschlag und schlägt in x2 ein/reicht bis x2 von x3
+?linji lij     li'i /Linie/ x1 ist eine Linie/Strecke/Gerade [eindimensionale Form] und festgelegt durch die Punktemenge x2
+?linsi lin          /Kette/ x1 ist eine bestimme Länge an Kette/Kettengliedern aus Material x2 mit Verknüpfungseigenschaften x3
+ linto         li'o /leicht/ x1 ist leicht an Masse/Gewicht gemäß Standard x2
+ lisri lis          /Erzählung/ x1 ist eine Geschichte/Erzählung/Sage/Fabel über einen Handlungsverlauf/ein Thema/eine Moral x2 von Erzähler x3 an Publikum x4
+ liste     ste      /Liste/ x1 (materielles Objekt) ist eine Liste/ein Katalog/ein Verzeichnis von Folge/Menge x2 geordnet nach x3 auf Medium x4
+ litce lic          /Liter/ x1 ist x2 Liter [metrische Einheit] an Volumen (Default: 1) gemäß Standard x3
+ litki lik          /Flüssigkeit/ x1 ist eine Flüssigkeit mit Zusammensetzung/Material unter anderem x2, unter Bedingungen x3
+ litru         li'u /reisen/ x1 reist/geht über Route x2 und verwendet Mittel/Fahrzeug x3; x1 ist ein Reisender
+ livga              /Leber/ x1 ist die Leber [Körperteil] von x2
+ livla lil          /Kraftstoff/ x1 ist Benzin/ein Kraftstoff/Brennstoff/Energiequelle zum Antreiben von x2
+?lo'e  lom          /der typische/ wahrheitsgetreuer Artikel: Der/Die Typische(n), der/die wirklich ist/sind ...
+ logji loj          /Logik/ x1 [Regeln/Methoden] ist eine Logik zum ableiten/folgern/begründen/schließen von/über x2 (du'u)
+ lojbo lob jbo      /Lojbanisch/ x1 repräsentiert [Loglandisch]/Lojbanische Sprache/Kultur/Nationalität/Gemeinschaft in Aspekt x2
+ loldi lol     loi  /Boden/ x1 ist der Boden/Grund von x2
+ lorxu lor     lo'u /Fuchs/ x1 ist ein Fuchs [wilder Hund mit buschiger Rute] von Spezies/Art/Gattung x2
+ lubno         lu'o /Libanese/ x1 repräsentiert libanesische Kultur/Nationalität in Aspekt x2
+ lujvo luv jvo      /Kompositum/ x1 (Text) ist ein zusammengesetztes Prädikat mit der Bedeutung x2 und den Argumenten x3, zusammengesetzt aus dem Tanru x4
+ lumci lum     lu'i /waschen/ x1 (Handelnder) wäscht/spült/reinigt x2 von Schmutz/Verunreinigungen x3 mit Putzmittel(n) x4
+ lunbe lub          /nackt/ x1 ist nackt/unbekleidet/kahl/entblößt; x1 ist ohne Abdeckung/Kleidung/[Schutz]
+?lunra lur          /Erdmond/ x1 ist der Erdmond (Default); x1 ist ein größer/bedeutender Mond von Planet x2
+ lunsa lus          /kondensieren/ x1 kondensiert/verflüssigt sich auf/in x2 bei Temperatur x3 und Druck x4; x1 ist Tau/Kondenswasser auf x2
+?mabla mal          /abfällig/ x1 ist ein abfälliger/herabwürdigender Sinn/Gebrauch von x2 verwendet von x3; x3 wertet x2 ab in Form von x1
+ mabru mab          /Säuger/ x1 ist ein Säugetier/'Tier' von Art/Gattung x2
+ macnu     cnu      /manuell/ x1 (Ereignis/Tätigkeit/Prozess) ist manuell [nicht automatisch] in Funktion x2 unter Bedingungen x3
+?makcu         ma'u /reif/ x1 ist reif/voll entwickelt/ausgereift/erwachsen in (Entwicklungs)eigenschaft/Güte x2 (ka)
+ makfa maf          /Magie/ x1 ist magisch/übernatürlich/Zauberei/Hexerei für x2, vollführt/ausgeführt von Person/Kraft/Gottheit x3
+ maksi mak          /Magnet/ x1 ist magnetisch [Adjektiv] und erzeugt Magnetfeld x2
+ malsi mas          /Tempel/ x1 ist ein Tempel/Heiligtum/Schrein/eine Kirche/Synagoge von Religion x2 an Ort/Einzugsbereich x3
+ mamta mam          /Mutter/ x1 ist eine/die Mutter von x2; x1 trägt x2 aus/bemuttert/ist mütterlich gegenüber x2; [nicht zwingend biologisch]
+ manci mac          /bewundern/ x1 bewundert/staunt/zeigt Bewunderung über x2
+?manfo              /einheitlich/ x1 (Objekt/Ereignis) ist einheitlich/gleichförmig/gleichartig/homogen in Eigenschaft x2 (ka)
+ manku man          /dunkel/ x1 ist dunkel; x1 ist nicht beleuchtet
+ manri mar          /Bezug/ x1 ist ein Bezugsrahmen/Bezugssystem/Koordinatensystem/Standard zum Messen/Betrachten/Bestimmen von x2 mit Regeln/Norm x3
+ mansa              /zufrieden/ x1 befriedigt/genügt x2/stellt x2 zufrieden in Eigenschaft (ka)/Zustand x3
+ manti              /Ameise/ x1 ist eine Ameise von Art/Gattung x2
+ mapku map          /Kappe/ x1 ist eine Kopfbedeckung/Kappe/Mütze/Krone/ein Hut/Helm aus Material x2
+ mapni              /Baumwolle/ x1 ist eine Menge an/enthält/besteht aus Baumwolle/Watte [Materialstruktur]
+ mapti mat          /passen/ x1 passt/ist geeignet/angemessen/kompatibel mit/für x2 in Eigenschaft/Aspekt x3
+ marbi     mra      /Unterschlupf/ x1 ist ein Schutz/Unterschlupf/Zufluchtsort/Unterstand/Hafen für x2/der x2 vor Gefahr/Bedrohung x3 schützt
+ marce         ma'e /Fahrzeug/ x1 ist ein Fahrzeug/Beförderungsmittel und befördert x2 auf Oberfläche/in Medium x3, angetrieben von x4
+ marde mad          /Moral/ x1 ist/sind die Moral/Ethik/Sitten/die ethischen/moralischen Standards von x2 (Einzelner/Masse) für Situation x3
+ margu mag          /Quecksilber/ x1 ist eine Menge an/enthält/besteht aus Quecksilber; [Im übertragenen Sinn: flüssiges Metall; Temperatur]
+ marji maj     mai  /Material/ x1 ist Material/Materie/Stoff/Substanz von Typ/Zusammensetzung unter anderem x2 in Form x3
+ marna              /Hanf/ x1 ist eine Menge an Hanf/Marihuana/Jute von Art/Sorte x2
+ marxa max          /zerdrücken/ x1 [Kraft] zerdrückt/zerquetscht/zerschmettert x2 in Brei/Brösel/verformte Masse x3
+ masno     sno      /langsam/ x1 ist langsam/träge/schleppend im Tun/Sein/Bewirken von x2 (Ereignis/Zustand)
+ masti         ma'i /Monat/ x1 dauert x2 Monate (Default: 1) gemäß Monatsfestlegung x3
+ matci              /Matte/ x1 ist eine Matte/Unterlage/Matratze [flache, weiche, dichte Form] aus Material x2
+ matli              /Leinen/ x1 ist eine Menge an/enthält/besteht aus Leinen/Flachs [Materialstruktur]
+ matne              /Butter/ x1 ist eine Menge an/enthält Butter/Margarine/Backfett von Quelle x2
+?matra              /Motor/ x1 ist ein Motor/Triebwerk und treibt x2 an
+ mavji mav          /Hafer/ x1 ist eine Menge an Hafer [Getreide/Korn] von Art/Sorte x2
+ maxri     xri      /Weizen/ x1 ist eine Menge an Weizen [Getreide/Korn] von Art/Sorte x2
+ mebri meb          /Stirn/ x1 ist die Stirn [hervorstehende Fläche/flacher Kopf/Körperteil] von x2
+ megdo meg          /1E6/ x1 ist eine Million [1x10**6] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+?mei   mem     mei  /Mächtigkeitsbeziehung/ wandelt eine Zahl in eine Mächtigkeitsbeziehung; x1 ist die Masse von den Elementen aus Menge x2 mit Mitglied(ern) x3
+ mekso mek     me'o /mathematischer Ausdruck/ x1 [Ausdruck] ist ein mathematischer Ausdruck ausgewertet/interpretiert nach Regeln/Übereinkunft x2
+?melbi mel mle      /schön/ x1 ist schön für x2 in Aspekt x3 (ka) gemäß Ästhetik-Standard x4
+ meljo mej          /malaysisch/ x1 repräsentiert malaysische/malaiische Kultur/Nationalität/Sprache in Aspekt x2
+ menli men          /Verstand/ x1 ist der Geist/Verstand/Intellekt/Animus/die Psyche/Geisteshaltung/[das Bewusstsein] von Körper x2
+ mensi mes     me'i /Schwester/ x1 ist eine Schwester von/ist schwesternhaft gegenüber x2 über Beziehung/Eltern x3; [nicht zwingend biologisch]
+ mentu met     me'u /Minute/ x1 dauert x2 Minuten (Default: 1) gemäß Standard x3
+ merko mer          /amerikanisch/ x1 gehört zur/zum (US-)Amerikanischen Kultur/Nationalität/Dialekt in Aspekt x2
+ merli     mre      /messen/ x1 (Handelnder) misst/berechnet/schätzt x2 [Menge] als x3 Einheiten auf Skala x4 (si'o) mit Genauigkeit x5
+ mexno mex          /mexikanisch/ x1 repräsentiert mexikanische Kultur/Nationalität in Aspekt x2
+?mi    mib          /Ich/ Pro-sumti: ich/wir der/die Sprecher/Autor(en); gekennzeichnet mit Selbst-Vokativ
+ midju mij          /mittig/ x1 ist in der Mitte/im Zentrum/Mittelpunkt/[Fokus] von x2; (Adjektiv:) x1 ist mittig
+ mifra mif          /Code/ x1 ist verschlüsselter/codierter Text/Chiffre von Klartext x2 mit Code/Verschlüsselung x3; x1 ist verschlüsselt/kodiert; x3 ist ein Code
+ mikce mic          /Arzt/ x1 ist ein Arzt/Doktor/Mediziner/Krankenpfleger/eine Krankenschwester/Hebamme von x2 gegen Krankheit/Beschwerden x3 mit Behandlung x4
+ mikri mik          /1E-6/ x1 ist ein Millionstel [1x10**-6] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ milti mil          /0,001/ x1 ist ein Tausendstel [1/1000; 1x10**-3] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ milxe     mli      /mild/ x1 ist milde/sanft/mittelmäßig in Eigenschaft x2 (ka); x1 ist nicht sehr x2/einigermaßen x2
+ minde mid     mi'e /befehlen/ x1 befiehlt/gibt Befehle/Anordnungen an x2 damit Ergebnis x3 (Ereignis/Zustand) eintrifft; x3 ist angeordnet
+ minji         mi'i /Maschine/ x1 ist eine Maschine für Verwendung/mit Funktion x2; [automatisch laufendes Gerät, ohne direkte Funktionskontrolle]
+ minli              /Meile/ x1 ist x2 (Default: 1) lange lokale Abstandseinheit(en)/Längeneinheiten [nicht-metrisch] mit x2 Untereinheiten gemäß Standard x4
+ minra mir          /spiegeln/ x1 spiegelt/reflektiert x2/wirft x2 zurück [Objekt/Strahlung] zu Betrachter/Punkt x3 als x4; x2 prallt/dopst auf x1 (ab)
+?mintu mit     mi'u /gleich/ x1 ist gleich/identisch mit/dasselbe wie x2 gemäß Standard x3; (x1 und x2 sind austauschbar)
+ mipri mip          /verbergen/ x1 hält x2 geheim/verbirgt x2 vor x3 mit Methode x4; x2 ist ein Geheimnis; x1 versteckt x2
+ mirli              /Hirsch/ x1 ist ein Hirsch/Reh/Elch/Elen/[eine Ricke] von Art/Gattung x2
+ misno mis     mi'o /berühmt/ x1 (Person/Objekt/Ereignis) ist berühmt/bekannt/namhaft/prominent unter Gemeinschaft von Personen x2 (Masse)
+ misro              /ägyptisch/ x1 repräsentiert ägyptische Kultur/Nationalität in Aspekt x2
+ mitre     tre      /Meter/ x1 ist x2 Meter [metrische Einheit] lang (Default: 1), gemessen in Richtung x3 gemäß Standard x4
+ mixre mix xre      /Gemisch/ x1 (Masse) ist ein Gemisch/eine Mixtur/Mischung/Vermengung mit Zutaten unter anderem x2
+?mlana     mla      /seitlich/ x1 ist an der Seite/seitlich von x2 und steht x3 gegenüber von Perspektive/Bezugsrahmen x4
+?mlatu lat          /Katze/ x1 ist eine Katze/ein Kater/ein Kätzchen [katzenhaftes Tier] von Art/Gattung x2
+?mleca mec     me'a /geringer/ x1 ist weniger/geringer als x2 in Eigenschaft/Menge x3 (ka/ni) um Betrag/Menge/Höhe x4
+ mledi led          /Pilz/ x1 ist ein Pilz/Schimmel/Schwamm/Trüffel von Art/Gattung x2 und wächst (parasitisch) auf x3
+ mluni lun          /Trabant/ x1 ist ein Satellit/Trabant/Mond und umkreist x2 mit Eigenschaften x3 und Umlaufbahn-Parametern x4
+ mo'a  mob          /zu wenige/ Ziffer/Zahl: zu wenige; subjektiv
+ mo'i  mov          /räumliche Bewegung/ markiert Bewegungen in der Raumzeit
+?moi   mom     moi  /Ordnungsbeziehung/ wandelt Zahl in eine Ordnungsbeziehung; x1 ist das (n).te Element von Menge x2 geordnet nach Vorschrift x3
+ mokca moc          /Punkt/ x1 ist ein Punkt/Moment [0-dimensionale Form] an/in Ort/Zeit x2
+ moklu mol     mo'u /Mund/ x1 ist ein/der Mund/die Mundhöhle [Körperteil] von x2; (Im übertragenen Sinn: Eingang/Einlass für Verbrauch)
+?molki     mlo      /Mühle/ x2 ist eine Mühle/Fabrik/Gießerei/Industrieanlage/[Fließband] und führt Prozess x2 durch
+ molro         mo'o /Mol/ x1 ist x2 Mol [metrische Einheit] an Stoffmenge (Default: 1) gemäß Standard x3
+ morji moj     mo'i /erinnern/ x1 erinnert/entsinnt sich an Tatsachen/Erinnerung x2 (du'u) über Thema x3
+ morko mor          /marokkanisch/ x1 repräsentiert marokkanische Kultur/Nationalität in Aspekt x2
+ morna mon     mo'a /Muster/ x1 ist/repräsentiert/spiegelt ein Muster von Formen/Ereignissen x2 (wieder), die angeordnet nach Struktur x3 sind
+ morsi     mro      /tot/ x1 ist tot/ist nicht mehr lebendig
+ mosra mos          /Reibung/ x1 ist Reibung [Kraft entgegengesetzt zur Bewegung] durch Kontakt/Reibung zwischen x2 und x3; (fe) x2 reibt an x3
+ mraji              /Roggen/ x1 ist eine Menge an Roggen [Getreide/Korn] von Art/Sorte x2
+ mrilu     mri      /verschicken/ x1 schickt/sendet [Überbringung durch Mittelsmann] x2 an x3 von x4 über Träger/Netzwerk/System x5
+?mruli     mru      /Hammer/ x1 [Werkzeug] ist ein Hammer für/hämmert auf x2 [Ziel] und besteht aus Kopf/Gewicht x3 angetrieben durch x4
+ mu    mum          /5/ Ziffer/Zahl: 5 (Ziffer)
+?mu'e  muf          /Punktereignis-Abstraktion/ Abstraktion: Ausführung (Ereignis) Abstraktion; x1 ist ein Punktereignis/Ausführung von [bridi]
+ mucti mut          /immateriell/ x1 ist nicht materiell/nicht physikalisch/ohne materielle Form
+ mudri mud          /Holz/ x1 ist eine Menge an/enthält/besteht aus Holz/Nutzholz von Baum/Bäumen von Typ/Art x2
+ mukti muk     mu'i /Motiv/ x1 (Handlung/Ereignis/Zustand) motiviert/ist ein Motiv/Beweggrund/Anreiz/Ansporn für Handlung/Ereignis x2, durch Willen von x3
+?mulno mul     mu'o /abgeschlossen/ x1 (Ereignis) ist abgeschlossen/fertig/beendet; x1 (Objekt) ist vollständig/ganz in Eigenschaft x2 gemäß Standard x3
+ munje muj     mu'e /Universum/ x1 ist ein Universum/Kosmos [vollständige und geordnete Gesamtheit] von Domäne/Sphäre x2 bestimmt durch Regeln/Gesetze x3
+ mupli mup          /Beispiel/ x1 ist ein Beispiel/Vorbild/Muster/eine Probe/Darstellung/ein Fall von gemeinsamer/n Eigenschaft(en) x2 von Menge x3
+ murse              /Dämmerung/ x1 ist die [astronomische] Dämmerung/Sonnenauf-/untergang/Morgenröte/Abendrot von Tag x2 an Ort x3
+ murta mur     mu'a /Vorhang/ x1 ist eine Gardine/Blende/Jalousie/ein Vorhang zum Verdunkeln/Verdecken von Öffnung x2 und aus Material x3
+?muslo mus          /islamisch/ x1 gehört zur islamischen/muslimischen/koranischen Kultur/Religion/Nation in Aspekt x2
+?mutce     tce      /viel/ x1 ist viel/extrem in Eigenschaft x2 (ka) zum Extrem x3/in Richtung x3; x1 ist, in x2, sehr x3
+ muvdu muv     mu'u /bewegen/ x1 (Objekt) bewegt sich zu Ziel/Empfänger x2, [weg] von Ursprung x3 über Pfad/Route x4
+ muzga muz          /Museum/ x1 ist ein Museum und bewahrt [und stellt möglicherweise aus] x2 an Ort x3
+?na    nar          /Bridi-Negation/ widersprechender Bridi-Negator; Wirkungsbereich ist eine gesamte Prädikatsbeziehung; negiert logisch in manchen cmavo-Komposita
+*na'e  nal          /skalares .../ skalarer ...-Negator; anders als ...; nicht ...; eine Skala oder Menge ist impliziert
+ nabmi nam          /Problem/ x1 (Ereignis/Zustand) ist ein Problem für/aufgetreten bei x2 in Situation/Aufgabe/Vorhaben x3
+ nakni nak          /männlich/ x1 ist männlich/ein Männchen von Spezies/Art x2 und weist männliche Charakterzüge x3 (ka) auf; x1 ist männlich
+ nalci         na'i /Flügel/ x1 ist ein Flügel [Körperteil] von x2; [Im übertragenen Sinn: seitliche unterstützende Fläche]
+ namcu nac     na'u /Zahl/ x1 (li) ist eine Zahl/Ziffer/ein Wert/eine Anzahl (Substantiv); bezieht sich auf den Wert und nicht auf das Zeichen
+ nanba nab          /Brot/ x1 ist eine Menge an/enthält Brot [gesäuert oder ungesäuert] hergestellt aus Getreide/Korn x2
+?nanca         na'a /Jahr/ x1 dauert x2 Jahre (Default: 1) gemäß Standard x3; (Adjektiv:) x1 ist einjährig
+ nandu nad          /schwierig/ x1 ist schwierig/kompliziert/herausfordernd für x2 unter Bedingungen x3; x1 fordert (nicht-handelnd) x2
+ nanla              /Junge/ x1 ist ein Junge/Bub/Bursche/Knabe [junge männliche Person] in Alter x2 und unreif gemäß Standard x3
+ nanmu         nau  /Mann/ x1 ist ein Mann; x1 ist eine männliche humanoide Person [nicht zwingend erwachsen]
+ nanvi nav          /1E-9/ x1 ist ein Milliardstel [1x10**-9] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ narge nag          /Nuss/ x1 ist eine Nuss [Körperteil: Frucht mit harter Schale] von Pflanze/Art x2 mit Schale x3 und Kern x4
+ narju naj          /orange/ x1 ist orange [Farbadjektiv]
+?natfe naf     na'e /widersprechen/ x1 (du'u) widerspricht/negiert/steht im Widerspruch zu/ist unvereinbar mit x2 (du'u) unter Regeln/Logik x3
+ natmi nat     nai  /Nation/ x1 ist ein Volk/eine Nation/ethnische Gruppe von Menschen x2; [Menschen mit gemeinsamer Geschichte/Kultur]
+ navni              /Neon/ x1 ist eine Menge an/enthält/besteht aus Edelgas von Typ x2 [Neon/Argon/Radon/Xenon]
+ naxle nax xle      /Kanal/ x1 ist ein Kanal/Durchgang zu x2 von x3 mit Route x4
+ nazbi naz zbi      /Nase/ x1 ist die Nase [Körperteil] von x2 mit Nüstern/Nasenloch/Nasengang x3; [im übertragenen Sinn: Vorsprung]
+ nejni nen          /Energie/ x1 ist Energie von Typ x2 in Form x3
+ nelci nel     nei  /mögen/ x1 mag x2 (Objekt/Zustand)/hat x2 lieb/gern 
+ nenri ner     ne'i /in/ x1 ist in/innerhalb/das Innere von x2 [vollständig innerhalb der Grenzen von x2]
+ ni    nil          /Mengen-Abstraktion/ Abstraktion: Menge/Betrag Abstraktion; x1 ist die Menge/Höhe/Betrag von [bridi] gemessen auf Skala x2
+?nibli nib     ni'i /logisch erfordern/ x1 erfordert logisch/führt zu/hat zur Folge/impliziert Handlung/Ereignis/Zustand x2 unter Regeln/Logik x3
+ nicte     cte      /Nacht/ x1 ist die Nacht von Tag x2 an Ort x3; (Adjektiv:) x1 ist nächtlich
+ nikle nik          /Nickel/ x1 ist eine Menge an/enthält/besteht aus Nickel/einem anderen korrosionsbeständigem Metall
+ nilce         ni'e /Möbel/ x1 [Möbelstücke] statten x2 [Ort] aus und dienen dem Zweck x3
+ nimre              /Zitrone/ x1 ist eine Menge an Zitrone/Zitrusgewächs [Frucht/Baum, etc.] von Art/Sorte x2
+ ninmu nim     ni'u /Frau/ x1 ist eine Frau; x1 ist eine weibliche humanoide Person [nicht zwingend erwachsen]
+?nirna nir          /Nerv/ x1 ist ein Nerv/Neuron [Körperteil] von x2; [Im übertragenen Sinn: Informations-/Kontroll-Netzverknüpfung]
+ nitcu     tcu      /brauchen/ x1 braucht/bedarf/benötigt/ist abhängig von Notwendigkeit x2 für Zweck/Handlung/Prozessphase x3
+ nivji niv          /stricken/ x1 (Handelnder) strickt x2 [Stoff/Objekt] aus Garn/Faden x3
+ nixli nix xli      /Mädchen/ x1 ist ein Mädchen [junge weibliche Person] in Alter x2, unreif gemäß Standard x3
+ no    non          /0/ Ziffer/Zahl: 0 (Ziffer)
+?no'e  nor     no'e /skalares mittelwertiges nicht/ mittelwertiger skalarer Negator: neutraler Punkt zwischen je'a und to'e; &quot;nicht wirklich&quot;
+ nobli nol     no'i /adlig/ x1 ist adlig/aristokratisch/Elite in Kultur/Gesellschaft/gemäß Standard x2
+ notci not     noi  /Nachricht/ x1 ist eine Nachricht/Notiz/Memorandum/Mitteilung über Thema x2 von Autor x3 an beabsichtigte Zielgruppe x4
+ nu    nun          /Ereignis-Abstraktion/ Abstraktion: allgemeines Ereignis Abstraktion; x1 ist der Zustand/Prozess/Vollendung/Handlung von [bridi]
+?nu'o          nu'o /kann aber ist nicht/ modaler Aspekt: kann aber hat/ist nicht; unverwirklichtes Potenzial
+?nukni nuk          /Magenta/ x1 ist magenta/pink/purpurn [Farbadjektiv]
+ nupre nup     nu'e /versprechen/ x1 (Handelnder) verspricht/versichert/verpflichtet sich/droht an x2 (Ereignis/Zustand) gegenüber x3 [Empfänger/Opfer]
+ nurma num          /ländlich/ x1 ist eine ländliche/bäuerliche/rustikale Gegend von x2; x1 ist auf dem Land
+?nutli nul     nu'i /neutral/ x1 ist neutral/unparteiisch/strebt nicht gegen ein Extrem auf Skala/in Uneinigkeit/Meinungsverschiedenheit x2
+ nuzba nuz          /Neuigkeit/ x1 (du'u) ist eine Neuigkeit/eine neue Information über Thema x2 aus Quelle x3 für Betrachter x4
+ pa    pav          /1/ Ziffer/Zahl: 1 (Ziffer)
+ pacna         pa'a /hoffen/ x1 hofft auf/wünscht sich/ersehnt x2 (Ereignis), mit einer voraussichtlichen Wahrscheinlichkeit x3 (0-1); x1 hofft, dass x2 geschieht
+ pagbu pag     pau  /Teil/ x1 ist ein Teil/Stück/Segment/eine Komponente/Portion von x2 [wobei x2 das Ganze/die Masse ist]; x2 ist zum Teil x1;
+ pagre     gre      /durchdringen/ x1 durchdringt/durchtritt/durchläuft Barriere/Medium/Portal x2 zur Zielseite x3 von Ursprungsseite x4
+?pajni         pai  /urteilen/ x1 urteilt/richtet/schlichtet/vermittelt/ist ein Richter/Schiedsrichter und bestimmt/befindet in Sache x2 (Abstraktion)
+ palci pac          /böse/ x1 ist böse/boshaft/verdorben [moralisch schlecht] gemäß Standard x2
+?palku pak          /Hose/ x1 ist eine Hose [Kleidung mit Beinen] aus Material x2
+ palne              /Tablett/ x1 ist ein Tablett/(Back-)Blech/Platte/flacher Behälter [Pfanne/Folie] mit Inhalt x2 und hergestellt aus Material x3
+?palta              /Teller/ x1 ist ein Teller/eine (flache) Schale/Untertasse [flach/leicht konkave Form für Essen] aus Material x2
+ pambe              /Pumpe/ x1 ist eine Pumpe/Einspritzventil [Werkzeug/Gerät] und pumpt/injiziert Flüssigkeit x2 nach x3 von x4 mit Mittel x5
+ panci pan          /Geruch/ x1 ist ein Duft/Geruch abgegeben von x2 und erfasst von Betrachter/Sensor x3
+*pandi pad          /.../ x1 (Handelnder) unterstreicht/markiert x2 (Ausdruck) durch/mit Symbol/Wort x3 mit syntaktischem/semantischen Effekt x4
+ panje              /Schwamm/ x1 ist eine Menge an/enthält/besteht aus Schwamm/durchlässiges/poriges Material
+ panka              /Park/ x1 ist ein Park/eine Landreserve verwaltet von Gemeinschaft/Gemeinwesen/Firma x2 für Zweck x3
+ panlo         pa'o /Scheibe/ x1 ist eine Scheibe [dünne flache Portion] von x2 (Masse)
+?panpi pap          /friedlich/ x1 ist friedlich gegenüber x2
+ panra              /parallel/ x1 ist parallel/weist Parallelen auf zu x2 und unterscheidet sich nur in Eigenschaft x3 (ka; jo'u/fa'u) gemäß Standard/Geometrie x4
+ pante pat          /protestieren/ x1 protestiert/beanstandet/reklamiert/wendet ein gegen x2 (Ereignis/Zustand) gegenüber Publikum x3 mit Handlung x4
+?panzi paz          /Nachwuchs/ x1 ist die [biologische] Nachkommenschaft/Brut/der Nachwuchs/ein Kind/Sprössling von Eltern x2
+?papri              /Papierblatt/ x1 ist eine [materielle] Buchseite/Blatt eines Buchs/Hefts/Dokuments/einer gebundenen Masse an Seiten x2
+ parbi pab          /Verhältnis/ x1 (me'o, Bruch) ist ein Verhältnis/Anteil/eine Rate von x2 (Menge) in Bezug auf x3 (Menge) [x2:x3]
+ pastu pas          /Robe/ x1 ist eine Robe/Tunika/ein Gewand/Umhang/Kleid [lange/Ganzkörperbekleidung] aus Material x2
+ patfu paf     pa'u /Vater/ x1 ist ein Vater von x2; x1 zeugt/handelt väterlich gegenüber x2; [nicht zwingend biologisch]
+ patlu              /Kartoffel/ x1 ist eine Kartoffel [eine essbare Knolle] von Art/Sorte x2
+ patxu pax          /Topf/ x1 ist ein Topf/Pott/Kessel/Bottich/eine Urne/ein Spülbecken, ein tiefer Behälter für Inhalt(e) x2 aus Material/mit Eigenschaften x3
+#pe'a  pev          /bildlich/ markiert bildliche/symbolische Verwendung (nicht-wörtlich) in Rede/Text als rafsi
+ pelji     ple      /Papier/ x1 ist Papier aus Quelle x2
+ pelxu pel          /gelb/ x1 ist gelb/golden [Farbadjektiv]
+ pemci pem          /Gedicht/ x1 ist ein Gedicht/Vers über Handlung/(Leit-)Motiv/Thema/Muster x2 von Autor x3 für beabsichtigte Zielgruppe/Leserschaft x4
+ penbi peb          /Füller/ x1 ist ein Füller/Füllfederhalter, der Tinte x2 über/durch Prozess x3 aufträgt
+ pencu pec     pe'u /berühren/ x1 (Handelnder) berührt x2 mit x3 [eine Stelle auf x1 oder ein Instrument] an x4 [eine Stelle auf x2]
+ pendo ped     pe'o /Freund/ x1 ist ein Freund/handelt freundschaftlich gegenüber x2 (Erfahrender); x2 ist befreundet mit x1
+?penmi pen     pe'i /treffen/ x1 trifft/begegnet x2 an Ort x3
+ pensi pes     pei  /denken/ x1 denkt/überlegt/grübelt/zieht in Betracht/ist nachdenklich/reflektiert über Thema/Konzept x2
+ perli per          /Birne/ x1 ist eine Birne [Frucht] von Art/Sorte x2
+ pesxu pex          /Paste/ x1 ist eine Paste/ein Teig/Fruchtfleich/Brei/Mark/Matsch/Schlamm [weicher, feuchter Feststoff mit glatter Oberfläche] mit Zusammensetzung unter anderem x2
+ petso pet          /1E15/ x1 ist 1x10**15 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ pezli pez          /Blatt/ x1 ist ein Blatt von Pflanze x2; x1 ist das Laub von x2
+?pi    piz          /Dezimalpunkt/ Ziffer/Zahl: Basispunkt; Default: Dezimal
+ pi'u  piv          /Kreuzprodukt/ nicht-logische Verknüpfung: Kreuzprodukt; Kartesisches Produkt von Mengen
+ picti pic          /1E-12/ x1 ist ein Billionstel [1x10**-12] von x2 in Dimension/Aspekt x3 (Default: Einheiten]
+ pijne              /Pin/ x1 ist ein Pin/Stift/Dübel/eine Reißzwecke (nadelförmiges Werkzeug) um x2 zu befestigen/zu durchbohren auf Material/mit Eigenschaften x3
+ pikci              /betteln/ x1 bettelt/fleht/bittet demütig/ersucht [fragt mit Demut] x2 um/für x3
+ pikta              /Ticket/ x1 ist ein Ticket/Schein/eine Eintritts-/Fahrkarte und berechtigt x2 für Privileg/Berechtigung x3 (Ereignis/Zustand) unter Bedingungen x4
+ pilji         pi'i /multiplizieren/ x1 ist das Produkt/Ergebnis von Faktoren x2 und x3/von x2 multipliziert mit x3
+?pilka pil     pi'a /Kruste/ x1 ist eine Kruste/Rinde/Pelle/Schale/Haut/ein Fell/Mantel von x2
+ pilno     pli      /verwenden/ x1 verwendet/benutzt x2/setzt x2 ein [Werkzeug, Gerät, Maschine, Beauftragter, Material] für Zweck x3
+ pimlu pim     pi'u /Gefieder/ x1 ist das Gefieder/das Federkleid/eine Feder [Körperteil] von Tier/Art x2
+ pinca              /Urin/ x1 ist der Urin/Harn von x2
+?pindi pid          /arm/ x1 ist arm/verarmt/mittellos/bedürftig und es fehlt ihm/ihr an Gütern/Besitz/Eigentum x2
+ pinfu pif          /Gefangener/ x1 ist ein Gefangener/Häftling von x2, festgehalten/gefesselt mit Mittel/Kraft x3
+ pinji              /Penis/ x1 ist die Klitoris/der Penis [hervorstehendes Geschlechtsorgan; Körperteil] von x2
+ pinka pik          /Kommentar/ x1 (Text) ist ein Kommentar/Hinweis/eine Bemerkung/Vermerk/Anmerkung/Beobachtung über Thema x2 geäußert von x3 gegenüber Publikum x4
+#pinsi pis          /Stift/ x1 ist ein Stift/Bleistift/Buntstift/Griffel/x1 ist Kreide und trägt Blei/Graphit/Malstoff x2, mit Schaft [aus Material] x3
+ pinta pin          /eben/ x1 ist eben/flach/horizontal unter Schwerkraft/in Bezugssystem x2
+?pinxe pix          /trinken/ x1 (Handelnder) trinkt/nimmt/saugt Getränk/Flüssigkeit x2 auf aus Quelle/Gefäß x3
+ pipno         pi'o /Klavier/ x1 ist ein Klavier/Piano/Cembalo/Keyboard/eine Orgel; ein Musikinstrument mit Tasten
+ pixra pir xra      /Bild/ x1 ist ein Bild/Foto/eine Darstellung/Zeichnung und zeigt/bildet x2 (ab), erstellt/gemalt von Künstler x3 in Medium x4
+ plana              /dick/ x1 ist dick/prall/fett/fettleibig [übermäßig dick/ausgebaucht/angeschwollen] gemäß Standard x2
+?platu     pla      /planen/ x1 (Handelnder) plant/entwirft/gestaltet/heckt aus Plan/Absprache/Gestaltung/Verlauf/[Schema] x2 für Zustand/Prozess x3
+?pleji lej     le'i /bezahlen/ x1 bezahlt/begleicht/vergütet/[entlohnt] Zahlung x2 an Empfänger x3 für Ware(n)/Dienstleistung(en) x4
+ plibu pib          /Schambereich/ x1 ist der Schambereich/sind die äußerlichen Genitalien [Körperteil] von x2
+?plini              /Planet/ x1 ist ein Planet, der x2 umkreist, mit kennzeichnender/n Eigenschaft(en) x3 und Umlaufbahn-Parametern x4
+ plipe pip     pi'e /springen/ x1 (Handelnder/Objekt) springt/hüpft nach x2 von x3 und erreicht eine Höhe von x4 angetrieben von x5
+ plise              /Apfel/ x1 ist ein Apfel [Frucht] von Art/Sorte x2
+ plita pit          /Fläche/ x1 ist eine Fläche/Ebene [zweidimensionale Form] festgelegt durch Punkte x2 (Menge); x1 ist flach
+?plixa lix          /pflügen/ x1 (Handelnder) pflügt x2/gräbt x2 um mit Werkzeug x3 angetrieben durch x4
+ pluja luj          /kompliziert/ x1 ist kompliziert/komplex/verwickelt in Aspekt/Eigenschaft x2 (ka) gemäß Standard x3
+ pluka puk     pu'a /angenehm/ x1 (Ereignis/Zustand) ist angenehm/wohltuend/erfreulich für x2 unter Bedingungen x3; x1 erfreut/gefällt x2
+ pluta lut     lu'a /Route/ x1 ist eine Route/Spur/ein Pfad/Weg nach x2 von x3 über/festgelegt durch Punkte unter anderem x4 (Menge)
+ polje     plo      /falten/ x1 (Kraft) faltet/knickt x2 an Stelle(n)/erzeugt Falte(n)/Rille(n)/Knick(e) x3
+ polno pol          /polynesisch/ x1 repräsentiert polynesisch/ozeanische (geografische Region) Kultur/Nationalität/Sprachen in Aspekt x2
+ ponjo pon     po'o /japanisch/ x1 repräsentiert japanische Kultur/Nationalität/Sprache in Aspekt x2
+ ponse pos     po'e /besitzen/ x1 besitzt/hat/verfügt über x2 gemäß Gesetz/Brauch x3; x1 ist Eigner/Besitzer von x2 gemäß x3
+ porpi pop     po'i /zerbrechen/ x1 zerbricht/zerschmettert/zerspringt/[spaltet sich/platzt] in Teile x2
+?porsi por     poi  /Folge/ x1 [geordnete Menge] ist geordnet durch Regeln x2 auf der ungeordneten Menge x3
+ porto pot          /portugiesisch/ x1 repräsentiert portugiesische Kultur/Nationalität/Sprache in Aspekt x2
+ prali pal          /Profit/ x1 ist ein Ertrag/Gewinn/Profit/Vorteil für x2 angesammelt/sich ergebend aus Tätigkeit/Prozess x3
+ prami pam     pa'i /lieben/ x1 liebt/fühlt eine starke Zuneigung gegenüber x2 (Objekt/Zustand)
+ prane         pa'e /perfekt/ x1 ist perfekt/ideal/fehlerlos/makellos/vollkommen in Eigenschaft/Aspekt x2 (ka)
+#preja pej     pe'a /sich verbreiten/ x1 breitet sich aus über/nach x2, vom Ursprunszustand x3 (Zustand) aus
+ prenu     pre      /Person/ x1 ist ein Person (Substantiv) [nicht zwingend menschlich]; x1 zeigt Persönlichkeit
+ preti ret     rei  /Frage/ x1 (zitierter Text) ist eine Frage/Anfrage über Thema x2 von Fragendem x3 an Publikum x4
+ prije pij          /weise/ x1 ist weise/klug bezüglich Angelegenheit x2 (Abstraktion) für Betrachter x3
+ prina     pri      /Druck/ x1 ist ein Druck/ein Aufdruck/Bild auf Oberfläche x2 von/erzeugt mit Werkzeug/Presse/Objekt x3
+ pritu              /rechts/ x1 ist rechts/zur Rechten von x2, das x3 gegenübersteht/in Bezugssystem x3
+ prosa ros     ro'a /Prosa/ x1 ist Prosa über Handlungschema/(Leit-)motiv/Thema x2 von Autor x3 für beabsichtigtes Publikum x4
+?pruce ruc     ru'e /Prozess/ x1 ist ein Prozess mit Eingabe/Einsatz x2, Ausgabe/Ergebnis x3 und durchläuft Schritte/Phasen x4
+ pruni pun          /elastisch/ (Adjektiv:) x1 ist elastisch/dehnbar/federnd
+#pruxi rux     ru'i /geistig/ x1 ist geistig/gehört zur beseelten Natur [entweder Energie oder Wesen]; x1 ist geisterhaft/ätherisch
+?pu'i  pus          /kann und hat/ modaler Aspekt: kann und hat; demonstriertes Potenzial
+?pu'u  puv          /Prozess-Abstraktion/ Abstraktion: Prozess-(Ereignis-)Abstraktion; x1 ist ein Prozess von [bridi] bestehend aus Phasen x2
+?pulce puc     pu'e /Staub/ x1 ist Staub/Ablagerung/Niederschlag [Feststoff] von x2 in Medium/auf Oberfläche x3
+ pulji              /Polizist/ x1 ist ein Polizist/Ordnungshüter und setzt Gesetz(e)/Regel(n)/Anordnung(en) x2 durch
+?pulni              /Flaschenzug/ x1 ist ein Flaschenzug [Werkzeug] für Aktion/Funktion x2 und dreht sich auf Achse x3
+#punji puj     pu'i /platzieren/ x1 (Handelnder) setzt/stellt/legt x2 an Ort/auf Oberfläche x3
+ punli pul          /Beule/ x1 ist eine Beule/Schwellung/Ausbuchtung [Form] auf/in/an x2 aus Material x3
+ purci pur pru      /Vergangenheit/ x1 liegt in der Vergangenheit von/ist früher als/vor x2 in zeitlicher Reihenfolge; x1 ist früher; x2 ist später
+?purdi pud          /Garten/ x1 ist ein Garten/ein gepflegtes/kultiviertes Feld von Familie/Gemeinschaft/Bauer x2 und enthält Pflanzen/Ernte x3
+ purmo pum     pu'o /Pulver/ x1 ist ein Pulver von Material x2
+ racli              /vernünftig/ x1 (Handlung/Tätigkeit/Verhalten) ist vernünftig/rational gemäß Standard x2
+ ractu              /Hase/ x1 ist ein Hase/Kaninchen/[Häsin] von Art/Gattung x2
+ radno         ra'o /Radiant/ x1 ist x2 Radiant [metrische Einheit] Winkel im Bogenmaß (Default: 1) gemäß Standard x3
+ rafsi raf          /Affix/ x1 ist ein Affix/Suffix/Präfix von Wort/Konzept x2 mit Form/Eigenschaften x3 in Sprache x4
+#ragve rav          /gegenüber/ x1 ist gegenüber/auf der anderen Seite von Zwischenraum/Grenze x2 von x3; x1 ist Gegenüber von (fi) x3
+ rakso              /irakisch/ x1 repräsentiert irakische Kultur/Nationalität in Aspekt x2
+ raktu         ra'u /stören/ x1 (Objekt/Person/Ereignis/Situation) stört/plagt/belästigt x2 (Person) und erzeugt Problem(e) x3
+?ralci rac          /zart/ x1 ist empfindlich/zart/anfällig/subtil in Eigenschaft x2 (ka)
+ ralju ral          /Leiter/ x1 ist der Leiter/Chef/Direktor/Rektor/Vorsteher/[Haupt-], das Maßgebliche unter x2 (Menge) in Eigenschaft x2
+?ralte         ra'e /behalten/ x1 behält/bewahrt x2 in ihrem/seinen Besitz
+?randa rad          /nachgeben/ x1 gibt nach/weicht aus/gibt sich geschlagen/kapituliert vor x2 (Kraft/Handelnder) unter Bedingungen x3
+ rango rag          /Organ/ x1 ist ein Körperorgan [Körperteil] von Körper/Spezies/Art x2 und erfüllt Funktion x3
+ ranji         ra'i /fortdauern/ x1 (Ereignis/Zustand) dauert fort/währt über Intervall x2; x1 (Eigenschaft - ka) ist fortdauernd über x2
+#ranmi ram          /Mythos/ x1 ist ein Mythos/eine Legende, eine kulturell bedeutsame Erzählung über x2 innerhalb der Mythologie x3 von Kultur x4
+ ransu              /Bronze/ x1 ist eine Menge an/enthält/besteht aus Bronze von Zusammensetzung unter anderem x2
+ ranti ran          /weich/ x1 ist weich/verformbar/gibt Kraft x2 nach unter Bedingungen x3
+?ranxi rax          /Ironie/ x1 ist ironisch/entgegen der Erwartung x2 in Zustand/Eigenschaft/Aspekt x3
+?rapli rap          /wiederholen/ x1 [Aktion] wiederholt sich/wird wiederholt mit insgesamt x2 (Anzahl) Vorkommen
+?rarna rar          /natürlich/ x1 ist natürlich/spontan/instinktiv, nicht [bewusst] verursacht von Person(en)
+ ratcu              /Ratte/ x1 ist eine Ratte von Art/Gattung x2
+ ratni rat          /Atom/ x1 ist ein Atom von Element/mit Ordnungszahl x2 von Isotop-Nummer/mit Atomgewicht x3
+ re    rel          /2/ Ziffer/Zahl: 2 (Ziffer)
+ rebla reb          /Schwanz/ x1 ist ein Schwanz/Schweif/Anhang/eine Rute [Körperteil] von x2; [Im übertragenen Sinn: folgender Teil/Anhang]
+ rectu rec     re'u /Fleisch/ x1 ist eine Menge an/enthält Fleisch von Quelle/Tier x2
+ remna rem     re'a /Mensch/ x1 ist ein Mensch; (Adjektiv:) x1 ist menschlich
+ renro rer     re'o /werfen/ x1 wirft/schleudert x2/schießt x2 ab in Richtung x3 (Der Antrieb geht von x1 aus)
+#renvi rev     re'i /überleben/ x1 überlebt/überdauert x2 für Dauer/Interval x3
+ respa res          /Reptil/ x1 ist ein Reptil von Art/Gattung x2
+ ricfu rif cfu      /reich/ x1 ist reich/wohlhabend an/in Gütern/Besitz/Eigenschaft/Aspekt x2
+ rigni rig          /abscheulich/ x1 ist abscheulich/widerlich/ekelhaft für x2 unter Bedingungen x3
+ rijno rij          /Silber/ x1 ist eine Menge an/enthält/besteht aus Silber (Ag); [im übertragenen Sinn: wertvoll, anlaufend]
+ rilti ril          /Rhythmus/ x1 (Abfolge/Nicht-Text-Zitat) ist ein Rhythmus/Beat von Musik/Ausdrucksform x2
+?rimni rim          /Reim/ x1 reimt sich/ist eine Alliteration mit x2 in Sprache/Aussprache x3, mit Lautübereinstimmung x4
+#rinci              /abfließen/ x1 (Flüssigkeit) fließt/läuft ab von Quelle x2 durch Abfluss/Sieb x3 durch Kraft x4
+*rinju         ri'u /zurückhalten/ x1 wird zurückgehalten/begrenzt/eingedämmt durch Hemmnis/Zwang x2, sodass x3 (Ereignis) nicht eintritt (?)
+ rinka rik     ri'a /verursachen/  x1 (Ereignis/Zustand) bewirkt/verursacht (physikalisch) x2 (Ereignis/Zustand) unter Bedingungen x3
+ rinsa              /grüßen/ x1 (Handelnder) grüßt/heißt x2 willkommen/reagiert auf Ankunft von x2 durch Verhalten x3 (Handlung)
+ rirci              /selten/ x1 [Mengenelement] ist selten/ungewöhnlich/außergewöhnlich/untypisch in Eigenschaft x2 (ka) unter Elementen von Menge x3 (Menge)
+?rirni rir          /Eltern(teil)/ x1 ist ein Elternteil/sind die Eltern von x2; x1 zieht x2 auf; x1 handelnd elternhaft gegenüber Kind/Schützling x2
+?rirxe         ri'e /Fluss/ x1 ist ein Fluss von Landstück x2 aus Einzugsgebiet x3 und mündet in/endet an x4
+?rismi ris          /Reis/ x1 ist eine Menge an Reis [Art Korn] von Art/Sorte x2
+ risna              /Herz/ x1 ist das Herz [Körperteil] von x2; [Verwendung für Emotionen oder Form im übertragenen Sinne ist nicht kulturell neutral]
+ ritli         ri'i /Ritual/ x1 ist ein Ritual/eine Zeremonie für Zweck/mit Ziel x2 nach Brauch/in Gemeinschaft x3 in Form/mit Regeln x4
+ rivbi riv          /vermeiden/ x1 vermeidet/entkommt/umgeht/verhindert/entgeht [Schicksal] x2 (Ereignis) mit/durch Handlung/Zustand x3 (Ereignis)
+ ro    rol          /jeder von/ Ziffer/Zahl: jeder/alle von
+*roi   rom     roi  /quantifizierte Vorkommen/ wandelt Zahl in ein objektiv quantifiziertes (Zeitintervall-Bestimmungswort) um; default: Zeitliche Vorkommen (?: tense allgemein, Überbegriff zu location and time tense)
+ rokci rok     ro'i /Fels/ x1 ist eine Menge an/enthält/besteht aus Fels/Stein von Typ/mit Zusammensetzung x2 aus Ort x3
+ romge rog          /Chrom/ x1 ist eine stark reflektierende/polierte, nicht-angelaufene Metalloberfläche von Metall x2 [meist Chrom]
+ ropno ron     ro'o /europäisch/ x1 repräsentiert europäische Kultur/Nationalität/Geografie/indoeuropäische Sprachen in Aspekt x2
+ rorci ror          /zeugen/ x1 zeugt x2 mit x3 (zweiter Elternteil)
+?rotsu rot tsu ro'u /dick/ x1 ist dick in Dimension/Richtung x2 gemäß Standard x3; [relativ lang in kürzester Dimension]
+ rozgu roz zgu      /Rose/ x1 ist eine Rose [Blume - charakterisiert durch stachligen Stängel/Duft] von Art/Sorte x2
+ ruble rub ble      /schwach/ x1 ist schwach in Eigenschaft/Qualität/Aspekt x2 (ka) gemäß Standard x3
+ rufsu ruf          /rau/ x1 ist rau/grob/uneben/[körnig] in ihrer/seiner Oberflächenbeschaffenheit/Regelmäßigkeit
+ runme rum          /schmelzen/ x1 schmilzt [geht vom festen zum flüssigen Zustand über] bei Temperatur x2 und Druck x3
+ runta              /lösen/ x1 löst sich in Lösungsmittel x2 und bildet eine Lösung/[Suspension] x3 unter Bedingungen x4
+ rupnu rup     ru'u /Dollar/ x1 ist gemessen in großen Geldeinheiten (Dollar/Yuan/Rubel) als x2 (Menge) in Währungssystem x3
+ rusko ruk     ru'o /russisch/ x1 repräsentiert russische Kultur/Nationalität/Sprache in Aspekt x2
+?rutni run          /Artefakt/ x1 ist ein Artefakt; x1 ist künstlich; x1 ist von Menschen gemacht
+?sabji sab          /anbieten/ x1 [Quelle] versorgt/beliefert x3 [Empfänger] mit x2 [Angebot/Produkt];x1 bietet x2 an/stellt x2 bereit für x3
+?sabnu              /Abteil/ x1 ist ein Abteil/eine Fahrgastzelle/Kabine/Kajüte von Fahrzeug x2
+?sacki              /Streichholz/ x1 ist ein Streichholz/Zündholz [Zündgerät] aus Material x2
+ saclu              /Dezimalzahl/ x1 (me'o) ist die [dezimale/binäre] Entsprechung des Bruches x2 (me'o) bezüglich Basis x3 (Größe)
+ sadjo     djo      /saudi-arabisch/ x1 repräsentiert saudi-arabische Kultur/Nationalität in Aspekt x2
+?sakci sak          /saugen/ x1 saugt/ist ein Sog/Vakuum/Unterdruck von Flüssigkeit/Gas x2 relativ zum hohen Druck x3
+ sakli sal          /gleiten/ x1 gleitet/rutscht auf x2
+ sakta sat          /Zucker/ x1 ist eine Menge an/enthält/besteht aus Zucker [süß, essbar] aus Quelle x2 mit Zusammensetzung x3
+ salci     sla      /feiern/ x1 feiert/zelebriert/würdigt/ehrt x2 (Ereignis/Abstraktion) mit Aktivität/[Party] x3
+?salpo         sa'o /Steigung/ x1 steigt an/ist ein Anstieg/geneigt/schräg mit Winkel x2 für Blickfeld/Rahmen x3
+ salta              /Salat/ x1 (Masse) ist eine Menge an Salat [Essen] mit Zutaten unter anderem x2
+ samcu              /Kassava/ x1 ist eine Menge an Kassava/Maniok/Taro (Wasserbrotwurzel)/Tapioka/Yams(wurzel) [essbare stärkehaltige Wurzel] von Art/Sorte x2
+ sampu sap          /schlicht/ x1 ist einfach/schlicht/unkompliziert in Eigenschaft x2 (ka)
+ sance     sna      /Laut/ x1 ist ein Laut/Klang/Geräusch erzeugt/ausgesendet von x2
+ sanga sag     sa'a /singen/ x1 singt x2 [Lied/Hymne/Melodie/wohlklingende Laute] für Publikum x3
+ sanji saj          /bewusst/ x1 ist sich x2 (Objekt/Abstraktion) bewusst; x1 erkennt/nimmt x2 (Objekt/Abstraktion) wahr
+ sanli         sa'i /stehen/ x1 steht [ist senkrecht] auf Oberfläche x2 gestützt/gehalten von Gliedern/Stütze/Ständer x3
+?sanmi         sai  /Mahl/ x1 (Masse) ist ein Mahl/Essen/Menü zusammengestellt aus Gerichten/Gängen unter anderem x2
+ sanso              /Soße/ x1 ist eine Soße/ein Belag/Zuckerguss zur Verwendung mit x2 und enthält Zutat(en) unter anderem x3
+ santa              /Schirm/ x1 ist ein (Regen-/Sonnen-)Schirm und schirmt x2 von x3 ab, gemacht aus Material x4, gehalten/gestützt durch x5
+ sarcu         sa'u /notwendig/ x1 (Abstraktion) ist notwendig/erforderlich/unerlässlich zum Fortsetzen von Zustand/Prozess x2 unter Bedingungen x3
+ sarji     sra      /unterstützen/ x1 unterstützt/stützt/fördert/erhält aufrecht/[hilft] x2 gegen Kraft/Gegenseite x3 mit Mitteln x4
+?sarlu              /Spirale/ x1 ist eine Spirale/Helix/Windung/[Wirbel] [Form] mit Grenzen x2 von Dimensionalität x3
+ sarxe sax          /harmonisch/ x1 ist harmonisch/übereinstimmend/im Einklang mit x2 in Eigenschaft x3 (ka)
+ saske     ske      /Wissenschaft/ x1 (Masse an Tatsachen) ist eine Wissenschaft über/von Thematik/Sachgebiet/behandelten Gegenstand x2 und basiert auf Methodik x3
+ satci              /genau/ x1 [Messung/Passung] ist genau/präzise mit Genauigkeit/Präzision x2 in Eigenschaft/Menge/Größe (ka/ni)
+ satre         sa'e /streicheln/ x1 (Handelnder) streichelt x2 mit x3
+ savru sav vru      /Lärm/ x1 ist Lärm/Geräusch/Geschrei/Rauschen [Sinneseindruck ohne verwendbare Information] für x2 über Sinneskanal x3
+ sazri saz          /bedienen/ x1 bedient/betätigt/betreibt/steuert x2 [Gerät/Maschine] mit/für Ziel/Nutzen/Anwendung x3
+ se    sel          /zweiter Tausch/ zweiter Tausch; tauscht den ersten und zweiten Platz
+ sefta     sfe      /Oberfläche/ x1 ist eine Oberfläche/Seite [begrenzte Form] von [höherdimensionalem] Objekt x2 auf Seite x3 mit Kanten x4
+ selci     sle      /Zelle/ x1 ist eine Zelle/ein Atom/Molekül/eine Einheit von x2; x1 ist eine unteilbare, grundlegendste Untereinheit von x2
+ selfu sef     se'u /dienen/ x1 (Handelnder) dient x2 mit Dienstleistung x3 (Tätigkeit); x1 ist ein Diener/Bediensteter (Substantiv) von x2 und leistet x3
+ semto     sme      /semitisch/ x1 repräsentiert semitische [im übertragenen Sinn: aus Nahost] Sprache/Kultur/Nationalität in Aspekt x2
+ senci sec          /niesen/ x1 niest (intransitives Verb)
+ senpi sen          /zweifeln/ x1 (be-)zweifelt/ist suspekt/skeptisch/zweifelt an, dass x2 (du'u) wahr ist
+ senta set          /Schicht/ x1 ist eine Schicht/Gesteinsschicht [Form] von x2 [Material] innerhalb von Struktur/Kontinuum/Verbund/Gemisch x3
+ senva sev sne      /träumen/ x1 träumt über x2 (Tatsache/Idee/Ereignis/Zustand); x2 ist ein Traum/eine Träumerei von x1
+ sepli sep     sei  /getrennt/ x1 ist getrennt/abgesondert von x2 getrennt durch Abtrennung/Mauer/Lücke/Intervall/Trennmedium x3
+ serti ser          /Treppe/ x1 ist eine Treppe/sind Treppenstufen für steigende Struktur x2 mit Stufen x3
+?setca         se'a /einfügen/ x1 (Handelnder) fügt x2 ins Innere von x3/unter/zwischen Elementen von x3 ein
+*sevzi sez     se'i /Selbst/ x1 ist ein Selbst/Ego/Ausweis(?)/Selbstbild von x2
+ sfani              /Fliege/ x1 ist eine Fliege [ein kleines nicht-stechendes fliegendes Insekt] von Art/Gattung x2
+ sfasa     sfa      /bestrafen/ x1 (Handelnder) bestraft x2 für Verletzung/Übertretung x3 (Ereignis/Zustand/Handlung) mit Strafe x4 (Ereignis/Zustand)
+ sfofa     sfo      /Sofa/ x1 ist ein Sofa/eine Couch (Substantiv)
+ sfubu sub     su'u /tauchen/ x1 taucht ein [Art eines kontrollierten Fallens] in x2 von x3
+ si'o  siz          /Konzept-Abstraktion/ Abstraktion: Idee/Konzept-Abstraktion; x1 ist x2s Konzept von [bridi]
+ siclu sil          /pfeifen/ x1 [Geräuschquelle] pfeift/erzeugt einen Pfeifton/eine Note/Klang/Melodie x2
+ sicni         si'i /Münze/ x1 ist eine Münze/Wertmarke/Bon ausgestellt von x2 mit Wert x3 von Zusammensetzung unter anderem x4
+ sidbo sib     si'o /Idee/ x1 (Idee-Abstraktion) ist eine Idee/ein Gedanke/Konzept/eine Vorstellung von/über/bezüglich x2 (Objekt/Abstraktion) von Denker x3
+ sidju     dju      /helfen/ x1 hilft/assistiert/fördert Objekt/Person x2 im Tun/Erreichen/Aufrechterhalten von Ereignis/Tätigkeit x3
+ sigja sig          /Zigarette/ x1 ist eine Zigarre/Zigarette/Zigarillo aus Tabak/rauchbare Substanz x2 von x3
+ silka sik          /Seide/ x1 ist eine Menge an/enthält/besteht aus Seide produziert von x2
+ silna              /Salz/ x1 ist eine Portion/Menge an Salz aus Quelle x2 mit einer Zusammensetzung unter anderem x3
+ simlu     mlu      /scheinen/ x1 erscheint/erweckt den Anschein, die Eigenschaft(en) x2 zu besitzen, für Betrachter x3 unter Bedingungen x4
+ simsa     smi      /ähnlich/ x1 ist ähnlich/besitzt Ähnlichkeiten/Parallelen zu x2 in Eigenschaft/Menge x3 (ka/ni); x1 sieht aus wie x2
+?simxu sim     si'u /gegenseitig/ x1 (Menge) besitzt Elemente die gegenseitig/wechselseitig x2 sind/tun (Ereignis [x1 sollte reflexiv in 1+ Sumti sein])
+ since              /Schlange/ x1 ist eine Schlange von Art/Gattung x2
+?sinma         si'a /schätzen/ x1 schätzt/achtet/ehrt/hochachtet x2 [Objekt der Achtung]
+?sinso              /Sinus/ x1 ist der trigonometrische Sinus von Winkel/Arcossinus x2
+ sinxa     sni      /Zeichen/ x1 ist ein Zeichen/Symbol/Signal und bedeutet/repräsentiert/bezieht sich auf/kennzeichnet x2 für Betrachter x3
+ sipna sip          /schlafen/ x1 ist eingeschlafen (Adjektiv); x1 schläft
+ sirji sir          /Strecke/ x1 ist eine Gerade/Strecke zwischen x2 und x3; (Adjektiv:) x1 ist geradlinig
+ sirxo six          /syrisch/ x1 repräsentiert syrische Kultur/Nationalität in Aspekt x2
+ sisku sis          /suchen/ x1 sucht/hält Ausschau nach Eigenschaft x2 in Menge x3 (vollständige Angabe der Menge)
+ sisti     sti      /aufhören/ x1 [Handelnder] hört auf/stoppt/beendet Tätigkeit/Prozess/Zustand x2 [nicht zwingend abschließend]
+ sitna sit          /zitieren/ x1 zitiert/führt an/verweist auf Quelle x2 wegen Information/Aussage x3 (du'u)
+ sivni siv          /privat/ x1 ist privat/persönlich/[geheim/vertraulich] für x2; x1 ist nicht öffentlich/versteckt
+ skaci              /Rock/ x1 ist ein Rock/Kilt/Kleid aus Material x2; [Kleidung, die nach unten offen ist; ohne Beine]
+ skami sam          /Computer/ x1 ist ein Computer/Rechner für Zweck x2
+?skapi kap          /Fell/ x1 ist das Fell/die Haut/das Leder von x2
+?skari     ska      /farbig/ x1 ist/scheint in Farbe/Farbton x2, wahrgenommen von x3 unter Bedingungen x4
+ skicu     ski      /beschreiben/ x1 erzählt über/beschreibt x2 (Objekt/Ereignis/Zustand) an/für Publikum x3 mit Beschreibung x4 (Eigenschaft)
+#skiji sij          /Ski/ x1 ist ein Ski/Schlittschuh/eine Kufe/Rollschiene für Oberfläche (aus Material) x2 und trägt/unterstützt Skifahrer/Eisläufer/Schlitten/Fracht x3
+ skina kin          /Film/ x1 ist ein Film über x2 [Handlungsschema/Motiv/Thema/Tätigkeit] von Filmmacher x3 für Publikum x4
+ skori     sko      /Seil/ x1 ist ein Seil/Kabel/Strick/eine Leine/Kordel/Schnur/gewobene Stränge aus Material x2
+ skoto kot     ko'o /schottisch/ x1 repräsentiert gälische/schottische Kultur/Nationalität/Sprache in Aspekt x2
+ skuro         ku'o /Furche/ x1 ist ein Graben/Schlitz/eine Furche/Rille/Kerbe [Form] von/auf Objekt/Oberfläche x2
+ slabu         sau  /bekannt/ x1 ist bekannt/gewohnt/geläufig/vertraut für Betrachter x2 in Merkmal x3 (ka) gemäß Standard x4
+ slaka              /Silbe/ x1 ist eine Silbe in Sprache x2
+ slami              /Säure/ x1 ist eine Menge an/enthält/besteht aus Säure von Zusammensetzung x2; (Adjektiv:) x1 ist säurehaltig
+ slanu              /Zylinder/ x1 ist ein Zylinder [Form] aus Material x2
+ slari sar          /sauer/ x1 ist sauer/beißend für Wahrnehmenden x2
+?slasi las          /Plastik/ x1 ist eine Menge an/enthält/besteht aus Plastik/Kunststoff/Polymer von Typ/aus Monomeren/Komponenten x2
+ sligu lig          /fest/ x1 ist fest/ein Feststoff von Zusammensetzung/Material unter anderem x2 unter Bedingungen x3
+?slilu     sli      /oszillieren/ x1 oszilliert/schwingt/pendelt mit Rate/Frequenz x2 durch/zwischen Menge/Folge an Zuständen x3 (vollständige Angabe)
+ sliri              /Schwefel/ x1 ist eine Menge an/enthält/besteht aus Schwefel (S); [Im übertragenen Sinn: fauler Geruch, vulkanisch]
+ slovo lov     lo'o /slawisch/ x1 repräsentiert slawische Sprache/Kultur/Ethos in Aspekt x2
+?sluji     slu      /Muskel/ x1 ist ein Muskel [Körperteil] und steuert x2, von Körper x3; [Im übertragenen Sinn: Werkzeug von körperlicher Kraft]
+ sluni              /Zwiebel/ x1 ist eine Menge an/enthält Zwiebeln/Frühlingszwiebeln von Typ/Sorte x2
+ smacu              /Maus/ x1 ist eine Maus von Art/Gattung x2
+ smadi              /vermuten/ x1 rät/vermutet/spekuliert/mutmaßt x2 (du'u) ist wahr über Thema x3; [Erkenntnistheorie]
+ smaji     sma      /leise/ x1 (Quelle) ist leise/still an Beobachtungspunkt x2 gemäß Standard x3
+ smani              /Affe/ x1 ist ein Affe/Menschenaffe/Pavian/Schimpanse von Art/Gattung x2
+ smoka     smo      /Socke/ x1 ist eine Socke/ein Strumpf [elastische Fuß- und Unterschenkelbekleidung] aus Material x2
+ smuci muc          /Löffel/ x1 ist ein Löffel/eine Schöpfkelle (Werkzeug) zur Verwendung x2, hergestellt aus Material x3
+?smuni mun smu      /Bedeutung/ x1 ist eine Bedeutung/Interpretation von x2, anerkannt von x3
+#snada sad          /Erfolg haben/ x1 [Handelnder] gelingt/hat Erfolg mit/vollbringt/leistet x2, als Ergebnis von Versuch/Anstrengung x3
+ snanu nan          /Süden/ x1 ist südlich/auf der Südseite von x2 gemäß Bezugsrahmen x3
+ snidu nid          /Sekunde/ x1 dauert x2 Sekunden (Default: 1) gemäß Standard x3
+ snime         si'e /Schnee/ x1 ist eine Menge/Fläche an/enthält/besteht aus Schnee
+ snipa nip          /klebend/ x1 haftet/klebt an x2; (Adjektiv:) x1 ist klebrig/klebend
+ snuji nuj          /Sandwich/ x1 ist ein Sandwich/eine Schichtung [nicht beschränkt auf Essen] von x2 eingelegt zwischen x3
+ snura nur     nu'a /sicher/ x1 ist sicher/geschützt gegen/vor Gefahr x2 (Ereignis)
+ snuti nut          /unbeabsichtigt/ x1 (Ereignis/Zustand) ist ein Unfall/ist unbeabsichtigt von x2; x1 ist ein Unfall
+ so    soz          /9/ Ziffer/Zahl: 9 (Ziffer)
+ so'a  soj          /fast alle/ Ziffer/Zahl: fast alle (Ziffer/Zahl)
+ so'e  sop          /die meisten/ Ziffer/Zahl: die meisten
+ so'i  sor     so'i /viele/ Ziffer/Zahl: viele
+ so'o  sos          /einige/ Ziffer/Zahl: einige
+ so'u  sot          /wenige/ Ziffer/Zahl: wenige
+ sobde sob     so'e /Soja/ x1 ist eine Menge an Soja [Korn/Bohne] von Art/Sorte x2
+ sodna              /Natrium/ x1 ist eine Menge an/enthält/besteht aus Alkalimetall von Typ x2 [Default: Natrium]
+ sodva sod          /Limonade/ x1 ist eine Menge an/enthält/besteht aus kohlensäurehaltigem Getränk/Limonade mit/von Geschmack/Sorte/Marke x2
+ softo sof          /sowjetisch/ x1 repräsentiert das Russische Reich/die UdSSR/ehemalige UdSSR/sowjetische/GUS Kultur/Nationalität in Aspekt x2
+ solji     slo      /Gold/ x1 ist eine Menge an/enthält/besteht aus Gold (Au); [Im übertragenen Sinn: wertvoll, schwer, reaktionsarm]
+?solri sol          /Sonne/ x1 ist die Sonne des Heimatplaneten x2 (Default: Erde) von Rasse x3
+ sombo som     so'o /säen/ x1 sät/pflanzt x2 [Ernte/Pflanzen] auf/in x3
+ sonci son     soi  /Soldat/ x1 ist ein Soldat/Kämpfer/Krieger von Armee x2
+ sorcu soc sro      /Lager/ x1 ist ein Lager/Speicher/Vorrat/Depot/eine Reserve von Materialien/Energie x2 in Behälter x3
+ sorgu sog          /Sorghum/ x1 ist eine Menge an Sorghum von Art/Sorte x2
+ sovda sov     so'a /Ei/ x1 ist ein Ei/eine Eizelle/Keimzelle/ein Spermium/Pollen von/aus Organismus [Mutter/Vater] x2
+ spaji paj          /überraschen/ x1 (Ereignis/Handlung Abstraktion) überrascht/erschreckt/ist unerwartet [und meist plötzlich] für x2
+ spali              /polieren/ x1 (Handelnder) poliert Objekt/Oberfläche x2 mit Politur x3, aufgetragen mit Werkzeug x4
+ spano san          /spanisch/ x1 repräsentiert die spanisch(sprachig)e Kultur/Nationalität/Sprache in Aspekt x2
+ spati     spa      /Pflanze/ x1 ist eine Pflanze/ein Kraut von Art/Sorte x2
+ speni     spe      /Lebensgefährte/ x1 ist verheiratet mit x2; x1 ist ein Lebensgefährte/Ehegatte von x2 nach Gesetz/Brauch/Tradition/System/Übereinkunft x3
+?spisa     spi      /Stück/ x1 [Objekt/Stoff] ist ein Teil/Stück/eine Portion/ein Klumpen von x2 [Stoff]
+ spita              /Krankenhaus/ x1 ist ein Krankenhaus für Patient(en) x2 mit Krankheit/Zustand/Verletzung x3
+ spofu pof     po'u /kaputt/ x1 ist kaputt/defekt/nicht bedienbar/nutzlos für Funktion x2
+ spoja poj     po'a /explodieren/ x1 explodiert/zerberstet/zerbricht gewaltsam/zersetzt sich/verbrennt in Teile/Energie x2
+?spuda     spu      /antworten/ x1 antwortet/entgegnet/reagiert auf Person/Objekt/Ereignis/Situation/Reiz x2 mit Antwort x3
+?sputu put     pu'u /spucken/ x1 spuckt/hustet x2 [überwiegend flüssig] von x3 nach/auf x4
+#sraji raj          /vertikal/ x1 ist vertikal/senkrecht/aufrecht/stehend/lotrecht in Bezugssystem/gemäß Schwerkraft x2
+?sraku rak          /kratzen/ x1 [abreibendes/schneidendes/kratzendes Objekt/Werkzeug] kratzt/[ritzt]/zerfrisst/schneidet [in] x2 
+ sralo              /australisch/ x1 repräsentiert australische Kultur/Nationalität/Geografie/Dialekt in Aspekt x2
+ srana         ra'a /betreffen/ x1 betrifft/gehört zu/ist relevant für/ist verknüpft/zugeordnet/steht in Beziehung mit x2
+ srasu sas          /Gras/ x1 ist ein Grashalm/Rasen/eine Grasfläche von Art x2
+ srera     sre      /irren/ x1 irrt im Tun/Sein von x2 (Ereignis), ein Fehler unter Bedingungen x3 gemäß Standard x4
+ srito              /Sanskrit/ x1 repräsentiert die Sanskrit-/Vedische Sprache/Kultur/Nationalität in Aspekt x2
+ sruma         ru'a /annehmen/ x1 nimmt an/vermutet/geht davon aus, dass x2 (du'u) wahr ist über Thema x3; [Erkenntnistheorie]
+ sruri rur sru      /umgeben/ x1 umgibt/umschließt/umkreist/umzingelt x2 in Richtung(en)/Dimension(en)/Ebene x3
+ stace sac          /ehrlich/ x1 ist ehrlich/ehrenwert/aufrichtig/wahrheitsgemäß aussagend/offen zu/gegenüber x2 über Angelegenheit/Tatsache x3
+#stagi              /Gemüse/ x1 ist der essbare Teil x2 von Pflanze x3; x1 ist Obst/Gemüse
+ staku tak          /Keramik/ x1 ist eine Menge an/enthält/besteht aus Keramik, hergestellt von x2 mit Zusammensetzung x3 in Form x4
+#stali     sta      /bleiben/ x1 (ver)bleibt/verharrt bei/mit x2
+ stani              /Stängel/ x1 ist ein/der Stängel/Stamm/Rumpf [Körperteil] von Pflanze/Art/Gattung x2; [Im übertragenen Sinn: Hauptstütze]
+?stapa tap          /betreten/ x1 (be)tritt/schreitet auf Oberfläche x2 mit Gliedmaßen x3
+ stasu              /Suppe/ x1 ist eine Menge an Suppe/Eintopf [Nahrung] mit Zutaten unter anderem x2
+ stati              /Talent/ x1 hat die Begabung/Befähigung/Eignung/angeborene Fähigkeit/das Geschick/Talent x2 zu sein/zu tun.
+ steba seb          /Frustration/ x1 ist frustriert/enttäuscht über x2 (Abstraktion)
+ steci tec     te'i /spezifisch/ x1 (Eigenschaft) ist spezifisch/besonders/speziell/eine bestimmende Eigenschaft von x2 unter x3 (Menge)
+ stedu sed          /Kopf/ x1 ist ein/der Kopf [Körperteil] von x2; [im übertragenen Sinn: der oberste Teil]
+ stela tel          /Schloss/ x1 ist ein Schloss/Siegel/eine Sperre zum Verschließen von x2 mit Verschlussmechanismus x3
+ stero         te'o /Steradiant/ x1 ist x2 Steradiant [metrische Einheit] an Raumwinkel (Default: 1) gemäß Standard x3
+?stici sic          /Westen/ x1 ist westlich/der Westen von x2 gemäß Referenzrahmen x3
+ stidi sid     ti'i /vorschlagen/ x1 (Handelnder) schlägt vor/regt an/legt nahe/empfiehlt Idee/Handlung x2 Publikum x3; x1 (Ereignis) regt x2 an unter x3
+ stika tik          /anpassen/ x1 (Ereignis) passt an/gleicht an/reguliert/verändert x2 (ka/ni) in/um Menge/Grad x3
+ stizu tiz          /Stuhl/ x1 ist ein Stuhl/Sitz/Sessel/Hocker/eine Bank, ein Möbelstück zum Sitzen
+ stodi     sto      /konstant/ x1 ist konstant/invariant/gleich bleibend in Eigenschaft x2 (ka) als Antwort auf Reiz/Bedingungen x3
+?stuna sun          /Osten/ x1 ist östlich/der Osten von x2 gemäß Referenzrahmen x3
+ stura tur     su'a /Struktur/ x1 ist eine Struktur/Anordnung/Organisation von x2 [Menge/System/Komplex]
+#stuzi tuz stu      /Ort/ x1 ist ständige(r)/feste(r) Platz/Stelle/Position/Ort von x2 (Objekt/Ereignis)
+ su'e  sup     su'e /höchstens/ Ziffer/Zahl: höchstens (alle); nicht mehr als
+ su'o  suz     su'o /mindestens/ Ziffer/Zahl: mindestens (wenige); nicht weniger als
+ su'u  suv          /unspezif. Abstraktion/ Abstraktion: allgemeine Abstraktion (wie); x1 ist [bridi] als unspezifische Abstraktion von Typ x2
+ sucta suc          /abstrakt/ x1 (si'o) ist abstrahiert/verallgemeinert/idealisiert von x2 [etwas konkretes] nach Regeln x3
+ sudga sud          /trocken/ x1 ist trocken an Flüssigkeit x2; (Adjektiv:) x1 ist arid
+ sufti     sfu      /Huf/ x1 ist ein Huf [Körperteil] von x2
+*suksa suk          /plötzlich/ x1 (Ereignis/Zustand) verändert sich plötzlich/scharf in/an Punkt/Phase x2 von/in Prozess/Eigenschaft/Funktion x3
+ sumji suj          /Summe/ x1 ist die mathematische Summe/das Ergebnis von x2 plus/erhöht um x3
+ sumne              /riechen/ x1 (Wahrnehmender) riecht/wittert (transitives Verb) x2; x2 riecht/hat Geruch/Duft für Betrachter x1
+ sumti sum     su'i /Argument/ x1 ist ein/das Argument von Prädikat/Funktion x2 und nimmt den Platz x3 (Typ/Zahl) ein
+ sunga sug          /Knoblauch/ x1 ist eine Menge an Knoblauch [Knolle] von Art/Sorte x2
+ sunla sul          /Wolle/ x1 ist eine Menge an/enthält/besteht aus Wolle [dichte gekräuselte Haare] von Tier/Art/Quelle x2
+?surla sur          /entspannen/ x1 entspannt sich/ruht sich aus vom Tun/Sein x2 (Handlung)
+?sutra sut          /schnell/ x1 ist schnell/rasch/flink/geschwind/eilt im Tun/Sein/Bewirken von x2 (Ereignis/Zustand)
+?ta    taz          /das dort/ pro-sumti: das dort; nahe gelegenes demonstratives es; bezeichnet ein Ding/Ort in der Nähe des Zuhörers
+ tabno tab          /Kohlenstoff/ x1 ist eine Menge an/enthält/besteht aus Kohle/Kohlenstoff/Graphit/[Diamant]/Aktivkohle; x1 ist organisch
+?tabra              /Trompete/ x1 ist ein Horn/eine Trompete/Posaune/Tuba [Blechblasinstrument]
+ tadji              /Methode/ x1 [Prozess] ist eine Methode/Technik/ein Verfahren/Ansatz/Mittel um x2 (Ereignis) zu tun unter Bedingungen x3
+?tadni tad          /studieren/ x1 studiert/ist ein Student von x2; x1 ist ein Lernender/Schüler; (Adjektiv:) x1 ist wissenschaftlich
+?tagji tag          /fest/ x1 ist fest/festsitzend auf x2 in Dimension/Richtung x3 an Stelle x4
+?talsa tal          /herausfordern/ x1 (Person) fordert x2 (heraus) in Eigenschaft x3
+ tamca              /Tomate/ x1 ist eine Tomate [Frucht/Pflanze] von Art/Sorte x2
+?tamji taj          /Daumen/ x1 ist ein/der Daumen/große Zeh [Körperteil] an Glied x2 von x3; [übertragener Sinn basiert auf relative Form]
+ tamne              /Cousin/ x1 ist ein(e) Cousin(e) von x2 über Verbindung x3; [nicht-direktes Familienmitglied, default: gleiche Generation]
+ tanbo         ta'o /Brett/ x1 ist ein Brett/eine Planke [dreidimensionales langes und flaches Rechteck] aus Material x2
+ tance tac          /Zunge/ x1 ist die Zunge [Körperteil] von x2; (übertragener Sinn: ähnlich wie nazbi, tamji, degji)
+ tanjo              /Tangens/ x1 ist der trigonometrische Tangens von Winkel/Arcustangens x2
+ tanko              /Tabak/ x1 ist eine Menge an Tabak [Blatt] von Art/Sorte x2
+*tanru         tau  /.../ x1 ist ... gebildet mit x2, das x3 verändert, mit der Bedeutung x4 in Verwendung/Auftreten x5
+ tansi tas          /Pfanne/ x1 ist eine Pfanne/Schale/Wanne/ein Becken/Bottich, ein flaches Gefäß für Inhalt x2 aus Material/mit Eigenschaften x3
+ tanxe tax     ta'e /Kiste/ x1 ist eine Kiste/Box/Schachtel/ein Karton für Inhalt x2 und aus Material x3
+ tapla              /Platte/ x1 ist eine Platte [Form] aus Material x2, Form x3, Dicke x4
+ tarbi              /Embryo/ x1 ist ein Embryo/Fötus/befruchtetes Ei/eine Zygote von Mutter x2 und Vater x3
+?tarci tar          /Stern/ x1 ist ein Stern/eine Sonne mit stellaren Eigenschaften x2
+ tarla              /Teer/ x1 ist eine Menge an/enthält/besteht aus Teer/Asphalt aus Quelle x2
+?tarmi tam     tai  /Form/ x1 [ideal] ist die begriffliche Form von Objekt/Abstraktion/Erscheinungsform x2 (Objekt/Abstraktion)
+?tarti     tra      /verhalten/ x1 verhält sich/benimmt sich als/in Art und Weise x2 (Ereignis/Eigenschaft) unter Bedingungen x3
+ taske              /dürsten/ x1 dürstet nach x2; x1 braucht/möchte Getränk/Flüssigkeit/Feuchtigkeit x2; x1 ist durstig/hat Durst
+ tatpi         ta'i /müde/ x1 ist müde/erschöpft von Anstrengung/Situation x2 (Ereignis); x1 braucht/möchte Ruhe
+ tatru tat          /Brust/ x1 ist eine Brust/Brustwarze/Zitze [Körperteil] von x2; [Im übertragenen Sinn: Vorsprung, der Flüssigkeit bereitstellt]
+ tavla tav     ta'a /sprechen/ x1 spricht/redet zu/mit x2 über Thema x3 in Sprache x4
+ taxfu taf     ta'u /Kleidung/ x1 ist ein Kleidungsstück/Kleid für x2 (Geschlecht/Art/Körperteil) und erfüllt Zweck x3
+ tcaci cac          /Brauch/ x1 ist ein Brauch/eine Gewohnheit/Sitte/[Ritual] von x2 unter Bedingungen x3
+?tcadu     tca      /Stadt/ x1 ist eine Stadt/Großstadt von Metropolregion x2, in politischer Einheit x3 und beliefert/versorgt Umland/Region x4
+ tcana              /Bahnhof/ x1 ist eine Station/Haltestelle/ein Bahnhof/Knotenpunkt von/in Transport-/Kommunikations-/Verteilungs-System/Netzwerk x2
+?tcati              /Tee/ x1 ist eine Menge an/enthält/besteht aus Tee, zubereitet/hergestellt aus Blättern x2
+ tcena ten          /sich erstrecken/ x1 erstreckt sich/reicht/spannt über Bereich x2 [Intervall/Weite/Ausdehnung] in Dimension x3 mit entspannter/zwangloser Reichweite x4
+*tcica tic          /täuschen/ x1 (Ereignis/Erfahrung) täuscht/betrügt/führt irre x2, so dass dieses (x2) x3 tut/glaubt (Ereignis/Zustand)
+ tcidu tid          /lesen/ x1 [Handelnder] liest x2 [Text] von Oberfläche/aus Dokument/Lesematerial x3; x1 ist ein Leser
+ tcika              /Tageszeit/ x1 [Stunden, {Minuten}, {Sekunden}] ist der Zeitpunkt/die Tageszeit/Stunde von Zustand/Ereignis x2 an Tag x3 und Ort x4
+ tcila til          /Detail/ x1 ist ein Detail/eine Einzelheit/Besonderheit von x2
+ tcima tim     ti'a /Wetter/ x1 ist das Wetter an Ort/in Region x2; (Adjektiv:) x1 ist meteorologisch
+ tcini              /Situation/ x1 [Zustand/Eigenschaft] ist eine Situation/Lage/ein Zustand/sind die Umstände/Bedingungen von x2
+*tcita              /.../ x1 ist ein Hinweisschild/Etikett/eine Aufschrift/Beschriftung von x2 und zeigt Information x3
+ te    ter          /dritter Tausch/ dritter Tausch; tauscht den ersten und dritten Platz
+?temci tem     tei  /Zeit/ x1 ist der Zeitraum/das Intervall/die Periode/[verstrichene Zeit] zwischen Zeitpunkten/Ereignissen x2 und x3
+*tenfa tef          /Potenz/ x1 ist die Potenz von Basis x2 hoch/mit Exponent x3
+ tengu teg     te'u /Textur/ x1 (Eigenschaft-ka) ist eine Textur/Oberflächenstruktur von x2
+ terdi ted          /Erde/ x1 ist die Erde/der Heimatplanet von Rasse x2; (Adjektiv:) x1 ist irdisch/terrestrisch
+?terpa tep     te'a /fürchten/ x1 fürchtet sich vor x2; x1 hat Angst/ist besorgt/erschrocken vor/über x2 (Ereignis/tu'a Objekt)
+ terto tet          /1E12/ x1 ist eine Billion [1x10**12] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ ti    tif          /dies hier/ pro-sumti: dies hier; direktes demonstratives es; bezeichnet ein Ding/Ort in der Nähe des Sprechers
+ tigni tig          /aufführen/ x1 führt/übt x2 [Aufführung/Leistung] auf/aus vor/für Publikum x3
+ tikpa tip          /treten/ x1 tritt [stößt mit x1s Fuß/Füßen x4] x2 an Stelle x3 unter Verwendung von x1s Fuß/Füßen x4
+ tilju tij          /schwer/ x1 ist schwer/gewichtig an Masse/Gewicht gemäß Standard x2
+ tinbe tib          /gehorchen/ x1 gehorcht/folgt den Anweisungen/Regeln x2 von x3; (Adjektiv:) x1 ist folgsam/gehorsam/unterwürfig
+ tinci              /Zinn/ x1 ist eine Menge an/enthält/besteht aus Zinn (Sn); [Im übertragenen Sinn: billiges oder unedles Metall]
+ tinsa              /steif/ x1 ist steif/starr/unbiegsam/unnachgiebig in Richtig x2 gegen Kraft x3 unter Bedingungen x4
+ tirna tin          /hören/ x1 hört x2 gegen Hintergrund/Lärm/Rauschen x3; x2 ist hörbar; (Adjektiv:) x1 ist auditiv
+ tirse tir          /Eisen/ x1 ist eine Menge an/enthält/besteht aus Eisen (Fe); [Im übertragenen Sinn: stark, beständig, läuft an]
+ tirxu              /Tiger/ x1 ist ein Tiger/Leopard/Jaguar/[Tigerin] von Art/Gattung x2 mit Fellmuster x3
+ tisna tis          /füllen/ x1 (Objekt) füllt sich/wird gefüllt/gestopft/bläht sich auf mit Material x2; x2 fließt/strömt in x1
+ titla tit          /süß/ x1 ist süß/zuckrig/zuckersüß für Wahrnehmenden x2
+ tivni tiv          /Fernsehen/ x1 überträgt das Programm x2 über Medium/Kanal x3 zu Fernsehempfänger x4
+ tixnu tix     ti'u /Tochter/ x1 ist eine Tochter von Mutter/Vater/Eltern x2; [nicht zwingend biologisch]
+?to'e  tol     to'e /polares Gegenteil/ polares Gegenteil Negator (skalar)
+?toknu tok          /Ofen/ x1 ist ein Ofen [Gehäuse, das den Inhalt erhitzt] zum Backen/Erhitzen/Trocknen von x2
+ toldi tod          /Schmetterling/ x1 ist ein Schmetterling/Nachtfalter/eine Motte von Art/Gattung x2
+ tonga tog     to'a /Ton/ x1 ist ein Ton/eine Note mit Frequenz/Tonhöhe x2 von Quelle x3
+?tordu tor     to'u /kurz/ x1 ist kurz in Dimension/Richtung x3 (gewöhnlich längste Ausbreitung) nach Mess-Standard x3
+ torni ton     to'i /biegen/ x1 biegt sich unter Last/Kraft/Verdrehung x2
+ traji         rai  /äußerst/ x1 ist äußerst/höchst- in Eigenschaft x2 (ka), das x3-Extrem (ka; default ka zmadu) von Menge/Bereich x4
+ trano              /Stickstoff/ x1 ist eine Menge an/enthält/besteht aus Stickstoff/Ammoniak/Nitraten
+?trati              /straff/ x1 ist straff/stramm/(an)gespannt in Richtung x2
+ trene ren     re'e /Zug/ x1 ist ein Zug [Fahrzeug] mit Wagen/Wagons/Einheiten x2 (Masse) für/auf Schienen/Gleisen/System x3, angetrieben durch x4
+ tricu ric          /Baum/ x1 ist ein Baum von Art/Sorte x2
+ trina     tri      /anziehen/ x1 lockt/zieht an/findet Anklang bei/ködert x2 (Person/Ereignis) mit Eigenschaft/Qualität x3 (ka)
+?trixe rix     ti'e /hinter/ x1 ist hinter/nachfolgend/später/im Rücken von x2, das x3 gegenübersteht/in Referenzrahmen x3
+ troci toc     toi  /versuchen/ x1 versucht/bemüht sich, x2 (Ereignis/Zustand/Eigenschaft) zu tun/zu erreichen, mit Handlungen/Methode x3
+ tsali     tsa      /stark/ x1 ist stark/kräftig/mächtig/[zäh] in Eigenschaft/Qualität x2 (ka) gemäß Standard x3
+?tsani tan          /Himmel/ x1 ist eine Fläche des Himmels an Ort x2; [astronomisch]
+ tsapi              /Gewürz/ x1 ist Würze/ein Gewürz und verursacht Geschmack/Wirkung x2 (Ereignis/Eigenschaft)
+ tsiju     tsi      /Samen/ x1(s) ist/sind der/die Samen/Sporen/Saat [Körperteil] von Organismus x2 für Nachkommen/Sprösslinge x3
+?tsina sin          /Bühne/ x1 ist eine Bühne/Gestell/Podium/ein Schauplatz/[Gerüst] bei/in x2 und unterstützt x3, gemacht aus Material x4
+ tu    tuf          /jenes/ pro-sumti: jenes; entferntes demonstratives es; bezeichnet eine Sache entfernt von 
+Sprecher und Zuhörer
+ tubnu         tu'u /Rohr/ x1 ist eine Länge an Rohr/Kanal/Pfeife/hohler Zylinder [Form] aus Material x2, mit Hohlraum aus Material x3
+ tugni tug     tu'i /zustimmen/ x1 [Person] stimmt Person(en)/Position/Seite x2 zu, dass x3 (du'u) wahr ist in/über Angelegenheit x4
+ tujli tuj          /Tulpe/ x1 ist eine Tulpe (bestimmt durch die Form der Blüte) von Art/Sorte x2
+ tumla tum     tu'a /Land/ x1 ist eine Fläche Land an Ort x2; x1 ist Festland
+ tunba tub          /Geschwister/ x1 ist ein Geschwister von x2 über Bindung/Eltern x3/gemäß Standard x3
+ tunka tuk          /Kupfer/ x1 ist eine Menge an/enthält/besteht aus Kupfer (Cu); [Im übertragenen Sinn: rötlich, elektrischer Leiter]
+ tunlo tul     tu'o /schlucken/ x1 schluckt
+ tunta tun          /stechen/ x1 (Objekt, gewöhnlich spitz) sticht/stößt x2 (Opfer)
+ tuple tup     tu'e /Bein/ x1 ist ein Bein [Körperteil] von x2; [Im übertragenen Sinn: stützender Ast]
+ turni     tru      /regieren/ x1 regiert/verwaltet/leitet/beherrscht/ist ein Machthaber/Chef/Souverän über Volk/Gebiet/Domäne/Untertanen x2
+ tutci     tci      /Werkzeug/ x1 ist ein Werkzeug/Hilfsmittel/Utensilie/Instrument/Arbeitsgerät zum Tun von x2; [die Form bestimmt die Funktion]
+?tutra tut          /Gebiet/ x1 ist ein Gebiet/Gelände/Territorium/Raum von/gehörig zu/kontrolliert von x2
+*va    vaz          /dort/ Ort/Zeit Entfernung: nahe bei ...; dort bei ...; eine mittlere/kleine Entfernung von ...
+ vacri var          /Luft/ x1 ist eine Menge an Luft/gewöhnliche Atmosphäre von Planet x2, mit Zusammensetzung unter anderem x3
+ vajni vaj     vai  /wichtig/ x1 (Objekt/Ereignis) ist wichtig/bedeutend/wesentlich für x2 (Person/Ereignis) in Aspekt/aus Grund x3 (nu/ka)
+ valsi val vla      /Wort/ x1 ist ein Wort und bedeutet/bewirkt x2 in Sprache x3; (Adjektiv: x1 ist lexikalisch/wörtlich)
+*vamji vam     va'i /Wert/ x1 (ni) ist der entsprechende Wert von x2 [Gegenstand von Wert] für x3 ... Benutzung/Wertschätzung x4
+?vamtu vat          /erbrechen/ x1 erbricht/speit x2; x1 übergibt sich; [gewaltsamer] Ausstoß [des Mageninhalts]
+?vanbi vab          /Umgebung/ x1 (Einzelner/Masse) ist Teil der Umgebung/Umwelt/des Umfelds/Zusammenhangs/Kontexts von x2
+ vanci vac          /Abend/ x1 ist ein Abend [von Feierabend bis zum Schlaf, regional typisch] von Tag x2 an Ort x3
+ vanju van          /Wein/ x1 ist eine Menge an/enthält/besteht aus Wein von Frucht/Trauben x2
+ vasru vas     vau  /enthalten/ x1 enthält/fasst/nimmt Inhalte x2 auf; x1 ist ein Gefäß, das x2 enthält
+ vasxu vax     va'u /atmen/ x1 atmet x2 [Gas]
+ ve    vel          /vierter Tausch/ vierter Tausch; tauscht den ersten und vierten Platz
+*ve'e          ve'e /gesamter Raum Intervall/ Ort/Zeit Intervall: der gesamte Raum (rafsi wird verwendet um jeden Raum zu repräsentieren)
+ vecnu ven     ve'u /verkaufen/ x1 [Verkäufer] verkauft x2 [Waren/Dienstleistungen] an Käufer x3 für Preis x4
+ venfu vef          /sich rächen/ x1 nimmt Rache an/rächt sich an/zahlt es x2 heim (Person) für Unrecht x3 (nu) mit Rache/Vergeltung x4 (nu)
+ vensa ves          /Frühling/ x1 ist Frühling [erwärmende Jahreszeit] von Jahr x2 an Ort x3; (Adjektiv:) x1 ist frühlingshaft
+ verba ver     ve'a /Kind/ x1 ist ein Kind/Junges/Jugendlicher [eine junge Person] von Alter x2, unreif gemäß Standard x3
+*vi    viz          /hier/ Ort/Zeit-Entfernung: hier bei ...; bei, nahe oder eine sehr kleine Entfernung von ...
+ vibna vib          /Vagina/ x1 ist die Vagina [Körperteil] von x2
+?vidni              /Bildschirm/ x1 ist ein Bildschirm/Monitor/eine Anzeige [Maschine] und erfüllt Funktion x2
+ vidru vir          /Virus/ x1 ist ein Virus von Art/Gattung/mit bestimmender Eigenschaft x2 und fähig, x3 zu infizieren
+ vifne vif          /frisch/ (Adjektiv:) x1 ist frisch/unverdorben
+ vikmi vim     vi'i /ausscheiden/ x1 [Körper] scheidet Abfall x2 aus, von Quelle x3 mit Mittel/über Route x4
+ viknu vik          /viskos/ x1 ist dickflüssig/zähflüssig/viskos unter Bedingungen x2
+ vimcu vic     vi'u /entfernen/ x1 entfernt/zieht ab/nimmt weg x2 von x3 mit Ergebnis/Rückstand/Rest x4
+ vindu vid          /Gift/ x1 ist giftig/schädlich/ein Gift/Schadstoff für x2
+ vinji vij          /Flugzeug/ x1 ist ein Flugzeug/Fluggerät [fliegendes Transportmittel] zum Transportieren von Passagieren/Fracht x2, angetrieben durch x3
+?vipsi vip          /Vertreter/ x1 ist ein Stellvertreter/Abgeordneter/Delegierter/Vize-/Untergebener in Aspekt [oder Organisationsprinzip] x2 (ka) gegenüber Vorgesetzter x3
+ virnu     vri      /mutig/ x1 ist mutig/tapfer bei Handlung x2 (Ereignis) gemäß Standard x3
+ viska vis     vi'a /sehen/ x1 sieht/erblickt/nimmt optisch wahr x2 unter Bedingungen x3
+ vitci vit          /unregelmäßig/ x1 ist unregelmäßig/gelegentlich/stoßweise in Eigenschaft/Handlung/Aspekt x2
+ vitke         vi'e /Gast/ x1 ist ein Gast/Besucher von x2 an Ort/zu Ereignis x3; x1 besucht x2/x3
+ vitno         vi'o /dauerhaft/ x1 ist permanent/dauerhaft/beständig/bleibend/[ewig] in Eigenschaft x2 (ka) gemäß Standard x3 [erwarteter Zeitraum]
+ vlagi lag          /Vulva/ x1 ist die Vulva [Körperteil] von x2
+ vlile vil          /gewaltsam/ x1 ist ein Ereignis/Zustand/Akt der Gewalt
+ vlina              /Disjunktion/ x1 ist eine logische Disjunktion und sagt aus, dass x2 (du'u) und/oder x3 (du'u) wahr ist/sind
+*vlipa     vli      /mächtig/ x1 hat die Macht, um x2 zu verursachen/zustande zu bringen, unter Bedingungen x3; x1 ist mächtig/leistungsstark in Aspekt x2 unter Bedingungen x3
+ vo    von          /4/ Ziffer/Zahl: 4 (Ziffer)
+ vofli vol     voi  /fliegen/ x1 fliegt [in Luft/Atomsphäre] mit Auftrieb/Antrieb x2
+ voksa vok     vo'a /Stimme/ x1 ist eine Stimme/ein Sprechgeräusch von Individuum x2
+?vorme vor vro      /Tür/ x1 ist ein Eingang/Zugang(sweg) zwischen x2 und x3 von Struktur x4
+ vraga     vra      /Hebel/ x1 ist ein Hebel [Werkzeug] [von Gerät/Apparat] zum Tun von x2 [Funktion/Handlung] mit Drehpunkt x3 und Arm x4
+ vreji rej     vei  /Aufzeichnung/ x1 ist eine Aufzeichnung von x2 (Daten/Fakten/du'u) über x3 (Objekt/Ereignis) erhalten in Medium x4
+?vreta     vre      /liegen/ x1 liegt/ruht (aus)/rastet auf x2
+*vrici              /.../ x1 (Menge/Masse/Einzelne/r/s) ist gemischt/verschieden/... in Eigenschaft x2 (ka)
+?vrude vud     vu'e /Tugend/ x1 ist tugendhaft/rechtschaffen/heiligenmäßig/[moralisch gut/nett/heilig] gemäß Standard x2
+ vrusi vus     vu'i /Geschmack/ x1 (ka) ist der Geschmack von/ausgesendet von x2; x2 schmeckt nach/wie x1
+*vu    vuz          /dort drüber/ Ort/Zeit-Entfernung: weit von ...; an jenem ...; eine weite Entfernung von ...
+ vukro vur     vu'o /ukrainisch/ x1 repräsentiert die ukrainische Sprache/Kultur/Nationalität in Aspekt x2
+ xa    xav          /6/ Ziffer/Zahl: 6 (Ziffer)
+ xabju         xa'u /wohnen/ x1 wohnt/lebt/haust/bleibt in/bewohnt/ist ein Bewohner/Ansässiger von Ort/Lebensraum/Nest/Heimat/Wohnsitz
+ xadba xab          /Hälfte/ x1 ist die genaue/ungefähr die Hälfte von x2 gemäß Standard x3
+ xadni xad          /Körper/ x1 ist der Körper/Leichnam von x2; (Adjektiv:) x1 ist körperlich/leiblich
+ xagji              /hungern/ x1 hungert nach x2; x1 braucht/will Nahrung/Kraftstoff x2
+*xagri              /...Blasinstrument/ x1 ist eine Oboe/Klarinette/ein Saxophon [Musikinstrument mit Blatt] mit Blatt x2
+*xajmi xam          /komisch/ x1 ist lustig/komisch für x2 in Eigenschaft/Aspekt x3 (nu/ka); x3 ist das Lustige an x1 für x2
+ xaksu xak          /aufbrauchen/ x1 (Ereignis) verbraucht/braucht auf/erschöpft/leert/[verschwendet] x2 [Ressource]
+?xalbo              /leichtsinnig/ x1 ist leichtsinnig/leichtfertig/ist nicht ernst über x2 (Abstraktion) 
+ xalka xal          /Alkohol/ x1 ist eine Menge an/enthält/besteht aus Alkohol von Typ x2 aus Quelle/Prozess x3
+ xalni              /Panik/ x1 (Person) gerät in Panik/ist bestürzt/dreht durch wegen Krise x2 (Ereignis/Zustand)
+ xamgu xag     xau  /gut/ x1 (Objekt/Ereignis) ist gut/günstig/vorteilhaft/positiv/nett/[annehmbar] für x2 gemäß Standard x3
+ xampo xap     xa'o /Ampere/ x1 sind x2 Ampere [metrische Einheit] an Stromstärke (Default: 1) gemäß Standard x3
+ xamsi xas          /Meer/ x1 ist das Meer/die See/ein/der Ozean/Golf/[die Atmosphäre] von Planet x2 mit Flüssigkeit x3; (Adjektiv:) x1 ist marin
+?xance xan     xa'e /Hand/ x1 ist ein Hand [Körperteil] von x2; [Im übertragenen Sinn: betätigendes Werkzeug]
+ xanka              /nervös/ x1 ist nervös/aufgeregt/unruhig/besorgt über x2 (Abstraktion) unter Bedingungen x3
+?xanri xar          /imaginär/ x1 [Konzept] existiert in der Einbildung/Fantasie von/ist erfunden von/unwirklich für x2
+ xanto              /Elefant/ x1 ist ein Elefant von Art/Gattung x2
+ xarci xac     xa'i /Waffe/ x1 ist eine Waffe gegen x2 (verwendet) von x3
+ xarju xaj          /Schwein/ x1 ist ein Schwein/eine Sau/[ein Eber] [Schweinefleisch/Schinken/Speck-Produzent] von Art/Gattung x2
+?xarnu              /stur/ x1 ist eigensinnig/unbeugsam/stur gegen x2 über x3 (Ereignis/Zustand)
+ xasli              /Esel/ x1 ist eine Esel/ein Grautier von Art/Gattung x2
+?xasne              /Schweiß/ x1 ist der Schweiß/die Ausdünstung/Transpiration von Körper x2, ausgesondert durch Drüse(n)/Organ(e) x3
+ xatra         xa'a /Brief/ x1 ist ein Brief/(Send-)Schreiben/[Mitteilung] an beabsichtigtes Publikum x2 von Autor/Absender x3 mit Inhalt x4
+ xatsi xat          /1E-18/ x1 ist 1x10**-18 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ xazdo xaz zdo      /asiatisch/ x1 repräsentiert die asiatische Kultur/Nationalität/Geographie in Aspekt x2
+ xe    xel          /Fünfter Tausch/ Fünfter Tausch; tauscht den ersten und fünften Platz
+ xebni xen     xei  /hassen/ x1 hasst/verachtet x2 (Objekt/Abstraktion); x1 ist voll an Hass für x2; x2 ist x1 verhasst
+ xebro xeb bro      /hebräisch/ x1 repräsentiert hebräische/jüdische/israelische Kultur/Nationalität/Sprache in Aspekt x2
+ xecto xet cto      /100/ x1 ist ein Hundert [100; 1x10**2] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ xedja xej     xe'a /Kiefer/ x1 ist der Kiefer [Körperteil] von x2
+ xekri xek     xe'i /schwarz/ x1 ist schwarz/sehr dunkel gefärbt [Farbadjektiv]
+ xelso xes          /griechisch/ x1 repräsentiert griechische/hellenische Kultur/Nationalität/Sprache in Aspekt x2
+?xendo xed     xe'o /freundlich/ x1 (Person) ist freundlich/gütig/nett zu x2 in Handlung/Verhalten x3
+ xenru xer     xe'u /bereuen/ x1 bereut/bedauert (Abstraktion) x2; x1 ist reumütig/[reuevoll] über x2
+ xexso xex          /1E18/ x1 ist 1x10**18 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ xindo xin          /Hindi/ x1 repräsentiert Hindi-Sprache/-Kultur/-Religion in Aspekt x2
+ xinmo xim          /Tinte/ x1 ist eine Menge an Tinte von Farbe/Pigment x2 verwendet mit Schreibgerät x3
+ xirma xir     xi'a /Pferd/ x1 ist ein Pferd/[Fohlen/Hengst/Pony/eine Stute] von Art/Gattung x2
+ xislu xil     xi'u /Rad/ x1 ist ein Rad [Werkzeug] von Gerät/Fahrzeug x2, gemacht aus Material/mit Eigenschaften x3
+ xispo xip          /Hispanic/ x1 repräsentiert die Kultur/Nationalitäten der Hispanics in Aspekt x2
+ xlali     xla      /schlecht/ x1 ist schlecht für x2 gemäß Standard x3; x1 ist mangelhaft/unannehmbar für x2
+*xlura     xlu      /beeinflussen/ x1 (Handelnder) beeinflusst/lockt/verleitet x2 dazu, x3 [Handlung/Zustand] zu tun/sein, durch Einfluss/Zwang/Bedrohung/Drohung x4
+ xotli xol     xoi  /Hotel/ x1 ist ein Hotel/Gasthaus/Wohnheim/eine Herberge an Ort x2 geführt von x3
+ xrabo rab          /arabisch/ x1 repräsentiert die arabisch-sprechende Kultur/Nationalität in Aspekt x2
+ xrani         xai  /verletzen/ x1 (Ereignis) verletzt/beschädigt/schadet Opfer x2 in Eigenschaft x3 (ka) und daraus ergibt sich Verletzung x4 (Zustand)
+ xriso xis     xi'o /christlich/ x1 gehört zur christlichen Religion/Kultur/Nationalität in Aspekt x2
+ xruba xub          /Buchweizen/ x1 ist eine Menge an Buchweizen/Rhabarber/(Sauer-)ampfer von Art/Sorte x2
+ xruki xuk          /Truthahn/ x1 ist ein Truthahn [Essen/Vogel] von Art/Gattung x2
+?xrula rul          /Blüte/ x1 ist eine/die Blume/Blüte [Körperteil] von Pflanze/Art x2; (Adjektiv:) x1 ist geblümt
+?xruti     xru      /zurückbringen/ x1 (Handelnder) bringt x2 zurück zu Ursprungs-/früherem Zustand x3 von x4; x1 bewegt/gibt x2 zurück zu x3 von x4
+?xukmi xum     xu'i /Chemikalie/ x1 ist eine Substanz/Chemikalie/ein Medikament x2 (einzeln oder als Masse) mit Reinheit x3
+ xunre xun     xu'e /rot/ x1 ist rot/purpurn (Farbadjektiv)
+ xurdo xur     xu'o /Urdu/ x1 repräsentiert die Urdu-Sprache/Kultur/Nationalität in Aspekt x2
+?xusra xus     xu'a /behaupten/ x1 (Handelnder) macht geltend/behauptet/erklärt, dass x2 (du'u) wahr ist [kann verwendet werden für eine Erkenntnistheorie mit Autorität]
+ xutla xul          /glatt/ x1 ist glatt/eben/[weich/geschmeidig] in Oberfläche/Regelmäßigkeit
+ za'i  zaz          /Zustandsabstraktion/ Abstraktion: Zustand (Ereignis) Abstraktion; x1 ist der andauernde Zustand, dass [bridi] wahr ist
+*za'o          za'o /.../ Intervall-Ereignisumriss: setzt zu lang fort nach dem natürlichen Ende von ...; ... |     ----&gt;
+?zabna zan     za'a /positiv/ x1 hat eine(n) positive(n) Nebenbedeutung/Bedeutungsumfang/Assoziation/Sinn x2, verwendet von x3
+?zajba zaj          /Sportler/ x1 ist ein Sportler/Athlet in x2/und erbringt Leistung(en) x2
+ zalvi zal          /zermahlen/ x1 [einzelne oder Masse an harten Oberflächen] zermahlt/zerreibt/pulverisiert/zerdrückt x2 und erzeugt Pulver x3
+?zanru zar     zau  /anerkennen/ x1 billigt/befürwortet Plan/Aktion x2 (Objekt/Ereignis)
+ zarci zac     zai  /Markt/ x1 ist ein Markt/Geschäft/Laden/Kaufhaus und verkauft/handelt mit x2, betrieben von/mit Beteiligten x3
+ zargu zag     za'u /Gesäß/ x1 ist das Gesäß/Hinterteil/der Hintern/Arsch [Körperteil] von x2; [Im übertragenen Sinn: runde Oberfläche, Auflage/Rückhalt]
+?zasni zas          /temporär/ x1 ist temporär/befristet/kurzzeitig/vorläufig/nicht dauerhaft/es wird eine Veränderung erwartet in Eigenschaft x2 (ka) gemäß Standard/Erwartung x3
+ zasti zat     za'i /existieren/ x1 existiert/ist real/tatsächlich/Realität für x2 gemäß Metaphysik x3
+ zbabu bab          /Seife/ x1 ist eine Menge an/enthält/besteht aus Seife aus Quelle x2 mit einer Zusammensetzung unter anderem x3
+ zbani              /Bucht/ x1 ist eine Bucht von/in Küste x2
+ zbasu     zba      /herstellen/ x1 macht/stellt her/fertigt an/baut/setzt zusammen/erschafft x2 aus Materialien/Teilen/Komponenten x3
+?zbepi     zbe      /Podest/ x1 ist ein Podest/Sockel/Ständer/Fundament und stützt/trägt x2 (Objekt/Ereignis), aus Materialien/mit Eigenschaften x3
+ zdani     zda      /Nest/ x1 ist ein Nest/Haus/(Tier-)Bau/Höhle/[Heim/zu Hause] von/für x2
+ zdile     zdi      /amüsant/ x1 (Abstraktion) ist amüsant/unterhaltsam für x2 in Eigenschaft/Aspekt x3; x3 ist die Eigenschaft, die x2 an x1 amüsiert
+ ze    zel          /7/ Ziffer/Zahl: 7 (Ziffer)
+?ze'e          ze'e /gesamtes Zeitintervall/ Zeit-Intervall: die gesamte Zeit (das rafsi wird verwendet um jedes Zeitintervall darzustellen)
+*ze'o  zev     ze'o /nach außen/ Ort-Zeit-Beziehung/Richtung; ...
+ zekri zer     zei  /Verbrechen/ x1 (Ereignis/Zustand) ist ein strafbares Verbrechen/Delikt/[Tabu/Sünde] für Personen/Kultur/Richter/Geschworene x2
+ zenba zen     ze'a /zunehmen/ x1 (Opfer) wächst an/steigt/nimmt zu/wird erhöht/erweitert in Eigenschaft/Quantität x2 um Menge x3
+ zepti zep          /1E-21/ x1 ist 1x10**-21 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+ zetro zet          /1E21/ x1 ist 1x10**21 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+?zgana     zga      /beobachten/ x1 bemerkt/beobachtet/[stellt fest]/betrachtet/bewacht x2 und verwendet dabei Sinne/Mittel x3 unter Bedingungen x4
+ zgike     zgi gi'e /Musik/ x1 ist Musik gespielt/aufgeführt/produziert von x2 (Ereignis)
+?zi'o  zil          /nicht-existierendes es/ pro-sumti: füllt einen sumti-Platz und entfernt diesen von der selbri-Platzstruktur; verändert die selbri-Semantik
+ zifre zif     zi'e /frei/ x1 ist/steht es frei, x2 (Ereignis/Zustand) zu tun/sein, unter Bedingungen x3
+ zinki zin     zi'i /Zink/ x1 ist eine Menge an/enthält/besteht aus Zink (Zn); [Im übertragenen Sinn: hartes Metall]
+ zirpu zir     zi'u /lila/ x1 ist lila/violett [Farbadjektiv]
+ zivle ziv vle      /investieren/ x1 (Handelnder) investiert Ressourcen x2 in Investition/Anlage x3 und erwartet Erfolg/Gewinn x4 (Objekt(e)/Ereignis)
+ zmadu     zma mau  /mehr/ x1 überschreitet/übertrifft/ist mehr als x2 in Eigenschaft/Quantität x3 (ka/ni) um Menge/Überschuss x4
+ zmiku     zmi      /automatisch/ x1 ist automatisch in Funktion x2 unter Bedingungen x3
+ zo'a  zon     zo'a /tangential zu/ Ort-Zeit-Beziehung/Richtung; tangential zu .../an ... vorbeigehend
+*zo'i  zor     zo'i /nach innen/ Ort-Zeit-Beziehung/Richtung; näher als .../ein ...
+?zu'o  zum          /Aktivität Abstraktion/ Abstraktion: Aktivität (Ereignis) Abstraktion; x1 ist eine abstrakte Aktivität/Handlung von [bridi] zusammengesetzt aus x2
+*zukte zuk     zu'e /handeln/ x1 ist ein willensmäßiges Wesen/Wesen mit freiem Willen und verwendet Mittel/unternimmt Handlung x2 für Zweck/Ziel x3/um x3 zu beenden
+ zumri     zmu      /Mais/ x1 ist eine Menge an Mais [Korn] von Art/Sorte x2
+ zungi zug          /Schuld/ x1 fühlt Schuld/Reue über/wegen x2 (Abstraktion)
+ zunle zul          /links/ x1 ist links/zur Linken von x2, das x3 gegenübersteht/in Bezugssystem x3
+?zunti zun     zu'i /behindern/ x1 (Ereignis/Zustand) stört/behindert/beeinträchtigt/unterbricht x2 (Ereignis/Zustand/Prozess) auf Grund von Qualität x3 (ka)
+ zutse zut tse      /sitzen/ x1 sitzt [nimmt eine Sitzposition an] auf Oberfläche x2
+*zvati     zva      /.../ x1 (Objekt/Ereignis) ist an/in/anwesend in x2 (Ereignis/Ort)
