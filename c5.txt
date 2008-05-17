@@ -1,0 +1,13 @@
+Zeiten, Tage, Daten (und Abstraktionen)
+---------------------------------------
+
+Wie spät ist es?
+~~~~~~~~~~~~~~~~
+
+Eine art, nach der Uhrzeit zu fragen ist `ma tcika ti`. Wir kennen ma schon als `sumti`-Fragewort, also muss `tcika` ein `selbri` mit der Bedeutung "ist die Uhrzeit". Die Platzstruktur von 'tcika' ist:
+
+***********************************************************************************************************************
+x1 [Stunden, {Minuten}, {Sekunden}] ist der Zeitpunkt/die Tageszeit/Stunde von Zustand/Ereignis x2 an Tag x3 und Ort x4
+***********************************************************************************************************************
+
+Also existiert in Lojban die Zeit nicht als abstraktes Konzept: Zeitpunkte sind immer die Zeitpunkte von 'etwas'. Darum fragt man danach, was der Zeitpunkt von `ti` ist, also "dieses Ereigniss/Ding", oder, in anderen Worten, "jetzt".
