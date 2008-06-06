@@ -6,8 +6,33 @@ Wie spät ist es?
 
 Eine art, nach der Uhrzeit zu fragen ist `ma tcika ti`. Wir kennen ma schon als `sumti`-Fragewort, also muss `tcika` ein `selbri` mit der Bedeutung "ist die Uhrzeit". Die Platzstruktur von 'tcika' ist:
 
-***********************************************************************************************************************
+-----------------------------------------------------------------------------------------------------------------------
 x1 [Stunden, {Minuten}, {Sekunden}] ist der Zeitpunkt/die Tageszeit/Stunde von Zustand/Ereignis x2 an Tag x3 und Ort x4
-***********************************************************************************************************************
+-----------------------------------------------------------------------------------------------------------------------
 
 Also existiert in Lojban die Zeit nicht als abstraktes Konzept: Zeitpunkte sind immer die Zeitpunkte von 'etwas'. Darum fragt man danach, was der Zeitpunkt von `ti` ist, also "dieses Ereigniss/Ding", oder, in anderen Worten, "jetzt".
+
+Natürlich wäre eine komplette Antwort sehr lang, aber da wir alle plätze nach dem letzten, den wir brauchen, weglassen können, würde eine typische Unterhaltung so aussehen:
+
+- `ma tcika ti`
+- `li pa pa`
+- Wie spät ist es?
+- Elf.
+
+`li` wird hier benutzt, da wir über eine Zahl sprechen. `li pa pa` ist die abkürzung von `li pa pa cu tcika ti` -- "Die Zahl elf ist die Zeit von diesem Ereignis".
+
+Präzisere Angaben kann man mit Hilfe von `pi'e` machen. `pi'e` führt wie `pi` kleinere Teile einer Zahl ein, aber im Gegensatz zu `pi` muss es sich nicht um eine dezimale Unterteilung handeln. Zusätzlich dazu muss die Art der Unterteilung durch `pi'e` innerhalb einer Zahl nicht gleich sein. Mit `pi'e` kann man also Stunden von Minuten (sechzigstel Stunden) und Tage von Stunden (vierundzwanzigstel Tage) trennen. `pi'e` bedeutet also "Teil", nicht "Komma". Eine alternative zum obigen Gespräch wäre also
+
+- `ma tcika ti`
+- `li pa pa pi'e mu`
+- Wie spät ist es?
+- Fünf nach Elf (Die Zahl 11 und 5 Teile)
+
+oder wenn man besonders präzise sein will
+
+- `ma tcika ti`
+- `li pa pa pi'e mu pi'e pa bi`
+- Wie spät ist es?
+- Fünf nach Elf und achtzehn Sekunden (Die Zahl 11 und 5 Teile und 18 Teilesteile)
+
+Ist es jetzt aber nicht fünf nach elf, sondern fünf vor elf, könnten wir `li pa no pi'e mu mu` (10:55) sagen, aber wir können auch `li pa pa pi'e ni'u mu` sagen; `ni'u` ist in Lojban das Minuszeichen (für negative Zahlen, nicht für die Subtraktion) -- Wir sagen also "11:-5".
